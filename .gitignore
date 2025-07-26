@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.log
+.env
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
+
+# OS
+.DS_Store
+
+# JSON/Mock data (可选忽略或保留)
+data/
