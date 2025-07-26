@@ -1,0 +1,3165 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "1 Unstoppable Artificial Intelligence  ( AI )  Stock to Buy Before It Soars 178% to a $1 Trillion by 2028, According to 1 Wall Street Analyst",
+      "url": "https://www.fool.com/investing/2025/07/25/1-unstoppable-artificial-intelligence-ai-stock-to/",
+      "time_published": "20250725T070200",
+      "authors": ["Danny Vena"],
+      "summary": "Decades of experience and a novel approach could drive this AI specialist much higher.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F826005%2Ftwo-young-professionals-looking-at-a-laptop-in-a-data-center.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999696"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.239601,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.042271",
+          "ticker_sentiment_score": "0.186945",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.084423",
+          "ticker_sentiment_score": "0.195339",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.042271",
+          "ticker_sentiment_score": "0.186945",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AWON",
+          "relevance_score": "0.042271",
+          "ticker_sentiment_score": "0.091734",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.042271",
+          "ticker_sentiment_score": "0.186945",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.084423",
+          "ticker_sentiment_score": "0.124088",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "IBM Boosts Forecast on AI and Red Hat",
+      "url": "https://www.fool.com/data-news/2025/07/25/ibm-boosts-forecast-on-ai-and-red-hat/",
+      "time_published": "20250725T023805",
+      "authors": ["JesterAI"],
+      "summary": "International Business Machines ( NYSE:IBM ) reported 2Q 2025 earnings on July 23, 2025, delivering $17 billion in revenue and $4.8 billion in first-half free cash flow, driven by standout software and infrastructure gains.",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/79b766e4527704fb4e4eec7aac870a082e9907fc-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999996"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.361776,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.54816",
+          "ticker_sentiment_score": "0.490534",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.074926",
+          "ticker_sentiment_score": "0.113108",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.074926",
+          "ticker_sentiment_score": "0.113108",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Markets, Data, Earnings All Mixed",
+      "url": "https://www.zacks.com/stock/news/2614678/markets-data-earnings-all-mixed",
+      "time_published": "20250724T230700",
+      "authors": ["Mark Vickery"],
+      "summary": "The blue-chip Dow followed its +500-point Wednesday by selling off -316 points Thursday.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/09/2154.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.976671"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.064458,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.040607",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.040607",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PSX",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.040607",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DECK",
+          "relevance_score": "0.213674",
+          "ticker_sentiment_score": "0.073613",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.348592",
+          "ticker_sentiment_score": "0.235824",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AN",
+          "relevance_score": "0.072",
+          "ticker_sentiment_score": "0.033162",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.040607",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Amazon  ( AMZN )  Rises Higher Than Market: Key Facts",
+      "url": "https://www.zacks.com/stock/news/2614324/amazon-amzn-rises-higher-than-market-key-facts",
+      "time_published": "20250724T214504",
+      "authors": ["Zacks Equity Research"],
+      "summary": "In the closing of the recent trading day, Amazon (AMZN) stood at $232.23, denoting a +1.73% move from the preceding trading day.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default197.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.983783"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.246075,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.600271",
+          "ticker_sentiment_score": "0.323808",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "From Euphoria to Entrepreneurship: Sydney Sweeney's Lingerie Brand Gets Bezos Boost - Snap  ( NYSE:SNAP ) , Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/news/topics/25/07/46615360/from-euphoria-to-entrepreneurship-sydney-sweeneys-lingerie-brand-gets-bezos-boost",
+      "time_published": "20250724T193125",
+      "authors": ["Paula Tudoran"],
+      "summary": "Sydney Sweeney is preparing to debut a lingerie brand reportedly backed by Amazon AMZN founder investor Jeff Bezos and his wife, Lauren Sánchez. The Emmy-nominated actress, best known for her roles in HBO's \"Euphoria\" and \"The White Lotus,\" has spent the last year building what insiders describe ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Sydney-Sweeney-At-The-Lacma-Artfilm-Gala_1.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        }
+      ],
+      "overall_sentiment_score": 0.245852,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.1172",
+          "ticker_sentiment_score": "0.167545",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DRVN",
+          "relevance_score": "0.1172",
+          "ticker_sentiment_score": "0.073208",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How's MELI Using Argentina's Economic Recovery to Fuel its Growth?",
+      "url": "https://www.zacks.com/stock/news/2613649/hows-meli-using-argentinas-economic-recovery-to-fuel-its-growth",
+      "time_published": "20250724T175400",
+      "authors": ["Zacks Equity Research"],
+      "summary": "MercadoLibre rides Argentina's economic rebound with booming revenues, cross-border expansion, and bold fintech ambitions.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/31/1513.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.347008,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MELI",
+          "relevance_score": "0.884592",
+          "ticker_sentiment_score": "0.524925",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.20698",
+          "ticker_sentiment_score": "0.232643",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Spotify Set to Report Q2 Earnings: Buy, Sell or Hold the Stock?",
+      "url": "https://www.zacks.com/stock/news/2613396/spotify-set-to-report-q2-earnings-buy-sell-or-hold-the-stock",
+      "time_published": "20250724T153900",
+      "authors": ["Arghyadeep Bose"],
+      "summary": "SPOT's soaring stock and booming user growth are about to face a test as earnings risks and valuation concerns weigh prior to second-quarter 2025 results.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/cf/734.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.998287"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.228473,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPOT",
+          "relevance_score": "0.729067",
+          "ticker_sentiment_score": "0.344594",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.21686",
+          "ticker_sentiment_score": "0.180382",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.21686",
+          "ticker_sentiment_score": "0.180382",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Inquiry Into Amazon.com's Competitor Dynamics In Broadline Retail Industry - Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/insights/news/25/07/46605715/inquiry-into-amazon-coms-competitor-dynamics-in-broadline-retail-industry",
+      "time_published": "20250724T150101",
+      "authors": ["Benzinga Insights"],
+      "summary": "Amidst the fast-paced and highly competitive business environment of today, conducting comprehensive company analysis is essential for investors and industry enthusiasts. In this article, we will delve into an extensive industry comparison, evaluating Amazon.com AMZN in comparison to its major ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.928769"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.5855"
+        }
+      ],
+      "overall_sentiment_score": 0.282279,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.202932",
+          "ticker_sentiment_score": "0.203569",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Top Drone Tech Stocks to Add to Your Portfolio for Strong Returns",
+      "url": "https://www.zacks.com/stock/news/2612870/top-drone-tech-stocks-to-add-to-your-portfolio-for-strong-returns",
+      "time_published": "20250724T144400",
+      "authors": ["Vaishali Doshi"],
+      "summary": "ONDS, DPRO and UMAC are some stocks in the drone technology space that are worthy of investment consideration.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8b/79056.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.021971,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DPRO",
+          "relevance_score": "0.18223",
+          "ticker_sentiment_score": "0.035261",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RCAT",
+          "relevance_score": "0.036756",
+          "ticker_sentiment_score": "-0.112829",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ONDS",
+          "relevance_score": "0.217834",
+          "ticker_sentiment_score": "0.001767",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OPTGF",
+          "relevance_score": "0.109956",
+          "ticker_sentiment_score": "0.018482",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.146247",
+          "ticker_sentiment_score": "-0.006625",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.036756",
+          "ticker_sentiment_score": "-0.00493",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Amazon  ( AMZN )  Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "url": "https://www.zacks.com/stock/news/2612560/amazon-amzn-earnings-expected-to-grow-what-to-know-ahead-of-next-weeks-release",
+      "time_published": "20250724T140026",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Amazon (AMZN) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default344.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        }
+      ],
+      "overall_sentiment_score": 0.185888,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EBAY",
+          "relevance_score": "0.177475",
+          "ticker_sentiment_score": "0.050811",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.263467",
+          "ticker_sentiment_score": "0.219421",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Only 34% of Americans Feel on Track for Retirement. Here Are 2 Stocks to Buy Now and Hold for Decades.",
+      "url": "https://www.fool.com/investing/2025/07/24/americans-off-track-for-retirement-stocks-to-hold/",
+      "time_published": "20250724T125000",
+      "authors": ["Chris Neiger"],
+      "summary": "These two popular stocks could help fund your retirement.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825894%2Fgettyimages-2196790819-1201x800-5b2df79.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.191418,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.058903",
+          "ticker_sentiment_score": "0.063246",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RIVN",
+          "relevance_score": "0.058903",
+          "ticker_sentiment_score": "0.034012",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COST",
+          "relevance_score": "0.395012",
+          "ticker_sentiment_score": "0.297959",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.493965",
+          "ticker_sentiment_score": "0.352675",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.058903",
+          "ticker_sentiment_score": "0.122175",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "If You'd Invested $10,000 in Amazon.com  ( AMZN )  Stock 20 Years Ago, Here's How Much You'd Have Today",
+      "url": "https://www.fool.com/investing/2025/07/24/if-youd-invested-10000-in-amazoncom-stock-20-years/",
+      "time_published": "20250724T110800",
+      "authors": ["Selena Maranjian"],
+      "summary": "This internet pioneer has generated some amazing returns.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825820%2Fgetty-curious-surprised-person-closer-look-wow.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.365911,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.377142",
+          "ticker_sentiment_score": "0.403273",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "4 Artificial Intelligence  ( AI )  Stocks That Could Soar in the Second Half of 2025",
+      "url": "https://www.fool.com/investing/2025/07/24/4-artificial-intelligence-ai-stocks-that-could-soa/",
+      "time_published": "20250724T093000",
+      "authors": ["Keithen Drury"],
+      "summary": "Artificial intelligence ( AI ) investing remains the prevailing market theme, and it doesn't appear to be slowing. Even though 2025 is halfway over, there are still plenty of AI stocks that are worth your investment dollars and could see impressive growth throughout the rest of the year.Among the ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825619%2Fperson-celebrating-in-their-office.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.246405,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.226301",
+          "ticker_sentiment_score": "0.075522",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.368227",
+          "ticker_sentiment_score": "0.193556",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.298567",
+          "ticker_sentiment_score": "0.024723",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is D-Wave Quantum Stock a Buy?",
+      "url": "https://www.fool.com/investing/2025/07/24/is-d-wave-quantum-stock-a-buy/",
+      "time_published": "20250724T084600",
+      "authors": ["Keith Speights"],
+      "summary": "Stocks can be a lot like surfers. Sometimes, they both catch a big wave and ride it for as long as they can. That's what's happening with D-Wave Quantum ( NYSE: QBTS ) right now. The company even has \"wave\" in its name.The wave D-Wave Quantum is riding is the rapidly growing interest in quantum ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F826046%2Fquantum-computing.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.197169,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "-0.034549",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QUBT",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "-0.034549",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "-0.034549",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MA",
+          "relevance_score": "0.05749",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QBTS",
+          "relevance_score": "0.572379",
+          "ticker_sentiment_score": "0.374371",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IONQ",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "-0.034549",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RGTI",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "-0.034549",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.114682",
+          "ticker_sentiment_score": "-0.034549",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Think It's Too Late to Buy Amazon? Here's the Biggest Reason Why There's Still Time.",
+      "url": "https://www.fool.com/investing/2025/07/24/think-its-too-late-buy-amazon-big-reason-why/",
+      "time_published": "20250724T081000",
+      "authors": ["Jennifer Saibil"],
+      "summary": "AWS is the largest cloud service company in the world and could have the most to benefit as clients move to the cloud.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824269%2Famazon-electric-delivery-bike.png&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        }
+      ],
+      "overall_sentiment_score": 0.279679,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.693563",
+          "ticker_sentiment_score": "0.548765",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Could Roku Stock 10x by 2030?",
+      "url": "https://www.fool.com/investing/2025/07/24/could-roku-stock-10x-by-2030/",
+      "time_published": "20250724T080500",
+      "authors": ["Will Healy"],
+      "summary": "In many respects, Roku ( NASDAQ: ROKU ) stock is a victim of varying expectations. Pandemic-driven optimism about its business model took shares to a high of more than $490 per share in 2021 before higher spending and falling expectations wiped out more than 90% of its value at one point.While ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825040%2Froku.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.54554"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.138895,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.057352",
+          "ticker_sentiment_score": "0.104958",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.057352",
+          "ticker_sentiment_score": "0.151983",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ROKU",
+          "relevance_score": "0.828345",
+          "ticker_sentiment_score": "0.230756",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.057352",
+          "ticker_sentiment_score": "0.104958",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.170878",
+          "ticker_sentiment_score": "0.040689",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zacks Investment Ideas feature highlights: Range Nuclear Renaissance Index ETF, GE Vernova, Talen, Amazon and Rolls-Royce",
+      "url": "https://www.zacks.com/stock/news/2611103/zacks-investment-ideas-feature-highlights-range-nuclear-renaissance-index-etf-ge-vernova-talen-amazon-and-rolls-royce",
+      "time_published": "20250724T075200",
+      "authors": ["Zacks Equity Research"],
+      "summary": "GE Vernova surges to record highs as AI-driven nuclear energy demand powers a broad rally in next-gen energy stocks.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/53/49.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999956"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.857896"
+        }
+      ],
+      "overall_sentiment_score": 0.296627,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.032916",
+          "ticker_sentiment_score": "0.128296",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RYCEF",
+          "relevance_score": "0.195551",
+          "ticker_sentiment_score": "0.109302",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.032916",
+          "ticker_sentiment_score": "-0.085816",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CEG",
+          "relevance_score": "0.032916",
+          "ticker_sentiment_score": "-0.05163",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HTHIF",
+          "relevance_score": "0.032916",
+          "ticker_sentiment_score": "0.161484",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GEV",
+          "relevance_score": "0.408353",
+          "ticker_sentiment_score": "0.298525",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.163465",
+          "ticker_sentiment_score": "0.141418",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Where Will Nvidia Stock Be in 10 Years?",
+      "url": "https://www.fool.com/investing/2025/07/24/where-will-nvidia-stock-be-in-10-years/",
+      "time_published": "20250724T071000",
+      "authors": ["Will Ebiefung"],
+      "summary": "It's well known that long-term investing is key to sustainable returns in the stock market. But once your time horizon expands from a couple of years to a decade or more, some new risks emerge. Over that time frame, technology can change dramatically, and once-dominant companies may slowly fade ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825799%2Fman-shocked-at-stock-prices-investor-analyst.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.122658,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.059785",
+          "ticker_sentiment_score": "0.084408",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.451494",
+          "ticker_sentiment_score": "0.123414",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.059785",
+          "ticker_sentiment_score": "0.084408",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.059785",
+          "ticker_sentiment_score": "-0.013045",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Netflix Continues to Dominate",
+      "url": "https://www.fool.com/investing/2025/07/23/netflix-continues-to-dominate/",
+      "time_published": "20250723T203700",
+      "authors": ["Motley Fool Staff"],
+      "summary": "Earnings season is rolling along!",
+      "banner_image": "https://g.foolcdn.com/editorial/images/826023/netflix-continues-to-dominate.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.928139"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.890401"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.185291,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.088659",
+          "ticker_sentiment_score": "0.089842",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PYPL",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.033301",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.057064",
+          "ticker_sentiment_score": "0.125193",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.025379",
+          "ticker_sentiment_score": "0.113593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.100669",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NTDOF",
+          "relevance_score": "0.012691",
+          "ticker_sentiment_score": "0.067577",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.100669",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMGTF",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.106378",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MELI",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.031721",
+          "ticker_sentiment_score": "0.082016",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RBLX",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.048544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.012691",
+          "ticker_sentiment_score": "0.03957",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.040533",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:UST",
+          "relevance_score": "0.012691",
+          "ticker_sentiment_score": "0.051044",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Buy GE Vernova and Soaring AI-Boosted Nuclear Energy Stocks?",
+      "url": "https://www.zacks.com/commentary/2609081/buy-ge-vernova-and-soaring-ai-boosted-nuclear-energy-stocks",
+      "time_published": "20250723T203300",
+      "authors": ["Benjamin Rains"],
+      "summary": "GEV's Q2 cemented its standing as one of the biggest long-term winners in the AI-boosted energy boom across nuclear and beyond. Talen, Rolls-Royce, and other nuclear energy stocks are worth buying as well.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/80/93302.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999701"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.857896"
+        }
+      ],
+      "overall_sentiment_score": 0.296646,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.033421",
+          "ticker_sentiment_score": "0.128552",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RYCEF",
+          "relevance_score": "0.198493",
+          "ticker_sentiment_score": "0.137238",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.033421",
+          "ticker_sentiment_score": "-0.086006",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CEG",
+          "relevance_score": "0.033421",
+          "ticker_sentiment_score": "-0.043894",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HTHIF",
+          "relevance_score": "0.033421",
+          "ticker_sentiment_score": "0.161781",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GEV",
+          "relevance_score": "0.414035",
+          "ticker_sentiment_score": "0.329511",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.16594",
+          "ticker_sentiment_score": "0.149774",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Amazon's AI-Powered AWS, Efficiency Gains, And Consumer Demand Fuel Bullish Q2 Outlook - Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/reiteration/25/07/46584716/amazons-ai-powered-aws-efficiency-gains-and-consumer-demand-fuel-bullish-q2-out",
+      "time_published": "20250723T191416",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Analyst sees Q2 profit at $17.8B and sales at $164B, beating Street on strong retail, FX tailwinds, and rising AI demand. AWS growth, cost cuts, and Prime Day could drive Q3 upside; BofA lifts Amazon price forecast from $248 to $265.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/23/Amazon.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999956"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.918141"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.313678,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "0.057223",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.046363",
+          "ticker_sentiment_score": "0.244453",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "0.215771",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.358152",
+          "ticker_sentiment_score": "0.315421",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.046363",
+          "ticker_sentiment_score": "0.10955",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.046363",
+          "ticker_sentiment_score": "0.10955",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MongoDB Intensifies Focus on Subscriptions: What's the Path Ahead?",
+      "url": "https://www.zacks.com/stock/news/2608753/mongodb-intensifies-focus-on-subscriptions-whats-the-path-ahead",
+      "time_published": "20250723T172900",
+      "authors": ["Zacks Equity Research"],
+      "summary": "MDB pushes deeper into enterprise and AI with a sharpened focus on subscriptions and global developer adoption.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.266367,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.249744",
+          "ticker_sentiment_score": "0.113918",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.249744",
+          "ticker_sentiment_score": "0.264611",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MDB",
+          "relevance_score": "0.797056",
+          "ticker_sentiment_score": "0.428994",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Top Cryptocurrency Stocks to Buy Amid Regulatory Tailwinds",
+      "url": "https://www.zacks.com/stock/news/2608633/top-cryptocurrency-stocks-to-buy-amid-regulatory-tailwinds",
+      "time_published": "20250723T164800",
+      "authors": ["Aniruddha Ganguly"],
+      "summary": "Here, we pick three stocks, IREN, CIFR and HOOD, which are well-poised to benefit from the growing proliferation of Bitcoin and other cryptocurrencies.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/2e/87002.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.998626"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.241093,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.245548",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CME",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.152848",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CIFR",
+          "relevance_score": "0.16117",
+          "ticker_sentiment_score": "0.145776",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.245548",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.121241",
+          "ticker_sentiment_score": "0.198471",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.31583",
+          "ticker_sentiment_score": "0.11337",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.088388",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:DOGE",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.088388",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ADA",
+          "relevance_score": "0.081001",
+          "ticker_sentiment_score": "0.088388",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Amazon Buys Into AI Wearables: Meet Bee, The Company That Listens And Records Your Conversations - Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46578999/amazon-buys-into-ai-wearables-meet-bee-the-company-that-listens-and-records-your-conversations",
+      "time_published": "20250723T161346",
+      "authors": ["Chris Katje"],
+      "summary": "Amazon.com Inc is acquiring an AI wearables company. The acquisition could boost Amazon's presence in the AI hardware space. A new wave of value and momentum stocks could be setting up for major moves-and Tim Melvin will name them live this Wednesday. Secure access here.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/23/Amazon-logo-on-building.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Mergers",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.277594,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.082677",
+          "ticker_sentiment_score": "0.081654",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.082677",
+          "ticker_sentiment_score": "0.177164",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.396261",
+          "ticker_sentiment_score": "0.432965",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Understanding Amazon.com's Position In Broadline Retail Industry Compared To Competitors - Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/insights/news/25/07/46576027/understanding-amazon-coms-position-in-broadline-retail-industry-compared-to-competitors",
+      "time_published": "20250723T150051",
+      "authors": ["Benzinga Insights"],
+      "summary": "In today's rapidly evolving and fiercely competitive business landscape, it is crucial for investors and industry analysts to conduct comprehensive company evaluations. In this article, we will undertake an in-depth industry comparison, assessing Amazon.com AMZN alongside its primary competitors ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.928769"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.658903"
+        }
+      ],
+      "overall_sentiment_score": 0.28123,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.197951",
+          "ticker_sentiment_score": "0.194875",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How to Find Strong Buy Retail and Wholesale Stocks Using the Zacks Rank",
+      "url": "https://www.zacks.com/stock/news/2607275/how-to-find-strong-buy-retail-and-wholesale-stocks-using-the-zacks-rank",
+      "time_published": "20250723T130003",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Finding strong, market-beating stocks with a positive earnings outlook becomes easier with the Zacks Rank.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default139.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.998917"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.989041"
+        }
+      ],
+      "overall_sentiment_score": 0.340094,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.159569",
+          "ticker_sentiment_score": "0.381337",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AWON",
+          "relevance_score": "0.053509",
+          "ticker_sentiment_score": "0.354991",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "NatWest To Overhaul Digital Banking With AWS, Accenture - Accenture  ( NYSE:ACN ) , Amazon.com  ( NASDAQ:AMZN ) , NatWest Group  ( NYSE:NWG ) ",
+      "url": "https://www.benzinga.com/markets/large-cap/25/07/46566864/natwest-to-overhaul-digital-banking-with-aws-accenture",
+      "time_published": "20250723T102324",
+      "authors": ["Akanksha Bakshi"],
+      "summary": "NatWest to streamline digital operations and enhance customer service with AI-led infrastructure overhaul. Accenture and AWS to provide cloud, data, and analytics tools for next-gen personalized banking solutions.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/23/Amazon-Web-Services.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        }
+      ],
+      "overall_sentiment_score": 0.407587,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.08183",
+          "ticker_sentiment_score": "0.17689",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.392537",
+          "ticker_sentiment_score": "0.406876",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.162802",
+          "ticker_sentiment_score": "0.071811",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NWG",
+          "relevance_score": "0.462395",
+          "ticker_sentiment_score": "0.461814",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Should You Buy Amazon Stock Before July 31?",
+      "url": "https://www.fool.com/investing/2025/07/23/should-you-buy-amazon-stock-before-july-31/",
+      "time_published": "20250723T093800",
+      "authors": ["Anthony Di Pizio"],
+      "summary": "A new quarterly earnings season is officially underway in corporate America. Hundreds of companies will release their results for the second quarter of 2025 ( ended June 30 ) over the next few weeks, but Wall Street will be particularly focused on the multitrillion-dollar tech giants that are ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825865%2Famazon-locker-with-package-inside.png&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.990999"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999993"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.17416,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.040078",
+          "ticker_sentiment_score": "0.156211",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.040078",
+          "ticker_sentiment_score": "-0.007804",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.486415",
+          "ticker_sentiment_score": "0.221027",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "10 No-Brainer Artificial Intelligence  ( AI )  Stocks to Buy Right Now",
+      "url": "https://www.fool.com/investing/2025/07/23/10-no-brainer-industry-stocks-to-buy-right-now/",
+      "time_published": "20250723T093000",
+      "authors": ["Keithen Drury"],
+      "summary": "Although the artificial intelligence ( AI ) arms race has been underway since the start of 2023, there is no shortage of stocks that remain excellent investments at present. We're far from reaping the benefits of the rise of AI across the entire economy, and significant infrastructure still needs ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F823785%2Fimage-of-artificial-intelligence-ai-with-data-links.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.194804,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.221212",
+          "ticker_sentiment_score": "0.237975",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "-0.009596",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.133841",
+          "ticker_sentiment_score": "-0.049708",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ANET",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "-0.039676",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.177802",
+          "ticker_sentiment_score": "-0.013213",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SNPS",
+          "relevance_score": "0.177802",
+          "ticker_sentiment_score": "0.01441",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DLR",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "0.130598",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.177802",
+          "ticker_sentiment_score": "0.113904",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "-0.06215",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Amazon.com, Meta Platforms, Air T and Crown Crafts",
+      "url": "https://www.zacks.com/stock/news/2606512/the-zacks-analyst-blog-highlights-nvidia-amazoncom-meta-platforms-air-t-and-crown-crafts",
+      "time_published": "20250723T092200",
+      "authors": ["Zacks Equity Research"],
+      "summary": "NVDA, AMZN, META, AIRT, and CRWS showcase diverging growth paths, from AI-driven momentum to deep-value turnaround plays.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e0/427.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.650727"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.313661,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.270898",
+          "ticker_sentiment_score": "0.290753",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.103331",
+          "ticker_sentiment_score": "0.044909",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AIRT",
+          "relevance_score": "0.137474",
+          "ticker_sentiment_score": "0.081987",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRWS",
+          "relevance_score": "0.171363",
+          "ticker_sentiment_score": "0.158446",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.068995",
+          "ticker_sentiment_score": "0.044185",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.137474",
+          "ticker_sentiment_score": "0.120014",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.03453",
+          "ticker_sentiment_score": "0.263285",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Following a 112,700% Gain Since Its IPO, Is Netflix Stock a Buy, Sell, or Hold in 2025?",
+      "url": "https://www.fool.com/investing/2025/07/23/following-112700-gain-ipo-netflix-stock-buy-2025/",
+      "time_published": "20250723T081000",
+      "authors": ["Anthony Di Pizio"],
+      "summary": "Netflix ( NASDAQ: NFLX ) was founded in 1997 to disrupt the video rental industry. Its business model introduced convenience by mailing DVDs to customers so they no longer had to visit a physical store. Blockbuster, which operated America's largest movie rental chain at the time, didn't see the ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825804%2Fa-large-physical-red-letter-n-which-stands-for-netflix-with-people-walking-past-it.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999346"
+        }
+      ],
+      "overall_sentiment_score": 0.241163,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.714306",
+          "ticker_sentiment_score": "0.375116",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.042571",
+          "ticker_sentiment_score": "0.106612",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Don't Overthink It -- the Market-Beater to Buy and Hold for 5 Years",
+      "url": "https://www.fool.com/investing/2025/07/23/dont-overthink-it-the-market-beater-to-buy-and-hol/",
+      "time_published": "20250723T080500",
+      "authors": ["Prosper Junior Bakiny"],
+      "summary": "The sheer number of stocks to choose from can sometimes overwhelm investors. The fact that a company's popularity doesn't always correlate with strong fundamentals only further complicates things.However, some prominent corporations attract attention for all the right reasons: They have solid ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825331%2Fperson-packing-shipping-boxes.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.350058,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.058903",
+          "ticker_sentiment_score": "-0.055536",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.7323",
+          "ticker_sentiment_score": "0.487226",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "My 3 Favorite Stocks to Buy Right Now",
+      "url": "https://www.fool.com/investing/2025/07/22/my-3-favorite-stocks-to-buy-right-now/",
+      "time_published": "20250723T001500",
+      "authors": ["Jennifer Saibil"],
+      "summary": "The S&P 500 continues its rebound, up 26% since it bottomed out in April. If you were too nervous to buy when the market was down, you may have missed the best deals.But stocks are still climbing, and if you're ready to make some moves with more confidence, here are three amazing stocks that can ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F823497%2Famazon-delivery-person.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.905476"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        }
+      ],
+      "overall_sentiment_score": 0.233344,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.277748",
+          "ticker_sentiment_score": "0.248397",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Women Climbed The Corporate Ladder-Then Watched The \"Alpha Males\" Take Over Again - Meta Platforms  ( NASDAQ:META ) , Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/news/topics/25/07/46561841/women-climbed-the-corporate-ladder-then-watched-the-alpha-males-take-over-again",
+      "time_published": "20250722T230055",
+      "authors": ["Hina Nainani"],
+      "summary": "Women now lead nearly 39% of U.S. businesses, up 13.6% since 2019. Female executives say a rise in macho CEO behavior signals backlash against diverse, equitable, and inclusive advances. Women hold just 10.4% of Fortune 500 CEO roles, with negligible change in Silicon Valley representation.",
+      "banner_image": "https://cdnwp-s3.benzinga.com/wp-content/uploads/2024/10/22181427/Paolo-and-Gali.jpg?optimize=medium&dpr=2&auto=webp&width=230",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.149337,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.073209",
+          "ticker_sentiment_score": "-0.091669",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.036643",
+          "ticker_sentiment_score": "0.167486",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.109622",
+          "ticker_sentiment_score": "-0.011223",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.036643",
+          "ticker_sentiment_score": "0.057183",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.109622",
+          "ticker_sentiment_score": "0.160265",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.036643",
+          "ticker_sentiment_score": "0.214116",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trump's Backroom Billionaire: Bezos Meets As SpaceX Fades - Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/news/politics/25/07/46561711/trumps-backroom-billionaire-bezos-meets-as-spacex-fades",
+      "time_published": "20250722T224648",
+      "authors": ["Erica Kollmann"],
+      "summary": "President Donald Trump reportedly meets with Jeff Bezos at the White House. Amazon's Project Kuiper is being considered for the Golden Dome missile defense system. A new wave of value and momentum stocks could be setting up for major moves-and Tim Melvin will name them live this Wednesday.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/22/Washington-dc--United-States--April-14-2_1.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.221118,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.072217",
+          "ticker_sentiment_score": "0.174407",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.214304",
+          "ticker_sentiment_score": "0.288052",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Top Research Reports for NVIDIA, Amazon.com & Meta Platforms",
+      "url": "https://www.zacks.com/research-daily/2603606/top-research-reports-for-nvidia-amazoncom-meta-platforms",
+      "time_published": "20250722T204800",
+      "authors": ["Mark Vickery"],
+      "summary": "NVIDIA, Amazon.com, and Meta Platforms stand out in Zacks' latest picks, backed by AI growth, AWS strength, and global user gains.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bf/2282.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.650727"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.345002,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.201021",
+          "ticker_sentiment_score": "0.37273",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.081138",
+          "ticker_sentiment_score": "0.045527",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AIRT",
+          "relevance_score": "0.040622",
+          "ticker_sentiment_score": "0.137608",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRWS",
+          "relevance_score": "0.081138",
+          "ticker_sentiment_score": "0.203206",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.121445",
+          "ticker_sentiment_score": "0.199783",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.040622",
+          "ticker_sentiment_score": "0.266048",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GOOGL Earnings: The Cheapest of the Magnificent 7",
+      "url": "https://www.zacks.com/commentary/2604261/googl-earnings-the-cheapest-of-the-magnificent-7",
+      "time_published": "20250722T183000",
+      "authors": ["Ethan Feller"],
+      "summary": "Alphabet stock is undervalued and underappreciated heading into earnings ...",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/76/52401.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.994953"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.168933,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.227859",
+          "ticker_sentiment_score": "0.092444",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.046184",
+          "ticker_sentiment_score": "0.142045",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.475918",
+          "ticker_sentiment_score": "0.242233",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.073271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.073271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.073271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.073271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.183198",
+          "ticker_sentiment_score": "0.08366",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Reasons to Buy Rivian Stock Like There's No Tomorrow",
+      "url": "https://www.fool.com/investing/2025/07/22/3-reasons-to-buy-rivian-stock-like-theres-no-tomor/",
+      "time_published": "20250722T173200",
+      "authors": ["Reuben Gregg Brewer"],
+      "summary": "Rivian ( NASDAQ: RIVN ) is an exciting story stock, and the story is getting better every day. That said, it is an aggressive investment that only growth-minded investors will want to buy. Here's what you need to know before you buy Rivian, noting that more good news could drive the shares higher ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825882%2F25_03_02-a-hand-building-a-puzzle-vertically-_mf-dload-gettyimages-1054149870-1200x750-7d59391.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.240358,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.123844",
+          "ticker_sentiment_score": "0.074228",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.359881",
+          "ticker_sentiment_score": "0.291501",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is the Stock Market in Bubble Territory?",
+      "url": "https://www.fool.com/investing/2025/07/22/is-the-stock-market-in-bubble-territory/",
+      "time_published": "20250722T165500",
+      "authors": ["Motley Fool Staff"],
+      "summary": "Valuations are stretched, but is it a bubble? In this podcast, Motley Fool contributors Travis Hoium, Lou Whiteman, and Rachel Warren discuss that as well as:To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/825690/is-the-stock-market-in-bubble-territory.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999953"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.2"
+        }
+      ],
+      "overall_sentiment_score": 0.143957,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.074523",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.041926",
+          "ticker_sentiment_score": "0.048309",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ANET",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.062593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ENGS",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.062881",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JNJ",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "-0.05317",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TOST",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.086777",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BEP",
+          "relevance_score": "0.027958",
+          "ticker_sentiment_score": "0.065323",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.007656",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAM",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "-0.000835",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Buy, Hold or Sell UPS Stock? Key Tips Ahead of Q2 Earnings",
+      "url": "https://www.zacks.com/stock/news/2604081/buy-hold-or-sell-ups-stock-key-tips-ahead-of-q2-earnings",
+      "time_published": "20250722T163500",
+      "authors": ["Maharathi Basu"],
+      "summary": "United Parcel Service braces for Q2 headwinds with falling volumes and rising labor costs. The 26% stock drop over the past six months adds to its woes.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ae/518.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.938238"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.097381,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "UPS",
+          "relevance_score": "0.851762",
+          "ticker_sentiment_score": "-0.153987",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.236742",
+          "ticker_sentiment_score": "-0.178841",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "FDX",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.012097",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Amazon's AI-Powered Cost Cuts, Labor Gains And Record Prime Day Drive Analyst's Bullish Outlook - Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46551942/amazons-ai-powered-cost-cuts-labor-gains-and-record-prime-day-drive-analysts-bullish-outlook",
+      "time_published": "20250722T163045",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Analyst Laura Martin raised Amazon's price target to $265, citing strong AWS growth, Prime Day sales, and rising labor productivity. She sees Amazon's AI-led cost cuts and automation gains as key growth drivers, calling the stock undervalued versus Big Tech peers.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/22/Amazon-Prime-Delivery-Van-In-The-Yard--S.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.918141"
+        }
+      ],
+      "overall_sentiment_score": 0.256821,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.075635",
+          "ticker_sentiment_score": "0.249541",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.431065",
+          "ticker_sentiment_score": "0.225347",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3 Reasons Why Investors Should Stay Away From Alibaba Stock Right Now",
+      "url": "https://www.zacks.com/stock/news/2603884/3-reasons-why-investors-should-stay-away-from-alibaba-stock-right-now",
+      "time_published": "20250722T155000",
+      "authors": ["Vasundhara Sawalka"],
+      "summary": "Deteriorating cash flow generation, slowing growth momentum and persistent valuation premiums make BABA a stock worth avoiding right now.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ae/81330.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.54554"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.99737"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.094261,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.566944",
+          "ticker_sentiment_score": "0.162101",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.083251",
+          "ticker_sentiment_score": "-0.099169",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.083251",
+          "ticker_sentiment_score": "-0.099169",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.041682",
+          "ticker_sentiment_score": "0.087419",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "In-Depth Analysis: Amazon.com Versus Competitors In Broadline Retail Industry - Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/insights/news/25/07/46548597/in-depth-analysis-amazon-com-versus-competitors-in-broadline-retail-industry",
+      "time_published": "20250722T150106",
+      "authors": ["Benzinga Insights"],
+      "summary": "In the ever-evolving and intensely competitive business landscape, conducting a thorough company analysis is of utmost importance for investors and industry followers. In this article, we will carry out an in-depth industry comparison, assessing Amazon.com AMZN alongside its primary competitors ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.928769"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.5855"
+        }
+      ],
+      "overall_sentiment_score": 0.299156,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.195287",
+          "ticker_sentiment_score": "0.217238",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is Alibaba Cloud's Growing Partner Base a Catalyst for Future Returns?",
+      "url": "https://www.zacks.com/stock/news/2603461/is-alibaba-clouds-growing-partner-base-a-catalyst-for-future-returns",
+      "time_published": "20250722T140700",
+      "authors": ["Zacks Equity Research"],
+      "summary": "BABA expands Alibaba Cloud's global partner base, fueling AI adoption and revenue growth amid fierce tech competition.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0c/1115.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.208564,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.841981",
+          "ticker_sentiment_score": "0.367386",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.275867",
+          "ticker_sentiment_score": "0.014591",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.056275",
+          "ticker_sentiment_score": "0.177962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.056275",
+          "ticker_sentiment_score": "0.199043",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FTNT",
+          "relevance_score": "0.056275",
+          "ticker_sentiment_score": "0.069037",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AEXAF",
+          "relevance_score": "0.112269",
+          "ticker_sentiment_score": "0.123485",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.167709",
+          "ticker_sentiment_score": "0.114966",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DXC",
+          "relevance_score": "0.112269",
+          "ticker_sentiment_score": "0.123485",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Robert Reich Says Trump And His Allies Want To Let Corporations Do As They Please. Even If It Hurts You, Profits Come First - Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/news/topics/25/07/46543557/robert-reich-says-trump-and-his-allies-want-to-let-corporations-do-as-they-please-even-if-it-hurts-yo",
+      "time_published": "20250722T131545",
+      "authors": ["Adrian Volenik"],
+      "summary": "Former U.S. Labor Secretary Robert Reich is warning that President Donald Trump's second-term deregulation agenda is shaping up to be a windfall for big corporations-and a disaster for everyday Americans.",
+      "banner_image": "https://cdnwp-s3.benzinga.com/wp-content/uploads/2024/10/22181427/Paolo-and-Gali.jpg?optimize=medium&dpr=2&auto=webp&width=230",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": -0.051997,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "0.109429",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.115509",
+          "ticker_sentiment_score": "-0.227442",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Amazon To Rally Around 18%? Here Are 10 Top Analyst Forecasts For Tuesday - Calix  ( NYSE:CALX ) , Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/news/25/07/46542843/amazon-to-rally-around-18-here-are-10-top-analyst-forecasts-for-tuesday",
+      "time_published": "20250722T125419",
+      "authors": ["Avi Kapoor"],
+      "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page. Benchmark raised Domino's Pizza, Inc. DPZ price target from $535 to $540.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/22/Amazon-com-Inc.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.692272"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.199202,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DMPZF",
+          "relevance_score": "0.146025",
+          "ticker_sentiment_score": "0.118649",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BCS",
+          "relevance_score": "0.146025",
+          "ticker_sentiment_score": "-0.082848",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CALX",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.108835",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ETSY",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.10387",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PCG",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "-0.109861",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VBTX",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.177982",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VLO",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.186174",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TTAN",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.08282",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PENG",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.10387",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.2512",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DPZ",
+          "relevance_score": "0.2872",
+          "ticker_sentiment_score": "0.19534",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "5 Stocks to Buy on Solid Rebound in Retail Sales Amid Price Pressures",
+      "url": "https://www.zacks.com/stock/news/2603013/5-stocks-to-buy-on-solid-rebound-in-retail-sales-amid-price-pressures",
+      "time_published": "20250722T120800",
+      "authors": ["Ritujay Ghosh"],
+      "summary": "Retail sales surged in June despite price pressures, making AMZN, DLTR, AAP, CASY and LEVI stocks to watch now.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/09/1047.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999989"
+        }
+      ],
+      "overall_sentiment_score": 0.229625,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AAP",
+          "relevance_score": "0.251495",
+          "ticker_sentiment_score": "0.151554",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CASY",
+          "relevance_score": "0.181137",
+          "ticker_sentiment_score": "0.156085",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.181137",
+          "ticker_sentiment_score": "0.126813",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DLTR",
+          "relevance_score": "0.181137",
+          "ticker_sentiment_score": "0.180919",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Best Warren Buffett Stocks to Buy With $1,000 Right Now",
+      "url": "https://www.fool.com/investing/2025/07/22/the-best-warren-buffett-stocks-to-buy-with-1000-ri/",
+      "time_published": "20250722T113000",
+      "authors": ["Stefon Walters"],
+      "summary": "To say that Warren Buffett has made a name for himself in the investing world would be a huge understatement. Buffett, who's 94 years old and plans to retire at the end of the year, has turned Berkshire Hathaway into a trillion-dollar company and amassed a personal 12-figure net worth.Buffett and ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824987%2Fbuffett17-tmf.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.384107,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.059636",
+          "ticker_sentiment_score": "0.052308",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.059636",
+          "ticker_sentiment_score": "0.052308",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.589459",
+          "ticker_sentiment_score": "0.608382",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.545618",
+          "ticker_sentiment_score": "0.51297",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.235252",
+          "ticker_sentiment_score": "0.201609",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Own Amazon Stock  ( AMZN ) ? This Is the 1 Thing to Watch Now.",
+      "url": "https://www.fool.com/investing/2025/07/22/own-amazon-stock-amzn-this-is-the-one-thing-to/",
+      "time_published": "20250722T085500",
+      "authors": ["Patrick Sanders"],
+      "summary": "Amazon ( NASDAQ: AMZN ) is a powerhouse name in the stock market, with soaring revenues, a key role in both e-commerce and cloud computing, and a market capitalization of more than $2.3 trillion.But Amazon stock is only up less than 2% so far this year and its dominance in the cloud computing ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825160%2Fbox-with-logo.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.94762"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.168482,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.121037",
+          "ticker_sentiment_score": "-0.066231",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.180685",
+          "ticker_sentiment_score": "-0.084544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.746601",
+          "ticker_sentiment_score": "0.257438",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Billionaires Are Buying 3 Brilliant Stocks Shaping the Future of Technology",
+      "url": "https://www.fool.com/investing/2025/07/22/billionaire-buy-3-stocks-shaping-future-technology/",
+      "time_published": "20250722T075000",
+      "authors": ["Trevor Jennewine"],
+      "summary": "The technology sector advanced 614% during the last decade, while the broader S&P 500 ( SNPINDEX: ^GSPC ) advanced 195%. Technology stocks are primed to maintain their momentum during the next decade as innovations like electric vertical take-off and landing aircraft ( air taxis ) , autonomous ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825912%2Fgears-2.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.650727"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.246873,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ACHR",
+          "relevance_score": "0.154455",
+          "ticker_sentiment_score": "0.028615",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.33884",
+          "ticker_sentiment_score": "0.25481",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JOBY",
+          "relevance_score": "0.154455",
+          "ticker_sentiment_score": "0.028615",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.038843",
+          "ticker_sentiment_score": "0.153703",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

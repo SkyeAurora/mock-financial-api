@@ -1,0 +1,2347 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Pfizer and BioNTech Receive Positive CHMP Opinion for LP.8.1-Adapted COVID-19 Vaccine in the European Union",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121613/0/en/Pfizer-and-BioNTech-Receive-Positive-CHMP-Opinion-for-LP-8-1-Adapted-COVID-19-Vaccine-in-the-European-Union.html",
+      "time_published": "20250725T063000",
+      "authors": ["BioNTech SE"],
+      "summary": "NEW YORK and MAINZ, GERMANY, July 25, 2025 - Pfizer Inc. ( NYSE: PFE, \"Pfizer\" ) and BioNTech SE ( Nasdaq: BNTX, \"BioNTech\" ) announced today that the European Medicines Agency's ( EMA ) Committee for Medicinal Products for Human Use ( CHMP ) has recommended marketing authorization for the ...",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/b9e2e00e-f790-4d54-a01f-4c85716b01bd",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": 0.024179,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "0.207962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "0.207962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOSUF",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "-0.026778",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GMAB",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "-0.026778",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.185695",
+          "ticker_sentiment_score": "0.07934",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BMY",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "-0.026778",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BNTX",
+          "relevance_score": "0.185695",
+          "ticker_sentiment_score": "0.059601",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Pfizer and BioNTech Receive Positive CHMP Opinion for LP.8.1-Adapted COVID-19 Vaccine in the European Union",
+      "url": "https://markets.businessinsider.com/news/stocks/pfizer-and-biontech-receive-positive-chmp-opinion-for-lp-8-1-adapted-covid-19-vaccine-in-the-european-union-1034938524",
+      "time_published": "20250725T063000",
+      "authors": ["markets.businessinsider.com"],
+      "summary": "Data indicate that the LP.8.1-adapted COVID-19 vaccine confers improved immune response against currently dominant and emerging sublineages - including the XFG and NB.1.8.1 variants1 - compared to 2024-2025 COVID-19 vaccine formulations",
+      "banner_image": "https://ml-eu.globenewswire.com/media/b9e2e00e-f790-4d54-a01f-4c85716b01bd/small/190705-biontech-logo-rgb-dark-green-preferred-0-png.png",
+      "source": "Business Insider",
+      "category_within_source": "RSS",
+      "source_domain": "markets.businessinsider.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": 0.090805,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "0.218879",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "0.218879",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOSUF",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "-0.0137",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GMAB",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "-0.0137",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.263467",
+          "ticker_sentiment_score": "0.102237",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BMY",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "-0.0137",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BNTX",
+          "relevance_score": "0.274012",
+          "ticker_sentiment_score": "0.078795",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Howard Lutnick Says TikTok Is 'Going Dark' Unless Beijing Agrees To Hand It Over: 'Can't Have Chinese Control…On 100 Million American Phones' - Meta Platforms  ( NASDAQ:META ) , Blackstone  ( NYSE:BX ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46622661/howard-lutnick-says-tiktok-is-going-dark-unless-beijing-agrees-to-hand-it-over-cant-have-chinese-con",
+      "time_published": "20250725T044941",
+      "authors": ["Ananya Gairola"],
+      "summary": "On Thursday, U.S. Commerce Secretary Howard Lutnick said that TikTok will be banned unless China allows American ownership and control of the platform's algorithm and technology.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/25/Washington--January-29-2025-Howard-Lutni.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.011836,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.213048",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.213048",
+          "ticker_sentiment_score": "-0.147647",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SMLR Investor News: If You Have Suffered Losses in Semler Scientific, Inc.  ( NASDAQ: SMLR ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Semler Scientific  ( NASDAQ:SMLR ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46622134/smlr-investor-news-if-you-have-suffered-losses-in-semler-scientific-inc-nasdaq-smlr-you-are-encour",
+      "time_published": "20250725T034000",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, continues to investigate potential securities claims on behalf of shareholders of Semler Scientific, Inc.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.972756"
+        }
+      ],
+      "overall_sentiment_score": 0.114193,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.071784",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SMLR",
+          "relevance_score": "0.471718",
+          "ticker_sentiment_score": "-0.089876",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "RDDT DEADLINE: ROSEN, A LEADING LAW FIRM, Encourages Reddit, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - RDDT - Reddit  ( NYSE:RDDT ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46622128/rddt-deadline-rosen-a-leading-law-firm-encourages-reddit-inc-investors-with-losses-in-excess-of-10",
+      "time_published": "20250725T033500",
+      "authors": ["Globe Newswire"],
+      "summary": "New York, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Reddit, Inc. RDDT between October 29, 2024 and May 20, 2025, both dates inclusive ( the \"Class Period\" ) , of the important August 18, 2025 lead plaintiff ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.116436,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RDDT",
+          "relevance_score": "0.524949",
+          "ticker_sentiment_score": "-0.009966",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.169676",
+          "ticker_sentiment_score": "-0.12966",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.056943",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, A LEADING LAW FIRM, Encourages Petco Health and Wellness Company, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - WOOF - Petco Health and Wellness  ( NASDAQ:WOOF ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46622096/rosen-a-leading-law-firm-encourages-petco-health-and-wellness-company-inc-investors-to-secure-coun",
+      "time_published": "20250725T033100",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Petco Health and Wellness Company, Inc. WOOF between January 14, 2021 and June 5, 2025, both dates inclusive ( the \"Class Period\" ) , of the important ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.106123,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.057907",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WOOF",
+          "relevance_score": "0.22861",
+          "ticker_sentiment_score": "0.173984",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, A LEADING LAW FIRM, Encourages PepGen Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - PEPG - PepGen  ( NASDAQ:PEPG ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46622092/rosen-a-leading-law-firm-encourages-pepgen-inc-investors-to-secure-counsel-before-important-deadli",
+      "time_published": "20250725T032700",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of PepGen Inc. PEPG between March 7, 2024 and March 3, 2025, both dates inclusive ( the \"Class Period\" ) , of the important August 8, 2025 lead plaintiff ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.126814,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.060541",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PEPG",
+          "relevance_score": "0.295867",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Broadmark Realty Capital Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - BRMK",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46621808/rosen-skilled-investor-counsel-encourages-broadmark-realty-capital-inc-investors-to-secure-counsel",
+      "time_published": "20250725T021100",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of persons and entities who held common stock of Broadmark Realty Capital Inc.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.967645"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.156196,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.049732",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RC",
+          "relevance_score": "0.099271",
+          "ticker_sentiment_score": "0.032576",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages 3D Systems Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - DDD - 3D Sys  ( NYSE:DDD ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46621380/rosen-top-ranked-global-counsel-encourages-3d-systems-corporation-investors-to-secure-counsel-befo",
+      "time_published": "20250725T012000",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of 3D Systems Corporation DDD between August 13, 2024 and May 12, 2025, both dates inclusive ( the \"Class Period\" ) , of the important August 12, 2025 lead ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.128771,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DDD",
+          "relevance_score": "0.483686",
+          "ticker_sentiment_score": "0.015973",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.05749",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UTHR",
+          "relevance_score": "0.05749",
+          "ticker_sentiment_score": "-0.164302",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, NATIONAL INVESTOR RIGHTS COUNSEL, Encourages Biohaven Ltd. Investors to Secure Counsel Before Important Deadline in Securities Class Action - BHVN - Biohaven  ( NYSE:BHVN ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46621116/rosen-national-investor-rights-counsel-encourages-biohaven-ltd-investors-to-secure-counsel-before-",
+      "time_published": "20250725T005200",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Biohaven Ltd. BHVN between March 24, 2023 and May 14, 2025, both dates inclusive ( the \"Class Period\" ) , of the important September 12, 2025 lead ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.112747,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BHVN",
+          "relevance_score": "0.293741",
+          "ticker_sentiment_score": "-0.029315",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.060085",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Alto Neuroscience, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ANRO - Alto Neuroscience  ( NYSE:ANRO ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46621072/rosen-trusted-investor-counsel-encourages-alto-neuroscience-inc-investors-to-secure-counsel-before",
+      "time_published": "20250725T004400",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of common stock of Alto Neuroscience, Inc.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.905476"
+        }
+      ],
+      "overall_sentiment_score": 0.089258,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ANRO",
+          "relevance_score": "0.117486",
+          "ticker_sentiment_score": "0.03429",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.058903",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages Centene Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - CNC - Centene  ( NYSE:CNC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46620841/rosen-skilled-investor-counsel-encourages-centene-corporation-investors-to-secure-counsel-before-i",
+      "time_published": "20250725T002700",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Centene Corporation CNC between December 12, 2024 and June 30, 2025, both dates inclusive ( the \"Class Period\" ) , of the important September 8, 2025 lead ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.905476"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.197671,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "CNC",
+          "relevance_score": "0.238718",
+          "ticker_sentiment_score": "0.172656",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.060541",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Replimune Group, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - REPL - Replimune Group  ( NASDAQ:REPL ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46620768/rosen-leading-investor-counsel-encourages-replimune-group-inc-investors-to-secure-counsel-before-i",
+      "time_published": "20250725T000800",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces it has filed a class action lawsuit on behalf of purchasers of securities of Replimune Group, Inc. REPL between November 22, 2024 and July 21, 2025, both dates inclusive ( the ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.096438,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.060236",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "REPL",
+          "relevance_score": "0.237551",
+          "ticker_sentiment_score": "0.13422",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bragar Eagel & Squire, P.C. Urges Investors in XPLR Infrastructure, Centene, Biohaven, or Capricor to Inquire About Their Rights in Class Action Lawsuits - Biohaven  ( NYSE:BHVN ) , Capricor Therapeutics  ( NASDAQ:CAPR ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46620752/bragar-eagel-squire-p-c-urges-investors-in-xplr-infrastructure-centene-biohaven-or-capricor-to-inq",
+      "time_published": "20250725T000400",
+      "authors": ["Globe Newswire"],
+      "summary": "If you purchased or acquired securities in any of the above companies during their class period and would like to discuss your legal rights, call Bragar Eagel & Squire partner Brandon Walker or Marion Passmore directly at ( 212 ) 355-4648",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.918141"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": -0.051117,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BHVN",
+          "relevance_score": "0.194242",
+          "ticker_sentiment_score": "-0.131509",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CNC",
+          "relevance_score": "0.194242",
+          "ticker_sentiment_score": "0.023412",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.039224",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CAPR",
+          "relevance_score": "0.117295",
+          "ticker_sentiment_score": "0.002254",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PEPGEN  ( PEPG )  ALERT: Bragar Eagel & Squire, P.C. Reminds Investors of the Class Action Against PepGen and Encourages Investors to Contact the Firm - PepGen  ( NASDAQ:PEPG ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46620612/pepgen-pepg-alert-bragar-eagel-squire-p-c-reminds-investors-of-the-class-action-against-pepgen-and",
+      "time_published": "20250724T235700",
+      "authors": ["Globe Newswire"],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Partners Encourage Investors Who Suffered Losses In PepGen ( PEPG ) To Contact Them Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        }
+      ],
+      "overall_sentiment_score": -0.004861,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.073773",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PEPG",
+          "relevance_score": "0.595343",
+          "ticker_sentiment_score": "-0.043168",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LOCKHEED  ( LMT )  ALERT: Bragar Eagel & Squire, P.C. is Investigating Lockheed Martin Corporation on Behalf of Lockheed Stockholders and Encourages Investors to Contact the Firm - Lockheed Martin  ( NYSE:LMT ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46620465/lockheed-lmt-alert-bragar-eagel-squire-p-c-is-investigating-lockheed-martin-corporation-on-behalf-",
+      "time_published": "20250724T233100",
+      "authors": ["Globe Newswire"],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Attorneys Encourage Investors Who Suffered Losses In Lockheed ( LMT ) To Contact The Firm Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.87644"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.009707,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.07157",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.212425",
+          "ticker_sentiment_score": "-0.14076",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "BARNES & NOBLE ALERT: Bragar Eagel & Squire, P.C. is Investigating Barnes & Noble Education, Inc. on Behalf of Barnes & Noble Stockholders and Encourages Investors to Contact the Firm - Barnes & Noble Education  ( NYSE:BNED ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46620397/barnes-noble-alert-bragar-eagel-squire-p-c-is-investigating-barnes-noble-education-inc-on-behalf-o",
+      "time_published": "20250724T232400",
+      "authors": ["Globe Newswire"],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Partner Brandon Walker Encourages Investors Who Suffered Losses In Barnes & Noble ( BNED ) To Contact Him Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.858979"
+        }
+      ],
+      "overall_sentiment_score": 0.075108,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BNED",
+          "relevance_score": "0.254751",
+          "ticker_sentiment_score": "0.065779",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.086245",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "FORTREA DEADLINE ALERT: Bragar Eagel & Squire, P.C. Reminds Investors in Fortrea Holdings  ( FTRE )  of The August 1st Deadline and Urges Investors to Contact The Firm - Fortrea Holdings  ( NASDAQ:FTRE ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46620381/fortrea-deadline-alert-bragar-eagel-squire-p-c-reminds-investors-in-fortrea-holdings-ftre-of-the-a",
+      "time_published": "20250724T232100",
+      "authors": ["Globe Newswire"],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Partners Encourage Investors Who Suffered Losses In Fortrea Holdings ( FTRE ) To Contact Them To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.055055,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "FTRE",
+          "relevance_score": "0.732373",
+          "ticker_sentiment_score": "0.093741",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.055236",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bragar Eagel & Squire, P.C. Reminds Investors in IRobot  ( IRBT )  of the Class Action Lawsuit and Encourages Investors to Inquire About Their Rights - iRobot  ( NASDAQ:IRBT ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46619953/bragar-eagel-squire-p-c-reminds-investors-in-irobot-irbt-of-the-class-action-lawsuit-and-encourage",
+      "time_published": "20250724T223100",
+      "authors": ["Globe Newswire"],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Attorneys Encourage Investors Who Suffered Losses IRobot ( IRBT ) To Contact Him Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.962106"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.08742,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "IRBT",
+          "relevance_score": "0.190793",
+          "ticker_sentiment_score": "-0.014094",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.048133",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ROSEN, SKILLED INVESTOR COUNSEL, Encourages RxSight, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - RXST - RxSight  ( NASDAQ:RXST ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46619874/rosen-skilled-investor-counsel-encourages-rxsight-inc-investors-to-secure-counsel-before-important",
+      "time_published": "20250724T222905",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of securities of RxSight, Inc. RXST between November 7, 2024 and July 8, 2025, both dates inclusive ( the \"Class Period\" ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.101177,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.061473",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RXST",
+          "relevance_score": "0.356438",
+          "ticker_sentiment_score": "-0.072922",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "PETCO  ( WOOF )  ALERT: Bragar Eagel & Squire, P.C. Reminds Petco Health and Wellness Investors that a Class Action Lawsuit Has Been Filed and Encourages Investors to Contact the Firm - Petco Health and Wellness  ( NASDAQ:WOOF ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46619863/petco-woof-alert-bragar-eagel-squire-p-c-reminds-petco-health-and-wellness-investors-that-a-class-",
+      "time_published": "20250724T222700",
+      "authors": ["Globe Newswire"],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Partner Brandon Walker Encourages Investors Who Suffered Losses In Petco ( WOOF ) To Contact Him Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.014643,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.0699",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WOOF",
+          "relevance_score": "0.665411",
+          "ticker_sentiment_score": "-0.068597",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "VSTS DEADLINE: ROSEN, A LEADING LAW FIRM, Encourages Vestis Corporation Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - VSTS - Vestis  ( NYSE:VSTS ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46619752/vsts-deadline-rosen-a-leading-law-firm-encourages-vestis-corporation-investors-with-losses-in-exce",
+      "time_published": "20250724T220341",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Vestis Corporation VSTS between May 2, 2024 and May 6, 2025, both dates inclusive ( the \"Class Period\" ) , of the important August 8, 2025 lead plaintiff ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.184875,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "VSTS",
+          "relevance_score": "0.355588",
+          "ticker_sentiment_score": "0.144488",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.061315",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "EZCORP to Release Third Quarter Fiscal 2025 Results After Market Close on Wednesday, July 30, 2025 - EZCORP  ( NASDAQ:EZPW ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46619192/ezcorp-to-release-third-quarter-fiscal-2025-results-after-market-close-on-wednesday-july-30-2025",
+      "time_published": "20250724T212603",
+      "authors": ["Globe Newswire"],
+      "summary": "AUSTIN, Texas, July 24, 2025 ( GLOBE NEWSWIRE ) -- EZCORP, Inc. ( \"EZCORP\" or the \"Company\" ) EZPW, a leading provider of pawn transactions in the United States and Latin America, will issue third quarter fiscal 2025 results ( period ended June 30, 2025 ) on Wednesday, July 30, 2025, after the ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.160657,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EZPW",
+          "relevance_score": "0.862496",
+          "ticker_sentiment_score": "0.339307",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.118064",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "embecta to Report Fiscal Third Quarter 2025 Financial Results",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121510/0/en/embecta-to-Report-Fiscal-Third-Quarter-2025-Financial-Results.html",
+      "time_published": "20250724T210000",
+      "authors": ["Embecta Corp."],
+      "summary": "PARSIPPANY, N.J., July 24, 2025 ( GLOBE NEWSWIRE ) -- Embecta Corp. ( \"embecta\" ) ( Nasdaq: EMBC ) , a global company that is advancing its 100-year legacy in insulin delivery to become a broad-based medical supplies company, will host a conference call to discuss its fiscal third quarter 2025 ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/fa3e492e-f542-4291-a7e2-bdd2c3dff424",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.206051,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBC",
+          "relevance_score": "0.823417",
+          "ticker_sentiment_score": "0.353209",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.213048",
+          "ticker_sentiment_score": "0.330374",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "embecta to Report Fiscal Third Quarter 2025 Financial Results - Embecta  ( NASDAQ:EMBC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46618360/embecta-to-report-fiscal-third-quarter-2025-financial-results",
+      "time_published": "20250724T210000",
+      "authors": ["Globe Newswire"],
+      "summary": "PARSIPPANY, N.J., July 24, 2025 ( GLOBE NEWSWIRE ) -- Embecta Corp. ( \"embecta\" ) EMBC, a global company that is advancing its 100-year legacy in insulin delivery to become a broad-based medical supplies company, will host a conference call to discuss its fiscal third quarter 2025 financial ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.184469,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "EMBC",
+          "relevance_score": "0.757528",
+          "ticker_sentiment_score": "0.332306",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.154455",
+          "ticker_sentiment_score": "0.257391",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RMJAX, RMHIX, RMHVX INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Easterly ROCMuni High Income Municipal Bond Fund Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46617727/rmjax-rmhix-rmhvx-investor-alert-bronstein-gewirtz-grossman-llc-announces-that-easterly-rocmuni-hi",
+      "time_published": "20250724T203226",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- Attorney Advertising -- Bronstein, Gewirtz & Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has been filed against Easterly ROCMuni High Income Municipal Bond Fund f/k/a Principal Street High Income ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.024286,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.067158",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Freddie Mac Issues Monthly Volume Summary for June 2025 - Federal Home Loan  ( OTC:FMCC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46617660/freddie-mac-issues-monthly-volume-summary-for-june-2025",
+      "time_published": "20250724T203038",
+      "authors": ["Globe Newswire"],
+      "summary": "MCLEAN, Va., July 24, 2025 ( GLOBE NEWSWIRE ) -- Freddie Mac FMCC today posted to its website its Monthly Volume Summary for June 2025, which provides information on Freddie Mac's mortgage-related portfolios, securities issuance, risk management, delinquencies, debt activities and other ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": 0.077701,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.295867",
+          "ticker_sentiment_score": "0.228848",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.295867",
+          "ticker_sentiment_score": "0.228848",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cytokinetics to Announce Second Quarter Results On August 7, 2025 - Cytokinetics  ( NASDAQ:CYTK ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46615999/cytokinetics-to-announce-second-quarter-results-on-august-7-2025",
+      "time_published": "20250724T200000",
+      "authors": ["Globe Newswire"],
+      "summary": "SOUTH SAN FRANCISCO, Calif., July 24, 2025 ( GLOBE NEWSWIRE ) -- Cytokinetics, Incorporated CYTK today announced that it is scheduled to report second quarter results on August 7, 2025 at 4:00 PM Eastern Time.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.002384,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CYTK",
+          "relevance_score": "0.912237",
+          "ticker_sentiment_score": "-0.042178",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "[Latest] Global CRISPR Gene Editing Market Size/Share Worth USD 12.6 Billion by 2034 at a 13.01% CAGR: Custom Market Insights  ( Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46615291/latest-global-crispr-gene-editing-market-sizeshare-worth-usd-12-6-billion-by-2034-at-a-13-01-cagr-",
+      "time_published": "20250724T193000",
+      "authors": ["Globe Newswire"],
+      "summary": "Austin, TX, USA, July 25, 2025 ( GLOBE NEWSWIRE ) -- Custom Market Insights has published a new research report titled \"CRISPR Gene Editing Market Size, Trends and Insights By Product ( Kits and Reagents, Services ) , By Gene Editing Modality ( Ex-Vivo Editing, In-Vivo Editing ) , By Technology ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.161437,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "A",
+          "relevance_score": "0.022008",
+          "ticker_sentiment_score": "0.063001",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.011005",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.011005",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRSP",
+          "relevance_score": "0.022008",
+          "ticker_sentiment_score": "0.063001",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STMM",
+          "relevance_score": "0.011005",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TMO",
+          "relevance_score": "0.022008",
+          "ticker_sentiment_score": "0.063001",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Google's AI Push Hits 2B: Will Meta's Next Move Flip The Script - Alphabet  ( NASDAQ:GOOGL ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46614403/googles-ai-push-hits-2-billion-but-metas-next-move-could-flip-script",
+      "time_published": "20250724T190222",
+      "authors": ["Surbhi Jain"],
+      "summary": "Google says 2 billion users now engage with its AI across Gmail, Android, and other services. Meta's last AI usage stat was 1 billion in May, but its current figure may be much higher. Up Next: Get 5 Dark Horse Stocks Wall Street Is Quietly Loading Up On",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/AI-Is-Redefining-What-Makes-You-Valuable.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.178008,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.530253",
+          "ticker_sentiment_score": "0.314873",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.282234",
+          "ticker_sentiment_score": "0.061994",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Important Notice to Long-Term Shareholders of 3D Systems Corporation  ( NYSE: DDD ) ; Centene Corporation  ( NYSE: CNC ) ; DoubleVerify Holdings, Inc.  ( NYSE: DV ) ; and Neogen Corporation  ( NASDAQ: NEOG ) : Grabar Law Office is Investigating Claims on Your Behalf - 3D Sys  ( NYSE:DDD ) , Centene  ( NYSE:CNC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46612409/important-notice-to-long-term-shareholders-of-3d-systems-corporation-nyse-ddd-centene-corporation-",
+      "time_published": "20250724T175927",
+      "authors": ["Globe Newswire"],
+      "summary": "PHILADELPHIA, July 24, 2025 ( GLOBE NEWSWIRE ) -- Grabar Law Office is investigating claims on behalf of shareholders of 3D Systems Corporation DDD. The investigation concerns whether certain officers and directors breached the fiduciary duties they owed to the company.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.122236,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CNC",
+          "relevance_score": "0.356013",
+          "ticker_sentiment_score": "0.331888",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.03072",
+          "ticker_sentiment_score": "-0.028475",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DV",
+          "relevance_score": "0.299843",
+          "ticker_sentiment_score": "0.098484",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NEOG",
+          "relevance_score": "0.356013",
+          "ticker_sentiment_score": "0.119937",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DDD",
+          "relevance_score": "0.328157",
+          "ticker_sentiment_score": "0.051808",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "MASERATI MC12 STRADALE SUPERCAR LEADS BROAD ARROW'S MONTEREY JET CENTER AUCTION OFFERING - Hagerty  ( NYSE:HGTY ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46611222/maserati-mc12-stradale-supercar-leads-broad-arrows-monterey-jet-center-auction-offering",
+      "time_published": "20250724T171619",
+      "authors": ["Globe Newswire"],
+      "summary": "Grosse Pointe, Michigan, July 24, 2025 ( GLOBE NEWSWIRE ) -- Broad Arrow Auctions, a Hagerty HGTY company, is delighted to announce final entries for its flagship Monterey Jet Center Auction on August 13-14, led by a landmark 2005 Maserati MC12 Stradale, chassis number 12095.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.264224,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.030273",
+          "ticker_sentiment_score": "0.101289",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FUJHF",
+          "relevance_score": "0.015139",
+          "ticker_sentiment_score": "0.136539",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HGTY",
+          "relevance_score": "0.194844",
+          "ticker_sentiment_score": "0.066992",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AWTRF",
+          "relevance_score": "0.015139",
+          "ticker_sentiment_score": "0.081567",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Trump To Visit Fed - A First For A President In 20 Years; Tough Road Ahead For Tesla - iShares Silver Trust  ( ARCA:SLV ) , SPDR Gold Trust  ( ARCA:GLD ) ",
+      "url": "https://www.benzinga.com/general/market-summary/25/07/46609956/trump-to-visit-fed-a-first-for-a-president-in-20-years-tough-road-ahead-for-tesla",
+      "time_published": "20250724T164303",
+      "authors": ["The Arora Report"],
+      "summary": "To gain an edge, this is what you need to know today. Please click here for an enlarged chart of Tesla Inc ( TSLA ) . President Trump is planning to visit the Federal Reserve ahead of the FOMC meeting next week. This will be the first time in 20 years a president will visit the Fed.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.245544,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.086245",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FFXDF",
+          "relevance_score": "0.129052",
+          "ticker_sentiment_score": "0.153553",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.086245",
+          "ticker_sentiment_score": "0.163886",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.086245",
+          "ticker_sentiment_score": "0.163886",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.086245",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.129052",
+          "ticker_sentiment_score": "-0.071725",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.043186",
+          "ticker_sentiment_score": "0.287497",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Booking Holdings to Report Q2 Earnings: What's in the Cards?",
+      "url": "https://www.zacks.com/stock/news/2613254/booking-holdings-to-report-q2-earnings-whats-in-the-cards",
+      "time_published": "20250724T160800",
+      "authors": ["Zacks Equity Research"],
+      "summary": "BKNG is expected to deliver strong Q2 results with KAYAK.ai launch and record alternative accommodations growth, driving revenue expansion.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/64/735.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.988787"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.396298,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BKNG",
+          "relevance_score": "0.363388",
+          "ticker_sentiment_score": "0.402861",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.232217",
+          "ticker_sentiment_score": "0.048581",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ALKT",
+          "relevance_score": "0.232217",
+          "ticker_sentiment_score": "-0.026483",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The 30-Year Fixed-Rate Mortgage Shows Little Movement - Federal Home Loan  ( OTC:FMCC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46608401/the-30-year-fixed-rate-mortgage-shows-little-movement",
+      "time_published": "20250724T160000",
+      "authors": ["Globe Newswire"],
+      "summary": "MCLEAN, Va., July 24, 2025 ( GLOBE NEWSWIRE ) -- Freddie Mac FMCC today released the results of its Primary Mortgage Market Survey® ( PMMS® ) , showing the 30-year fixed-rate mortgage ( FRM ) averaged 6.74%.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.614606"
+        }
+      ],
+      "overall_sentiment_score": 0.263847,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.145145",
+          "ticker_sentiment_score": "0.135761",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.145145",
+          "ticker_sentiment_score": "0.135761",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GOOGL Q2 Earnings Beat Estimates, Revenues Up Y/Y, Shares Rise",
+      "url": "https://www.zacks.com/stock/news/2613185/googl-q2-earnings-beat-estimates-revenues-up-yy-shares-rise",
+      "time_published": "20250724T155500",
+      "authors": ["Zacks Investment Research"],
+      "summary": "Alphabet's second-quarter 2025 results benefit from strong Search, advertising and Google Cloud revenues.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/aa/44.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.037557,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.214937",
+          "ticker_sentiment_score": "0.084045",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.586747",
+          "ticker_sentiment_score": "0.069025",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.214937",
+          "ticker_sentiment_score": "0.084045",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ENVX",
+          "relevance_score": "0.214937",
+          "ticker_sentiment_score": "0.084045",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Meta Platforms Q2 EPS Preview: AI Takes Center Stage",
+      "url": "https://www.zacks.com/commentary/2613179/meta-platforms-q2-eps-preview-ai-takes-center-stage",
+      "time_published": "20250724T155400",
+      "authors": ["Andrew Rocco"],
+      "summary": "AI integrations are helping to drive user engagement and ad revenue for social media giant Meta Platforms. However, CEO Mark Zuckerberg must convince investors on the EPS call that the billions in AI CAPEX spending will bear fruit.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/49/74.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999767"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.279979,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.080992",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.775706",
+          "ticker_sentiment_score": "0.494133",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.025865",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "NOW Q2 Earnings Beat Estimates, Revenues Rise Y/Y, Shares Rise",
+      "url": "https://www.zacks.com/stock/news/2613183/now-q2-earnings-beat-estimates-revenues-rise-yy-shares-rise",
+      "time_published": "20250724T155400",
+      "authors": ["Zacks Equity Research"],
+      "summary": "ServiceNow's Q2 earnings and revenues surpass estimates, driven by strong AI momentum, large deals and expanding enterprise demand.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e1/104280.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999186"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.130445,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.175221",
+          "ticker_sentiment_score": "0.072074",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.175221",
+          "ticker_sentiment_score": "0.072074",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.044141",
+          "ticker_sentiment_score": "0.207638",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ENVX",
+          "relevance_score": "0.175221",
+          "ticker_sentiment_score": "0.072074",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.420083",
+          "ticker_sentiment_score": "0.201427",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Music in the Royal Grove at Rideau Hall",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46608135/music-in-the-royal-grove-at-rideau-hall",
+      "time_published": "20250724T155300",
+      "authors": ["PRNewswire"],
+      "summary": "OTTAWA, ON, July 24, 2025 /CNW/ - The grounds of Rideau Hall will echo with the sweet strains of chamber music July 26 and 27, 2025, as Ottawa Chamberfest returns to the Royal Grove for some relaxing afternoon performances.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.255984,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.1331",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.1331",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Best Magnificent Seven Stocks to Buy Now  ( NVDA, META, MSFT ) ",
+      "url": "https://www.zacks.com/commentary/2612911/3-best-magnificent-seven-stocks-to-buy-now-nvda-meta-msft",
+      "time_published": "20250724T155000",
+      "authors": ["Ethan Feller"],
+      "summary": "While the Magnificent Seven remain market stalwarts, Nvidia, Microsoft and Meta Platforms stocks stand out as especially compelling right now ...",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/07/115189.jpg?v=1936896491",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.993781"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.395026,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.419927",
+          "ticker_sentiment_score": "0.499749",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.194242",
+          "ticker_sentiment_score": "0.374421",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.419927",
+          "ticker_sentiment_score": "0.499074",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Cegedim: Like-for-like revenues grew 2.8% in the first half",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46607864/cegedim-like-for-like-revenues-grew-2-8-in-the-first-half",
+      "time_published": "20250724T154500",
+      "authors": ["Globe Newswire"],
+      "summary": "First-half financial information as of June 30, 2025IFRS - Regulated information - Not audited Cegedim: Like-for-like revenues grew 2.8% in the first half Revenue grew 1.1% as reported and 2.8% LFL to €322.5 million in the first half of 2025.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.87644"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.202152,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.028626",
+          "ticker_sentiment_score": "0.066217",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:GBP",
+          "relevance_score": "0.028626",
+          "ticker_sentiment_score": "-0.000942",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Holland America Line Launches Entertainment Evolution with More Live Music, Revitalized Shows and Enhanced Onboard Team - Carnival  ( NYSE:CUK ) , Carnival  ( NYSE:CCL ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46607651/holland-america-line-launches-entertainment-evolution-with-more-live-music-revitalized-shows-and-e",
+      "time_published": "20250724T153600",
+      "authors": ["PRNewswire"],
+      "summary": "Guests can expect a new 'Welcome Aboard' show, fresh World Stage production shows, a wider variety of live music in more venues, and added cultural and regional activities",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.33487,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.029728",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Unpacking the Latest Options Trading Trends in Shopify - Shopify  ( NASDAQ:SHOP ) ",
+      "url": "https://www.benzinga.com/insights/options/25/07/46605763/unpacking-the-latest-options-trading-trends-in-shopify",
+      "time_published": "20250724T150152",
+      "authors": ["Benzinga Insights"],
+      "summary": "Deep-pocketed investors have adopted a bullish approach towards Shopify SHOP, and it's something market players shouldn't ignore. Our tracking of public options records at Benzinga unveiled this significant move today.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        }
+      ],
+      "overall_sentiment_score": 0.164496,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SHOP",
+          "relevance_score": "0.77235",
+          "ticker_sentiment_score": "0.259465",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.064104",
+          "ticker_sentiment_score": "0.126129",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Exploring The Competitive Space: Meta Platforms Versus Industry Peers In Interactive Media & Services - Meta Platforms  ( NASDAQ:META ) ",
+      "url": "https://www.benzinga.com/insights/news/25/07/46605698/exploring-the-competitive-space-meta-platforms-versus-industry-peers-in-interactive-media-amp-servi",
+      "time_published": "20250724T150041",
+      "authors": ["Benzinga Insights"],
+      "summary": "In the dynamic and cutthroat world of business, conducting thorough company analysis is essential for investors and industry experts. In this article, we will undertake a comprehensive industry comparison, evaluating Meta Platforms META and its primary competitors in the Interactive Media & ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.95493"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999922"
+        }
+      ],
+      "overall_sentiment_score": 0.277336,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.439786",
+          "ticker_sentiment_score": "0.39576",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Technics Debuts 60th Anniversary Edition of EAH-AZ100 Earbuds in Champagne Gold Color, Now Available in the U.S.",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46602805/technics-debuts-60th-anniversary-edition-of-eah-az100-earbuds-in-champagne-gold-color-now-availabl",
+      "time_published": "20250724T140000",
+      "authors": ["PRNewswire"],
+      "summary": "NEWARK, N.J., July 24, 2025 /PRNewswire/ -- To commemorate the 60th anniversary, Technics has introduced a new champagne gold version of the award-winning True Wireless Earbuds EAH-AZ100, which have received widespread media acclaim since their January 2025 launch.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.361224,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PCRFF",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.362485",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.266989",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DLB",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.233884",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Aligned Data Centers Expands in Ohio with New Mega-Scale AI Campus",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46601178/aligned-data-centers-expands-in-ohio-with-new-mega-scale-ai-campus",
+      "time_published": "20250724T133500",
+      "authors": ["Globe Newswire"],
+      "summary": "COSHOCTON COUNTY, Ohio, July 24, 2025 ( GLOBE NEWSWIRE ) -- Aligned Data Centers, a leading technology infrastructure company offering innovative, sustainable and adaptive Scale Data Centers and Build-to-Scale solutions for global hyperscale, AI/HPC, and enterprise customers, announces a ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.482262,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.081552",
+          "ticker_sentiment_score": "0.289151",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Marketing Automation Market Surges to $81.01 Billion by 2030 - Dominated by HubSpot  ( US ) , Adobe  ( US ) , Oracle  ( US ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46601092/marketing-automation-market-surges-to-81-01-billion-by-2030-dominated-by-hubspot-us-adobe-us-oracl",
+      "time_published": "20250724T133000",
+      "authors": ["Globe Newswire"],
+      "summary": "Delray Beach, FL, July 24, 2025 ( GLOBE NEWSWIRE ) -- According to MarketsandMarkets™, the Marketing Automation Market is projected to grow from USD 47.02 billion in 2025 to USD 81.01 billion by 2030, at a CAGR of 11.5% during the forecast period.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.461626,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "HUBS",
+          "relevance_score": "0.037329",
+          "ticker_sentiment_score": "0.204547",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.037329",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.037329",
+          "ticker_sentiment_score": "0.255589",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "1 Magnificent Stock That Can Make You Richer in 2025 and Beyond",
+      "url": "https://www.fool.com/investing/2025/07/24/magnificent-stock-make-you-richer-2025-beyond/",
+      "time_published": "20250724T131500",
+      "authors": ["Neil Patel"],
+      "summary": "After a turbulent start to the year, the stock market has performed exceptionally well since early April. The major indices are trading in record territory, showcasing investors' bullishness as we look ahead. Despite the optimism, which might make you believe there aren't attractive buying ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F826039%2Fsocial-media-scrolling-on-phone-networking.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.818451"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.918141"
+        }
+      ],
+      "overall_sentiment_score": 0.224473,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "META",
+          "relevance_score": "0.186259",
+          "ticker_sentiment_score": "0.09701",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "A Winning Combination! Kinder Joy® and Warner Bros. Discovery Global Consumer Products Team Up for Harry Potter-Inspired Quidditch Funko Toy Collection",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46600420/a-winning-combination-kinder-joy-and-warner-bros-discovery-global-consumer-products-team-up-for-ha",
+      "time_published": "20250724T130400",
+      "authors": ["PRNewswire"],
+      "summary": "Parents and kids can once again collect their favorite Harry Potter characters in delicious Kinder Joy eggs for a spellbinding treat-and-toy experience that celebrates the magic of Harry Potter",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.542135,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.057628",
+          "ticker_sentiment_score": "0.164994",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.057628",
+          "ticker_sentiment_score": "0.310207",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.028833",
+          "ticker_sentiment_score": "0.432945",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PINS",
+          "relevance_score": "0.028833",
+          "ticker_sentiment_score": "0.332239",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ICNB",
+          "relevance_score": "0.057628",
+          "ticker_sentiment_score": "0.164994",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FNKO",
+          "relevance_score": "0.086348",
+          "ticker_sentiment_score": "0.359764",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Frankie Muniz Joins Forces with Worksport to Champion American Energy Innovation",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121140/0/en/Frankie-Muniz-Joins-Forces-with-Worksport-to-Champion-American-Energy-Innovation.html",
+      "time_published": "20250724T130100",
+      "authors": ["Worksport Ltd"],
+      "summary": "Former 'Malcolm in The Middle' Actor, and Professional NASCAR Driver Enters Brand Partnership with ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/247ac396-a35f-4b80-abac-4ee93d603e63",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.256558,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.036146",
+          "ticker_sentiment_score": "0.099593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.036146",
+          "ticker_sentiment_score": "0.099593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WKSP",
+          "relevance_score": "0.413425",
+          "ticker_sentiment_score": "0.541623",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ENGS",
+          "relevance_score": "0.036146",
+          "ticker_sentiment_score": "0.229912",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

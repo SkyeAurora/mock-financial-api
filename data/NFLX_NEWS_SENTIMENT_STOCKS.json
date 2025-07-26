@@ -1,0 +1,2821 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Elon Musk Biopic: Who Should Play Tesla CEO? Grok Picks These 6 Actors - Tesla  ( NASDAQ:TSLA ) ",
+      "url": "https://www.benzinga.com/news/entertainment/25/07/46620076/elon-musk-biopic-who-should-play-tesla-ceo-grok-picks-these-6-actors",
+      "time_published": "20250724T225420",
+      "authors": ["Chris Katje"],
+      "summary": "A new biopic about Elon Musk has not cast the lead role yet. Grok answers who should play Musk in the film. Up Next: Get 5 Dark Horse Stocks Wall Street Is Quietly Loading Up On A new movie about OpenAI has cast the role of Elon Musk.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Musk-Questionmark-Shutterstock.png?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.283402,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.035983",
+          "ticker_sentiment_score": "0.275687",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.035983",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Stock Market Today: Warner Bros. Discovery Rises 1.4% During Split Progress and Streaming Strength",
+      "url": "https://www.fool.com/data-news/2025/07/24/stock-market-today-warner-bros-discovery-rises-14/",
+      "time_published": "20250724T212847",
+      "authors": ["JesterAI"],
+      "summary": "The stock set a new 52-week high on heavy trading.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/826669/gettyimages-1372091241.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        }
+      ],
+      "overall_sentiment_score": 0.324971,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.192694",
+          "ticker_sentiment_score": "0.077925",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "IMAX  ( IMAX )  Q2 2025 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/07/24/imax-imax-q2-2025-earnings-call-transcript/",
+      "time_published": "20250724T180348",
+      "authors": ["Motley Fool Transcribing"],
+      "summary": "Image source: The Motley Fool.Need a quote from one of our analysts? Email pr@fool.comIMAX Corp. ( NYSE:IMAX ) reported its highest-ever domestic box office in Q2 2025. This contributed to record signings and installations, supported by robust global demand, particularly in high per-screen ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/a2a40ac227551191f40e319646e58c421fd8b8c0-400x427.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999974"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.26941,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MCQEF",
+          "relevance_score": "0.004351",
+          "ticker_sentiment_score": "0.076958",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.008702",
+          "ticker_sentiment_score": "0.070305",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NYT",
+          "relevance_score": "0.004351",
+          "ticker_sentiment_score": "0.077779",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TMXN",
+          "relevance_score": "0.004351",
+          "ticker_sentiment_score": "0.099421",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IMAX",
+          "relevance_score": "0.440464",
+          "ticker_sentiment_score": "0.31292",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.004351",
+          "ticker_sentiment_score": "0.076138",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Air Bud Returns: Ain't No Rule Says a Dog Can't Release Another Movie - Cineverse  ( NASDAQ:CNVS ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46608429/air-bud-returns-aint-no-rule-says-a-dog-cant-release-another-movie",
+      "time_published": "20250724T160000",
+      "authors": ["PRNewswire"],
+      "summary": "LOS ANGELES, July 24, 2025 /PRNewswire/ -- In a move that marks a golden opportunity to reintroduce one of the most iconic family brands to fans, Cineverse CNVS, a next-generation entertainment studio, and Air Bud Entertainment ( ABE ) have today announced Air Bud Returns.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.351773,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.039614",
+          "ticker_sentiment_score": "0.163946",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CNVS",
+          "relevance_score": "0.345139",
+          "ticker_sentiment_score": "0.357564",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Smithsonian Channel's \"How Did They Build That?\" Returns for Season Four Hosted by Jay Ellis",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46608062/smithsonian-channels-how-did-they-build-that-returns-for-season-four-hosted-by-jay-ellis",
+      "time_published": "20250724T155100",
+      "authors": ["PRNewswire"],
+      "summary": "NEW YORK, July 24, 2025 /PRNewswire/ -- Smithsonian Channel today announced the return of How Did They Build That? with an all-new season premiering this Sunday, June 27 at 9/8c.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [],
+      "overall_sentiment_score": 0.202414,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ICNB",
+          "relevance_score": "0.050465",
+          "ticker_sentiment_score": "0.180667",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.050465",
+          "ticker_sentiment_score": "0.057955",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "I.W. Harper Unveils A Rare 34-Year-Old Kentucky Straight Bourbon Whiskey in Partnership with Award Winning Actor Colman Domingo - Diageo  ( NYSE:DEO ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46605611/i-w-harper-unveils-a-rare-34-year-old-kentucky-straight-bourbon-whiskey-in-partnership-with-award-",
+      "time_published": "20250724T150000",
+      "authors": ["PRNewswire"],
+      "summary": "The Couture-Inspired, Ultra-Rare Spirit Honors the Brand's Legacy of Black Excellence, and Will Be Exclusively Auctioned Via Sotheby's to Benefit Native Son LOUISVILLE, Ky., July 24, 2025 /PRNewswire/ -- Stitzel-Weller Distillery proudly introduces the rarest release in I.W.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.918141"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.369224,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.025219",
+          "ticker_sentiment_score": "0.122337",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.025219",
+          "ticker_sentiment_score": "0.122337",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DEO",
+          "relevance_score": "0.100623",
+          "ticker_sentiment_score": "0.149365",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "5 Must-Buy Stocks Amid Solid Earnings Estimate Revisions After Q2 Beat",
+      "url": "https://www.zacks.com/stock/news/2611882/5-must-buy-stocks-amid-solid-earnings-estimate-revisions-after-q2-beat",
+      "time_published": "20250724T111500",
+      "authors": ["Nalak Das"],
+      "summary": "JPM, NFLX, PGR, GE and IBKR are gaining momentum as earnings beats drive up estimates for 2025 and beyond.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/5f/112691.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        }
+      ],
+      "overall_sentiment_score": 0.35693,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.258625",
+          "ticker_sentiment_score": "0.287669",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IBKR",
+          "relevance_score": "0.182703",
+          "ticker_sentiment_score": "0.183978",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PGR",
+          "relevance_score": "0.15697",
+          "ticker_sentiment_score": "0.266823",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "History Says the Stock Market Is About to Soar: 2 Magnificent Stocks to Buy Now, According to Wall Street",
+      "url": "https://www.fool.com/investing/2025/07/24/stock-market-to-soar-2-stocks-buy-now-wall-street/",
+      "time_published": "20250724T075500",
+      "authors": ["Trevor Jennewine"],
+      "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) returned more than 25% during the three-month period ending on July 9, marking the sixth time in history the index has accomplished that. Interestingly, not only has the S&P 500 always been higher one year later, but also it has returned an average of 21% during ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F826246%2Fbuy-1.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.9996"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.31021,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.053035",
+          "ticker_sentiment_score": "0.107951",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.053035",
+          "ticker_sentiment_score": "0.107951",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DTST",
+          "relevance_score": "0.105836",
+          "ticker_sentiment_score": "0.159265",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.053035",
+          "ticker_sentiment_score": "0.107951",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.105836",
+          "ticker_sentiment_score": "0.118509",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PSTG",
+          "relevance_score": "0.405378",
+          "ticker_sentiment_score": "0.303352",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TTD",
+          "relevance_score": "0.358521",
+          "ticker_sentiment_score": "0.384269",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "IT",
+          "relevance_score": "0.053035",
+          "ticker_sentiment_score": "0.129652",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.053035",
+          "ticker_sentiment_score": "0.107951",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "THE LEGO GROUP UNVEILS \"SAN DIEGO LEGO®-CON\" AT SAN DIEGO COMIC-CON 2025",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46593325/the-lego-group-unveils-san-diego-lego-con-at-san-diego-comic-con-2025",
+      "time_published": "20250724T051100",
+      "authors": ["PRNewswire"],
+      "summary": "Booth #2829 gives Comic-Con attendees a brick-built celebration of fandom, creativity and pop culture, alongside multiple new product reveals, from July 24 through July 27",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [],
+      "overall_sentiment_score": 0.313031,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.023556",
+          "ticker_sentiment_score": "0.197323",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NTDOF",
+          "relevance_score": "0.023556",
+          "ticker_sentiment_score": "0.14925",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Christine Benz on the Keys to a Happy, Prosperous Retirement",
+      "url": "https://www.fool.com/investing/2025/07/23/christine-benz-on-the-keys-to-a-happy-prosperous-r/",
+      "time_published": "20250724T015100",
+      "authors": ["Motley Fool Staff"],
+      "summary": "Christine Benz is the director of personal finance at Morningstar and the author of \"How to Retire: 20 Lessons for a Happy, Successful, and Wealthy Retirement.\" ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/826026/christine-benz-on-the-keys-to-a-happy-prosperous-retirement.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.972193"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.996023"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.181682,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.006535",
+          "ticker_sentiment_score": "0.06849",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPNN",
+          "relevance_score": "0.006535",
+          "ticker_sentiment_score": "0.103523",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MORN",
+          "relevance_score": "0.032664",
+          "ticker_sentiment_score": "0.088997",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Mattel  ( MAT )  Q2 2025 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/07/23/mattel-mat-q2-2025-earnings-call-transcript/",
+      "time_published": "20250723T221643",
+      "authors": ["Motley Fool Transcribing"],
+      "summary": "Image source: The Motley Fool.Wednesday, July 23, 2025 at 5 p.m. ETChairman and Chief Executive Officer - Ynon KreizContinue reading ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/a2a40ac227551191f40e319646e58c421fd8b8c0-400x427.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99246"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.232043,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.005189",
+          "ticker_sentiment_score": "0.041305",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MAT",
+          "relevance_score": "0.077711",
+          "ticker_sentiment_score": "0.111897",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.005189",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.005189",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COHU",
+          "relevance_score": "0.010378",
+          "ticker_sentiment_score": "0.093576",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.005189",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AWON",
+          "relevance_score": "0.005189",
+          "ticker_sentiment_score": "0.122053",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.005189",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ICNB",
+          "relevance_score": "0.010378",
+          "ticker_sentiment_score": "0.169439",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.005189",
+          "ticker_sentiment_score": "0.029892",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Netflix Continues to Dominate",
+      "url": "https://www.fool.com/investing/2025/07/23/netflix-continues-to-dominate/",
+      "time_published": "20250723T203700",
+      "authors": ["Motley Fool Staff"],
+      "summary": "Earnings season is rolling along!",
+      "banner_image": "https://g.foolcdn.com/editorial/images/826023/netflix-continues-to-dominate.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.928139"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.890401"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.185291,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.088659",
+          "ticker_sentiment_score": "0.089842",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PYPL",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.033301",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.057064",
+          "ticker_sentiment_score": "0.125193",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.025379",
+          "ticker_sentiment_score": "0.113593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.100669",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NTDOF",
+          "relevance_score": "0.012691",
+          "ticker_sentiment_score": "0.067577",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.100669",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMGTF",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.106378",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MELI",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.031721",
+          "ticker_sentiment_score": "0.082016",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RBLX",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.054262",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.048544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.012691",
+          "ticker_sentiment_score": "0.03957",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.006346",
+          "ticker_sentiment_score": "0.040533",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:UST",
+          "relevance_score": "0.012691",
+          "ticker_sentiment_score": "0.051044",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Here's How Much $100 Invested In Netflix 5 Years Ago Would Be Worth Today - Netflix  ( NASDAQ:NFLX ) ",
+      "url": "https://www.benzinga.com/insights/news/25/07/46575394/heres-how-much-100-invested-in-netflix-5-years-ago-would-be-worth-today",
+      "time_published": "20250723T144519",
+      "authors": ["Benzinga Insights"],
+      "summary": "Netflix NFLX has outperformed the market over the past 5 years by 4.8% on an annualized basis producing an average annual return of 19.25%. Currently, Netflix has a market capitalization of $500.60 billion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.164255,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.901338",
+          "ticker_sentiment_score": "0.377982",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Live Entertainment Market worth $270.29 billion by 2030 - Exclusive Report by MarketsandMarkets™",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46574044/live-entertainment-market-worth-270-29-billion-by-2030-exclusive-report-by-marketsandmarkets",
+      "time_published": "20250723T141500",
+      "authors": ["PRNewswire"],
+      "summary": "DELRAY BEACH, Fla., July 23, 2025 /PRNewswire/ -- The global live entertainment market is expected to grow from USD 202.90 billion in 2025 to USD 270.29 billion by 2030, growing at a CAGR of 5.9% according to a new report by MarketsandMarkets™.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.87644"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.406056,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "LYV",
+          "relevance_score": "0.041975",
+          "ticker_sentiment_score": "0.149009",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.041975",
+          "ticker_sentiment_score": "0.195078",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.041975",
+          "ticker_sentiment_score": "0.195078",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.041975",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SPOT",
+          "relevance_score": "0.041975",
+          "ticker_sentiment_score": "0.195078",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "There's Nothing Happy About This Meal: Wendy's and Netflix's Wednesday Cook Up a \"Meal of Misfortune\" - Wendy's  ( NASDAQ:WEN ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46567941/theres-nothing-happy-about-this-meal-wendys-and-netflixs-wednesday-cook-up-a-meal-of-misfortune",
+      "time_published": "20250723T111600",
+      "authors": ["PRNewswire"],
+      "summary": "Launching in restaurants nationwide on August 4, Wendy's exclusive collaboration with Netflix's hit show, Wednesday, includes new \"Raven's Blood\" Frosty and four mystery \"Dips of Dread\" sauces DUBLIN, Ohio, July 23, 2025 /PRNewswire/ -- What happens when two iconic pig-tailed provocateurs join ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.095346,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.050465",
+          "ticker_sentiment_score": "0.038895",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.050465",
+          "ticker_sentiment_score": "0.209362",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WEN",
+          "relevance_score": "0.688777",
+          "ticker_sentiment_score": "0.387432",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It",
+      "url": "https://www.fool.com/investing/2025/07/23/if-i-could-only-buy-and-hold-a-single-stock/",
+      "time_published": "20250723T100900",
+      "authors": ["Anders Bylund"],
+      "summary": "What if you could only own one stock for the rest of your life? This giant checks all the boxes for forever ownership.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F826011%2Fcelebrating-shared-smartphone-screen-1325467196.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.54554"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.147554,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.301933",
+          "ticker_sentiment_score": "0.187878",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.253514",
+          "ticker_sentiment_score": "0.071494",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.204072",
+          "ticker_sentiment_score": "0.122459",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.204072",
+          "ticker_sentiment_score": "0.098549",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.253514",
+          "ticker_sentiment_score": "0.143525",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Following a 112,700% Gain Since Its IPO, Is Netflix Stock a Buy, Sell, or Hold in 2025?",
+      "url": "https://www.fool.com/investing/2025/07/23/following-112700-gain-ipo-netflix-stock-buy-2025/",
+      "time_published": "20250723T081000",
+      "authors": ["Anthony Di Pizio"],
+      "summary": "Netflix ( NASDAQ: NFLX ) was founded in 1997 to disrupt the video rental industry. Its business model introduced convenience by mailing DVDs to customers so they no longer had to visit a physical store. Blockbuster, which operated America's largest movie rental chain at the time, didn't see the ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825804%2Fa-large-physical-red-letter-n-which-stands-for-netflix-with-people-walking-past-it.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999346"
+        }
+      ],
+      "overall_sentiment_score": 0.241163,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.714306",
+          "ticker_sentiment_score": "0.375116",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.042571",
+          "ticker_sentiment_score": "0.106612",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Netflix's Growth Is Staggering. But Are Shares Still Attractive?",
+      "url": "https://www.fool.com/investing/2025/07/23/netflixs-growth-is-staggering-but-are-shares-still/",
+      "time_published": "20250723T080500",
+      "authors": ["Daniel Sparks"],
+      "summary": "Shares are soaring and business is booming. What's next for the stock?",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825983%2Fnflx-stock-business.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.998663"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        }
+      ],
+      "overall_sentiment_score": 0.304703,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.354741",
+          "ticker_sentiment_score": "0.20895",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.061159",
+          "ticker_sentiment_score": "0.297336",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is It Too Late to Buy Netflix Stock?",
+      "url": "https://www.fool.com/investing/2025/07/23/is-it-too-late-to-buy-netflix-stock/",
+      "time_published": "20250723T080200",
+      "authors": ["Parkev Tatevosian", "CFA"],
+      "summary": "Netflix ( NASDAQ: NFLX ) continues to outperform expectations as it pioneers the streaming industry.*Stock prices used were the afternoon prices of July 18, 2025. The video was published on July 20, 2025.Continue reading ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/826113/gettyimages-505116151.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [],
+      "overall_sentiment_score": -0.407858,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.535653",
+          "ticker_sentiment_score": "-0.53564",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "CoStar  ( CSGP )  Q2 2025 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/07/22/costar-csgp-q2-2025-earnings-call-transcript/",
+      "time_published": "20250722T222616",
+      "authors": ["Motley Fool Transcribing"],
+      "summary": "Image source: The Motley Fool.Tuesday, July 22, 2025 at 5 p.m. ETChief Executive Officer and Founder - Andrew FloranceContinue reading ...",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/a2a40ac227551191f40e319646e58c421fd8b8c0-400x427.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.342744,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "DKNG",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.126784",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.063919",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.008651",
+          "ticker_sentiment_score": "0.132951",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ROKU",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.126784",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.182072",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SPOT",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.126784",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CSGP",
+          "relevance_score": "0.03027",
+          "ticker_sentiment_score": "0.19597",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NWSAL",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.146934",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "III",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.047798",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.182072",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RPGRF",
+          "relevance_score": "0.0173",
+          "ticker_sentiment_score": "0.087362",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SCOR",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.04799",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "Z",
+          "relevance_score": "0.047551",
+          "ticker_sentiment_score": "-0.031014",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RDFN",
+          "relevance_score": "0.004325",
+          "ticker_sentiment_score": "0.19217",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "GOOGL Earnings: The Cheapest of the Magnificent 7",
+      "url": "https://www.zacks.com/commentary/2604261/googl-earnings-the-cheapest-of-the-magnificent-7",
+      "time_published": "20250722T183000",
+      "authors": ["Ethan Feller"],
+      "summary": "Alphabet stock is undervalued and underappreciated heading into earnings ...",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/76/52401.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.994953"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.168933,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.227859",
+          "ticker_sentiment_score": "0.092444",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.046184",
+          "ticker_sentiment_score": "0.142045",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.475918",
+          "ticker_sentiment_score": "0.242233",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.073271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.073271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.073271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.073271",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.183198",
+          "ticker_sentiment_score": "0.08366",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Netflix Lifted Guidance. Is the Stock a Buy Following Its Drop?",
+      "url": "https://www.fool.com/investing/2025/07/22/after-netflix-lifts-guidance-is-the-stock-a-buy/",
+      "time_published": "20250722T174500",
+      "authors": ["Geoffrey Seiler"],
+      "summary": "Netflix ( NASDAQ: NFLX ) once again delivered strong revenue and earnings growth when it reported its Q2 results on July 17, but the stock nonetheless fell on the news. The video streaming company has been a strong performer this year, with the stock up 38% year to date as of market close July 21 ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825775%2Fgettyimages-1038491694.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        }
+      ],
+      "overall_sentiment_score": 0.229931,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.355588",
+          "ticker_sentiment_score": "0.133834",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HPNN",
+          "relevance_score": "0.061315",
+          "ticker_sentiment_score": "0.095008",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is the Stock Market in Bubble Territory?",
+      "url": "https://www.fool.com/investing/2025/07/22/is-the-stock-market-in-bubble-territory/",
+      "time_published": "20250722T165500",
+      "authors": ["Motley Fool Staff"],
+      "summary": "Valuations are stretched, but is it a bubble? In this podcast, Motley Fool contributors Travis Hoium, Lou Whiteman, and Rachel Warren discuss that as well as:To catch full episodes of all The Motley Fool's free podcasts, check out our podcast center.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/825690/is-the-stock-market-in-bubble-territory.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999953"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.2"
+        }
+      ],
+      "overall_sentiment_score": 0.143957,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.074523",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.041926",
+          "ticker_sentiment_score": "0.048309",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ANET",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.062593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ENGS",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.062881",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "JNJ",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "-0.05317",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TOST",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.086777",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BEP",
+          "relevance_score": "0.027958",
+          "ticker_sentiment_score": "0.065323",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "0.007656",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAM",
+          "relevance_score": "0.013981",
+          "ticker_sentiment_score": "-0.000835",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Netflix  ( NFLX )  Upgraded to Strong Buy: Here's Why",
+      "url": "https://www.zacks.com/stock/news/2603931/netflix-nflx-upgraded-to-strong-buy-heres-why",
+      "time_published": "20250722T160003",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Netflix (NFLX) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #1 (Strong Buy).",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default301.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.997845"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.658903"
+        }
+      ],
+      "overall_sentiment_score": 0.299526,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.363388",
+          "ticker_sentiment_score": "0.343067",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Barça Vision selects Qloo as official data provider to boost global growth through artificial intelligence",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46550814/bar-a-vision-selects-qloo-as-official-data-provider-to-boost-global-growth-through-artificial-inte",
+      "time_published": "20250722T160000",
+      "authors": ["PRNewswire"],
+      "summary": "NEW YORK and BARCELONA, Spain, July 22, 2025 /PRNewswire/ -- Barça Vision has announced a strategic partnership with Qloo, a leading artificial intelligence company specializing in predicting global taste and consumer preferences.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.481433,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.069294",
+          "ticker_sentiment_score": "0.207185",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.069294",
+          "ticker_sentiment_score": "0.207185",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JCDXF",
+          "relevance_score": "0.069294",
+          "ticker_sentiment_score": "0.207185",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AUCC's 3rd Year of Spike Lee Fellows Announced",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46543438/auccs-3rd-year-of-spike-lee-fellows-announced",
+      "time_published": "20250722T131000",
+      "authors": ["PRNewswire"],
+      "summary": "ATLANTA, July 22, 2025 /PRNewswire/ -- The Atlanta University Center Consortium ( AUCC ) joins Oscar-winning director Spike Lee and The Gersh Agency in announcing Season Three for the Spike Fellows at Gersh program.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.401142,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.090134",
+          "ticker_sentiment_score": "0.228169",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RL",
+          "relevance_score": "0.090134",
+          "ticker_sentiment_score": "0.228169",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Is Trending Stock Netflix, Inc.  ( NFLX )  a Buy Now?",
+      "url": "https://www.zacks.com/stock/news/2602993/is-trending-stock-netflix-inc-nflx-a-buy-now",
+      "time_published": "20250722T130003",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Zacks.com users have recently been watching Netflix (NFLX) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default45.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.623304"
+        }
+      ],
+      "overall_sentiment_score": 0.246011,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.481177",
+          "ticker_sentiment_score": "0.2222",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Morgan Stanley, Netflix, Cognex And EQT: CNBC's 'Final Trades' - Cognex  ( NASDAQ:CGNX ) , EQT  ( NYSE:EQT ) ",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/07/46541619/morgan-stanley-netflix-cognex-and-an-energy-stock-cnbcs-final-trades",
+      "time_published": "20250722T121655",
+      "authors": ["Avi Kapoor"],
+      "summary": "Stephen Weiss says Netflix was unfairly penalized for the quarter. Sarat Sethi says Morgan Stanley reported great earnings. A new wave of value and momentum stocks could be setting up for major moves-and Tim Melvin will name them live this Wednesday. Secure access here.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/22/London--United-Kingdom---February-26--20.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.972476"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.145715,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.4499",
+          "ticker_sentiment_score": "0.087453",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CGNX",
+          "relevance_score": "0.28008",
+          "ticker_sentiment_score": "0.175993",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.095138",
+          "ticker_sentiment_score": "0.182139",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.095138",
+          "ticker_sentiment_score": "0.114424",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VRTS",
+          "relevance_score": "0.095138",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.4499",
+          "ticker_sentiment_score": "0.281009",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "How Europe's 'trade bazooka' could be a last resort against Trump's tariffs",
+      "url": "https://www.cnbc.com/2025/07/22/europe-has-a-trade-bazooka-against-trumps-trade-tariffs.html",
+      "time_published": "20250722T090303",
+      "authors": [],
+      "summary": "Brussels appears to be preparing to deploy its \"Anti-Coercion Instrument\" to try to deter looming 30% trade tariffs on its exports to the U.S.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Top News",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": -0.05254,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.044304",
+          "ticker_sentiment_score": "0.096185",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.044304",
+          "ticker_sentiment_score": "0.096185",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UBER",
+          "relevance_score": "0.044304",
+          "ticker_sentiment_score": "0.096185",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Can Netflix Stock Double by 2028?",
+      "url": "https://www.fool.com/investing/2025/07/22/can-netflix-double-by-2028/",
+      "time_published": "20250722T072500",
+      "authors": ["Jeremy Bowman"],
+      "summary": "Investors may not think of Netflix ( NASDAQ: NFLX ) as the hot growth stock it was a decade ago, but the stock has been on a warpath over the last few years, despite the broader perception that it's a mature company.After the stock tumbled in 2022, following two straight quarters of subscriber ...",
+      "banner_image": "https://media.ycharts.com/charts/9f824c45f5a88c0aad9c9e424f1541e5.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.997874"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        }
+      ],
+      "overall_sentiment_score": 0.15367,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.429541",
+          "ticker_sentiment_score": "0.242972",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "1 Unstoppable Stock to Buy Before It Soars More Than 1,100% Over the Next 10 Years, According to 1 World-Renowned Analyst",
+      "url": "https://www.fool.com/investing/2025/07/22/1-unstoppable-stock-to-buy-before-it-soars-more-th/",
+      "time_published": "20250722T070200",
+      "authors": ["Danny Vena"],
+      "summary": "A long history of innovation, gale-force secular tailwinds, and its dominant position could drive the industry leader to new heights.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825522%2Fa-holographic-display-of-stock-charts-above-a-laptop.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.955357"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.928769"
+        }
+      ],
+      "overall_sentiment_score": 0.260964,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ANDE",
+          "relevance_score": "0.042421",
+          "ticker_sentiment_score": "0.189998",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.084722",
+          "ticker_sentiment_score": "0.23692",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "STMZF",
+          "relevance_score": "0.042421",
+          "ticker_sentiment_score": "0.15712",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.543535",
+          "ticker_sentiment_score": "0.30642",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.084722",
+          "ticker_sentiment_score": "0.23692",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.084722",
+          "ticker_sentiment_score": "0.23692",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RAINBOW GROUP UNVEILS OFFICIAL TRAILER FOR WINX CLUB-THE MAGIC IS BACK",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46525325/rainbow-group-unveils-official-trailer-for-winx-club-the-magic-is-back",
+      "time_published": "20250721T161700",
+      "authors": ["PRNewswire"],
+      "summary": "LOS ANGELES, July 21, 2025 /PRNewswire/ -- This fall sees the return of iconic animated series Winx Club: The Magic is Back, and today fans can catch a sneak peek at its fabulous new look and the extraordinary new adventures courtesy of Rainbow Group, the studio which first gave these fairies ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [],
+      "overall_sentiment_score": 0.57693,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.100729",
+          "ticker_sentiment_score": "0.300833",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Netflix's Profits Clash With Peaking Business Concerns, Driving Interest In Direxion's NFLX Bull And Bear Funds - Netflix  ( NASDAQ:NFLX ) , Direxion Daily NFLX Bull 2X Shares  ( NASDAQ:NFXL ) ",
+      "url": "https://www.benzinga.com/etfs/specialty-etfs/25/07/46525174/netflixs-profits-clash-with-peaking-business-concerns-driving-interest-in-direxions-nflx-bull",
+      "time_published": "20250721T161213",
+      "authors": ["JE Insights"],
+      "summary": "Streaming giant Netflix posted record profits in Q2, seemingly justifying continued bullish interest. However, recent volatility in NFLX stock raises questions, driving momentum for Direxion's bull and bear ETFs.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/21/Screenshot-2025-07-21-at-12-07-14PM.png?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.875462"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.203108,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.753923",
+          "ticker_sentiment_score": "0.396227",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.042048",
+          "ticker_sentiment_score": "0.242855",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Netflix's Outlook Remains Strong Post Q2 Earnings Beat: Time to Hold?",
+      "url": "https://www.zacks.com/stock/news/2600188/netflixs-outlook-remains-strong-post-q2-earnings-beat-time-to-hold",
+      "time_published": "20250721T155800",
+      "authors": ["Vasundhara Sawalka"],
+      "summary": "NFLX beat Q2 with raised guidance to $44.8-45.2B revenues. Strong content slate ahead. Hold for existing investors, new buyers await better entry points.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/23/20486.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.995015"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.417447,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.446019",
+          "ticker_sentiment_score": "0.459172",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.10863",
+          "ticker_sentiment_score": "0.071792",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.10863",
+          "ticker_sentiment_score": "0.071792",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.03631",
+          "ticker_sentiment_score": "0.226272",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Can Disney's Streaming Boom Unlock Room for More Subscriber Growth?",
+      "url": "https://www.zacks.com/stock/news/2600319/can-disneys-streaming-boom-unlock-room-for-more-subscriber-growth",
+      "time_published": "20250721T152500",
+      "authors": ["Zacks Equity Research"],
+      "summary": "DIS' streaming platforms hit 180.7M subscribers as profits surge, fueled by ESPN integration and blockbuster content.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/bd/688.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.714479"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.283126,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.124164",
+          "ticker_sentiment_score": "0.247843",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PARA",
+          "relevance_score": "0.124164",
+          "ticker_sentiment_score": "-0.001219",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Find Your Happy Place: Topgolf Celebrates the Premiere of Happy Gilmore 2 with a Limited-Edition Odyssey Hockey Stick Putter Giveaway at all U.S. Venues - Topgolf Callaway Brands  ( NYSE:MODG ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46522330/find-your-happy-place-topgolf-celebrates-the-premiere-of-happy-gilmore-2-with-a-limited-edition-od",
+      "time_published": "20250721T150000",
+      "authors": ["PRNewswire"],
+      "summary": "DALLAS, July 21, 2025 /PRNewswire/ -- Golf fans, comedy lovers and Happy Gilmore diehards - get ready to channel your inner Happy. In celebration of the highly anticipated premiere of Happy Gilmore 2 on Netflix July 25, Topgolf has partnered up with the global streaming service to tee up an epic ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.430846,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.049424",
+          "ticker_sentiment_score": "0.357611",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MODG",
+          "relevance_score": "0.243376",
+          "ticker_sentiment_score": "0.394955",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Verizon Q2 Earnings - Verizon Communications  ( NYSE:VZ ) ",
+      "url": "https://www.benzinga.com/markets/earnings/25/07/46518842/verizons-premium-plans-drive-higher-profit-projections-after-solid-quarter",
+      "time_published": "20250721T134531",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Verizon stock rose 4% after Q2 revenue hit $34.5B and EPS beat estimates, driven by strong wireless and broadband growth. Verizon raised 2025 cash flow outlook to $20.5B and sees momentum from premium plans, AI tools, and subscriber gains.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/21/New-York-Usa-2023-04-20-Verizon-Building_3.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999696"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.190869,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.104911",
+          "ticker_sentiment_score": "0.04727",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.05257",
+          "ticker_sentiment_score": "0.245763",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SSTK",
+          "relevance_score": "0.05257",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FYBR",
+          "relevance_score": "0.104911",
+          "ticker_sentiment_score": "0.041885",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.644033",
+          "ticker_sentiment_score": "0.169656",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "International Markets and Netflix  ( NFLX ) : A Deep Dive for Investors",
+      "url": "https://www.zacks.com/stock/news/2599468/international-markets-and-netflix-nflx-a-deep-dive-for-investors",
+      "time_published": "20250721T131503",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Evaluate Netflix's (NFLX) reliance on international revenue to better understand the company's financial stability, growth prospects and potential stock price performance.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default26.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.169591,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.06515",
+          "ticker_sentiment_score": "0.071069",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Sick of Losing the Remote? Universal TV Remote App Puts You Back in Control",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46517467/sick-of-losing-the-remote-universal-tv-remote-app-puts-you-back-in-control",
+      "time_published": "20250721T130000",
+      "authors": ["PRNewswire"],
+      "summary": "No more mismatched remotes, dead batteries, or complex setups-this all-in-one mobile app works with top TV brands out of the box. GEORGETOWN, Cayman Islands, July 21, 2025 /PRNewswire/ -- If you've ever torn apart your couch cushions searching for a lost remote or been frustrated by trying to ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.316294,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.126242",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SNEJF",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.2156",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.2156",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.2156",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ROKU",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.2156",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PCRFF",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.2156",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "XIACY",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.2156",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "CHIPS AHOY! Enters the Upside Down for the Most Anticipated Netflix Release Yet: Stranger Things 5! - Mondelez International  ( NASDAQ:MDLZ ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46517490/chips-ahoy-enters-the-upside-down-for-the-most-anticipated-netflix-release-yet-stranger-things-5",
+      "time_published": "20250721T130000",
+      "authors": ["PRNewswire"],
+      "summary": "CHIPS AHOY! celebrates the final season of Stranger Things by introducing nostalgic 1980s packaging, limited-edition chocolatey cookies with red filling that are inspired by the Upside Down, an augmented reality game to save the cookies, and a chance to win prizes, including a Stranger Things ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.215508,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.032294",
+          "ticker_sentiment_score": "0.016508",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Netflix, RTX And A Basic Materials Stock On CNBC's 'Final Trades' - Netflix  ( NASDAQ:NFLX ) , Freeport-McMoRan  ( NYSE:FCX ) ",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/07/46515477/netflix-rtx-and-a-basic-materials-stock-on-cnbcs-final-trades",
+      "time_published": "20250721T114614",
+      "authors": ["Avi Kapoor"],
+      "summary": "Stephen Weiss names Netflix as his final trade. Kevin Simpson picks RTX amid incredible demand for repair of aerospace. Live Sunday: Matt Maley's Volatility Trading Plan for Earnings, Tariffs, & the Fed [Secure Your Seat Here]",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/21/Diane-Guerrero-Stayed-When-Her-Family-Wa.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.986564"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.157365,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.485711",
+          "ticker_sentiment_score": "0.108098",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FCX",
+          "relevance_score": "0.398148",
+          "ticker_sentiment_score": "0.344926",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.103778",
+          "ticker_sentiment_score": "0.116084",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "TONIES® ANNOUNCES PARTNERSHIP WITH MS. RACHEL TO LAUNCH NEW TONIE FIGURINE",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46514757/tonies-announces-partnership-with-ms-rachel-to-launch-new-tonie-figurine",
+      "time_published": "20250721T110000",
+      "authors": ["PRNewswire"],
+      "summary": "PALO ALTO, Calif., July 21, 2025 /PRNewswire/ -- tonies®, the original screen-free audio entertainment system for young children, is excited to announce a new partnership with Ms. Rachel, known to millions as the beloved educator and content creator behind the Ms. Rachel YouTube Channel.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.45622,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.055881",
+          "ticker_sentiment_score": "0.218977",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.111488",
+          "ticker_sentiment_score": "0.215547",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.055881",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WMT",
+          "relevance_score": "0.055881",
+          "ticker_sentiment_score": "0.120896",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Zacks Investment Ideas feature highlights: Netflix, Disney, Amazon and Paramount Global",
+      "url": "https://www.zacks.com/stock/news/2598730/zacks-investment-ideas-feature-highlights-netflix-disney-amazon-and-paramount-global",
+      "time_published": "20250721T090100",
+      "authors": ["Zacks Equity Research"],
+      "summary": "NFLX dips post-earnings despite strong Q2 results, fueling debate over valuation, subscriber growth, and long-term upside.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/da/91.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.988915"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.257577,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.612343",
+          "ticker_sentiment_score": "0.388261",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NNOX",
+          "relevance_score": "0.062597",
+          "ticker_sentiment_score": "0.086463",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PARA",
+          "relevance_score": "0.186259",
+          "ticker_sentiment_score": "0.134073",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.186259",
+          "ticker_sentiment_score": "0.129225",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:NANO",
+          "relevance_score": "0.062597",
+          "ticker_sentiment_score": "0.086463",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Dow Sinks Over 100 Points As Sentiment Slips, Yet Fear & Greed Index Still Flashes 'Extreme Greed' - American Express  ( NYSE:AXP ) , Domino's Pizza  ( NASDAQ:DPZ ) ",
+      "url": "https://www.benzinga.com/markets/equities/25/07/46513114/dow-sinks-over-100-points-as-sentiment-slips-yet-fear-greed-index-still-flashes-extreme-greed",
+      "time_published": "20250721T084659",
+      "authors": ["Avi Kapoor"],
+      "summary": "The CNN Money Fear and Greed index showed some decline in the overall market sentiment, but the index remained in the \"Extreme Greed\" zone on Friday. U.S. stocks settled mostly lower on Friday, with the Dow Jones index falling more than 100 points during the session as continued trade tensions ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/21/Fear-and-Greed.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.714479"
+        }
+      ],
+      "overall_sentiment_score": -0.134995,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.158",
+          "ticker_sentiment_score": "0.189256",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DMPZF",
+          "relevance_score": "0.079392",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.158",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.079392",
+          "ticker_sentiment_score": "-0.317892",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.158",
+          "ticker_sentiment_score": "0.189256",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MMM",
+          "relevance_score": "0.158",
+          "ticker_sentiment_score": "0.189256",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DPZ",
+          "relevance_score": "0.158",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STLD",
+          "relevance_score": "0.158",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Netflix Uses Generative AI in TV Show for First Time",
+      "url": "https://decrypt.co/330942/netflix-uses-generative-ai-tv-show-first-time",
+      "time_published": "20250720T190103",
+      "authors": ["Connor Sephton"],
+      "summary": "\"The Eternaut\" is the first show from Netflix to use generative AI, which co-CEO Ted Sarandos called an \"incredible opportunity.\" ...",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/eternaut-decrypt-style-gID_7.jpg",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.229596,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.323078",
+          "ticker_sentiment_score": "0.263451",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tech News  ( July 14-July 18 ) : China Cuts US Debt, Fed Signals Rate Shift, Netflix And TSMC Lead Earnings Beat; Meta-AWS Push AI - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46509868/tech-news-july-14-july-18-china-cuts-us-debt-fed-signals-rate-shift-netflix-and-tsmc-lead-earnings-b",
+      "time_published": "20250720T132206",
+      "authors": ["Nabaparna Bhattacharya"],
+      "summary": "Netflix and TSMC led a strong earnings wave, signaling resilience in consumer demand and tech manufacturing strength. China's U.S. debt selloff and Fed rate cut signals stirred markets.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/20/Tech-stock-skyrockets.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.166667"
+        }
+      ],
+      "overall_sentiment_score": 0.177604,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.043473",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DKNG",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.11787",
+          "ticker_sentiment_score": "0.179007",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.11065",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.11787",
+          "ticker_sentiment_score": "0.151364",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.156715",
+          "ticker_sentiment_score": "0.006561",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MP",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.104539",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WRD",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "-0.009214",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RIVN",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLUG",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.182101",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MMM",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "-0.016648",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LCID",
+          "relevance_score": "0.156715",
+          "ticker_sentiment_score": "0.113339",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.11787",
+          "ticker_sentiment_score": "0.090661",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MRVL",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.241514",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Bulls And Bears: Netflix, GameStop, Plug Power - And Defense Stocks Soar Bulls And Bears: Netflix, GameStop, Plug Power - And Defense Stocks Soar - BlackSky Technology  ( NYSE:BKSY ) , Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/markets/market-summary/25/07/46508266/benzinga-bulls-and-bears-netflix-gamestop-plug-power-and-defense-stocks-soar",
+      "time_published": "20250719T120024",
+      "authors": ["Benzinga Senior Editor"],
+      "summary": "Benzinga examined the prospects for many investors' favorite stocks over the last week - here's a look at some of our top stories. The Magnificent Seven led Wall Street higher this week, pushing the S&P 500 and Nasdaq 100 to new all-time highs.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/19/Bulls-and-Bears-1.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.962106"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.346423,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BKSY",
+          "relevance_score": "0.108466",
+          "ticker_sentiment_score": "0.004535",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.162073",
+          "ticker_sentiment_score": "0.326808",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.162073",
+          "ticker_sentiment_score": "0.223955",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.214937",
+          "ticker_sentiment_score": "0.393766",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "PLUG",
+          "relevance_score": "0.108466",
+          "ticker_sentiment_score": "0.204155",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RGTI",
+          "relevance_score": "0.108466",
+          "ticker_sentiment_score": "0.15989",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GME",
+          "relevance_score": "0.162073",
+          "ticker_sentiment_score": "0.27298",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Which Is the Best \"Magnificent Seven\" Stock to Buy Right Now?",
+      "url": "https://www.fool.com/investing/2025/07/19/best-magnificent-seven-stock-to-buy-right-now/",
+      "time_published": "20250719T113000",
+      "authors": ["Neil Patel"],
+      "summary": "Before, it was the FAANG stocks. In recent years, the term \"Magnificent Seven\" was used to group what the market believes are some of most dominant businesses on Earth. These companies' shares soared, a key factor putting them in investors' good graces.But among these elite businesses, which one ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825291%2Fpointing-to-files-cloud-computing.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.650727"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.276247,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.063425",
+          "ticker_sentiment_score": "0.140391",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.422493",
+          "ticker_sentiment_score": "0.205797",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: 2 Stocks That Will Be Worth More Than SoundHound AI a Year From Now",
+      "url": "https://www.fool.com/investing/2025/07/19/predict-stocks-worth-more-soundhound-ai/",
+      "time_published": "20250719T093500",
+      "authors": ["Jeremy Bowman"],
+      "summary": "SoundHound AI ( NASDAQ: SOUN ) has attracted a lot of attention in this new era of artificial intelligence ( AI ) . The company makes voice recognition technology and voice assistants that are used by restaurants, the auto industry, television, and related industries.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825440%2Finvesting-education-reading-stocks-home-young-1200x675-128554e.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.928769"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.264722,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.127119",
+          "ticker_sentiment_score": "-0.009565",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MGNI",
+          "relevance_score": "0.310843",
+          "ticker_sentiment_score": "0.221891",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SEZL",
+          "relevance_score": "0.18967",
+          "ticker_sentiment_score": "0.393878",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "SOUN",
+          "relevance_score": "0.251032",
+          "ticker_sentiment_score": "0.199642",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TTD",
+          "relevance_score": "0.127119",
+          "ticker_sentiment_score": "-0.009565",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "1 Unstoppable Stock Has Quietly Outperformed Every Single Member of the \"Magnificent Seven,\" and It's Still a Buy Right Now, According to Wall Street.",
+      "url": "https://www.fool.com/investing/2025/07/19/1-unstoppable-stock-has-quietly-outperformed-every/",
+      "time_published": "20250719T080400",
+      "authors": ["Danny Vena"],
+      "summary": "The advent of generative artificial intelligence ( AI ) brought a windfall for the \"Magnificent Seven,\" which quickly became some of the market's best-performing stocks. The popular collective includes Meta Platforms, Apple, Amazon, Alphabet, Microsoft, Nvidia, and Tesla.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825707%2Fa-couple-sitting-on-a-loveseat-laughing-while-watching-television.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999982"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.342437,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.045569",
+          "ticker_sentiment_score": "0.266277",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.608634",
+          "ticker_sentiment_score": "0.543432",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.045569",
+          "ticker_sentiment_score": "0.266277",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.045569",
+          "ticker_sentiment_score": "0.266277",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.045569",
+          "ticker_sentiment_score": "0.266277",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2939 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Hong Kong stocks snap 5-day gain ahead of latest China-US trade talks",
+      "url": "https://www.scmp.com/business/china-business/article/3319523/hong-kong-stocks-snap-5-day-gain-investors-await-latest-china-us-trade-talks",
+      "time_published": "20250725T022616",
+      "authors": ["Zhang Shidong"],
+      "summary": "The run-up that drove Hong Kong stocks to the highest level in three and a half years took a pause on Friday before a new bout of trade talks between China and the US over the weekend. The Hang Seng Index fell 0.6 per cent to 25,509.55 as of 10.12am local time, halting a five-day gain.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/25/44cb43e4-3260-4f14-be09-6ffc294f8464_33ffa135.jpg?itok=1P3w-L0s&v=1753410374",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.088498,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.130217",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LI",
+          "relevance_score": "0.130217",
+          "ticker_sentiment_score": "-0.15659",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.130217",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tencent's AI-powered programming tool fully automates app development",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3319447/tencents-new-ai-powered-programming-tool-fully-automates-application-development",
+      "time_published": "20250724T113008",
+      "authors": ["Danielle Popov"],
+      "summary": "Tencent Holdings this week commenced beta testing on CodeBuddy IDE, a smart programming tool for software developers that provides artificial intelligence (AI) and natural language support for designing, building and deploying new applications.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/24/d82ee759-fc0d-479b-a6ee-5abf2718eb08_817148c8.jpg?itok=IEeATIU5&v=1753349322",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.242162,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.22421",
+          "ticker_sentiment_score": "0.09159",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.075635",
+          "ticker_sentiment_score": "0.141619",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SZIHF",
+          "relevance_score": "0.075635",
+          "ticker_sentiment_score": "-0.109155",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.493666",
+          "ticker_sentiment_score": "0.361413",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "US and EU users open to Chinese AI models like DeepSeek: survey",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3319392/us-and-european-users-open-chinese-ai-models-deepseek-despite-scrutiny-survey",
+      "time_published": "20250724T080013",
+      "authors": ["Ben Jiang"],
+      "summary": "Most US and European Union respondents in a recent survey said they were open to using artificial intelligence models from China, underscoring the growing international popularity of tech innovation from the world's second-largest economy.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/07/16/CLEAN---thumbnail_0.jpg?itok=7_RMDmya",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.281256,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.080728",
+          "ticker_sentiment_score": "0.150453",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.080728",
+          "ticker_sentiment_score": "0.129408",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.160633",
+          "ticker_sentiment_score": "0.205481",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alibaba  ( BABA )  Laps the Stock Market: Here's Why",
+      "url": "https://www.zacks.com/stock/news/2609425/alibaba-baba-laps-the-stock-market-heres-why",
+      "time_published": "20250723T214504",
+      "authors": ["Zacks Equity Research"],
+      "summary": "The latest trading day saw Alibaba (BABA) settling at $122.58, representing a +1.55% change from its previous close.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default156.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.961735"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        }
+      ],
+      "overall_sentiment_score": 0.196949,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.543535",
+          "ticker_sentiment_score": "0.272035",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "SAP's Q2 Earnings Beat Estimates, Revenues Miss, Stock Falls",
+      "url": "https://www.zacks.com/stock/news/2607972/saps-q2-earnings-beat-estimates-revenues-miss-stock-falls",
+      "time_published": "20250723T141500",
+      "authors": ["Zacks Equity Research"],
+      "summary": "SAP posts 37% EPS growth and 24% cloud revenue surge, but shares slip after mixed Q2 results and currency concerns.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ab/1753.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.99992"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.179275,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.089009",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BB",
+          "relevance_score": "0.062597",
+          "ticker_sentiment_score": "-0.069136",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMTOY",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.089009",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SAP",
+          "relevance_score": "0.495572",
+          "ticker_sentiment_score": "0.255916",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SCBFF",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.225509",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IOCJY",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "-0.074728",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BF-A",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.225509",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MCSHF",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.225509",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ACN",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.225509",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BGAOF",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.089009",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SLP",
+          "relevance_score": "0.062597",
+          "ticker_sentiment_score": "0.112046",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SSUMF",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.089009",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAESF",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.225509",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INFY",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.225509",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "LRLCF",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.225509",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SMTUF",
+          "relevance_score": "0.031322",
+          "ticker_sentiment_score": "0.089009",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Europe's most valuable firm SAP flags U.S. trade slowdown but says Japan deal gives 'hope'",
+      "url": "https://www.cnbc.com/2025/07/23/germanys-sap-flags-us-trade-hit-but-says-japan-deal-gives-hope.html",
+      "time_published": "20250723T122931",
+      "authors": [],
+      "summary": "Deal-signing at the German cloud computing and software giant SAP turned cautious in the second quarter, CFO Dominik Asam told CNBC.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Earnings",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": 0.039161,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.062761",
+          "ticker_sentiment_score": "0.183059",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVO",
+          "relevance_score": "0.062761",
+          "ticker_sentiment_score": "0.15819",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.062761",
+          "ticker_sentiment_score": "-0.138483",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.062761",
+          "ticker_sentiment_score": "-0.138483",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Singaporean chip tool maker ASMPT sees steady growth amid AI infrastructure boom",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3319318/singaporean-chip-equipment-maker-asmpt-sees-steady-growth-behind-ai-infrastructure-boom",
+      "time_published": "20250723T115502",
+      "authors": ["Hannah Wang"],
+      "summary": "ASMPT, a Singapore-based semiconductor equipment manufacturer listed in Hong Kong, sees steady long-term growth for the company, as the roll-out of more data centres spurs greater demand for artificial intelligence (AI) chips.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/07/23/5da2a717-3ce6-4f6b-8bbb-69a638361f6b_5b23f3a7.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.905476"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.273493,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.072876",
+          "ticker_sentiment_score": "0.077415",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.072876",
+          "ticker_sentiment_score": "0.069448",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BAC",
+          "relevance_score": "0.072876",
+          "ticker_sentiment_score": "0.117888",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.072876",
+          "ticker_sentiment_score": "0.059469",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "China's growing army of open-source developers tops peers in India, US, EU",
+      "url": "https://www.scmp.com/tech/article/3319280/china-tops-india-us-and-eu-growing-pool-open-source-developers-experts-say",
+      "time_published": "20250723T113008",
+      "authors": ["Ben Jiang"],
+      "summary": "China is emerging as a major force in the global open-source community with a growing number of developers and widely adopted projects such as DeepSeek's artificial intelligence (AI) models, according to industry experts.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/06/10/Thu_Clean-(15).jpg?itok=gnISwi22",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.274019,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.150122",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.075397",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.075397",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alibaba unleashes Qwen3 coding model for developers to push AI agent adoption",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3319277/alibaba-unleashes-qwen3-coding-model-developers-push-ai-agent-adoption",
+      "time_published": "20250723T103009",
+      "authors": ["Wency Chen"],
+      "summary": "Alibaba Group Holding is looking to ratchet up the high-performance development of artificial intelligence (AI) agents, with Wednesday's release of a new open-source coder under its Qwen3 family of models. Touted as the company's \"most advanced agentic AI coding model to date\", the ...",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/23/a702a69f-757d-4485-8e3e-728936befc2a_1ebcd53d.jpg?itok=jpKbJfjA&v=1753261029",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.194915,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.456544",
+          "ticker_sentiment_score": "0.268874",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.060541",
+          "ticker_sentiment_score": "0.119007",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "US Stocks Likely To Open Higher As Trump Seals Japan Trade Deal - Tesla, AT&T, Texas Instruments Earnings On Deck - Alibaba Gr Hldgs  ( NYSE:BABA ) ",
+      "url": "https://www.benzinga.com/markets/equities/25/07/46566334/us-stocks-likely-to-open-higher-as-trump-seals-japan-trade-deal-tesla-att-texas-instruments-earn",
+      "time_published": "20250723T094513",
+      "authors": ["Rishabh Mishra"],
+      "summary": "U.S. stock futures rose on Wednesday after ending on a mixed note on Tuesday. Futures of major benchmark indices were higher. President Donald Trump finalized the long-anticipated trade deal between Washington and Tokyo. Trump emphasized the job creation potential, stating it would generate ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/23/Wall-Street.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.769861"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.995973"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.917436"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.069879,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.048257",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOC",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "-0.060832",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CEG",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "-0.060832",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OFAL",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.213086",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GPRO",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.195653",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DNUT",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.195653",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "-0.282053",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.039811",
+          "ticker_sentiment_score": "0.223796",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.07309",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LVLU",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.201804",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.072073",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "T",
+          "relevance_score": "0.039811",
+          "ticker_sentiment_score": "-0.024656",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VST",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.079524",
+          "ticker_sentiment_score": "0.213086",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alibaba's Upgraded Qwen3 Outperforms OpenAI, DeepSeek - Alibaba Gr Hldgs  ( NYSE:BABA ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46566307/alibabas-upgraded-qwen3-outperforms-openai-deepseek",
+      "time_published": "20250723T094249",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Alibaba's new Qwen3 model beat OpenAI and DeepSeek in coding, boosting AI performance and handling longer text inputs. The upgraded AI will power HP's smart assistant in China, while Alibaba stock rose 2% on strong tech momentum.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/23/Alibaba.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.380441,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.495015",
+          "ticker_sentiment_score": "0.575609",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.224903",
+          "ticker_sentiment_score": "0.348363",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.075874",
+          "ticker_sentiment_score": "0.175214",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Alibaba's Taobao sees 60% user surge in Thailand after local launch",
+      "url": "https://www.scmp.com/tech/big-tech/article/3319264/alibabas-taobao-sees-60-user-surge-thailand-after-launch-local-language-version",
+      "time_published": "20250723T090009",
+      "authors": ["Ann Cao"],
+      "summary": "Taobao, China's largest online shopping app owned by Alibaba Group Holding, is seeing rapid user growth in Thailand, as the platform expands its international presence in search of new growth opportunities. Just over a month after the launch of a localised version of Taobao, the number of new ...",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/07/23/7874b154-262e-459d-85f7-6d2a6c22e89e_1126e908.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.250659,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.346884",
+          "ticker_sentiment_score": "0.264356",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "0.158762",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PDD",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "-0.045387",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IDIG",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "0.029926",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CGCO",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "0.029926",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:THB",
+          "relevance_score": "0.177802",
+          "ticker_sentiment_score": "0.052295",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Reasons Why Investors Should Stay Away From Alibaba Stock Right Now",
+      "url": "https://www.zacks.com/stock/news/2603884/3-reasons-why-investors-should-stay-away-from-alibaba-stock-right-now",
+      "time_published": "20250722T155000",
+      "authors": ["Vasundhara Sawalka"],
+      "summary": "Deteriorating cash flow generation, slowing growth momentum and persistent valuation premiums make BABA a stock worth avoiding right now.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ae/81330.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.54554"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.99737"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.094261,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.566944",
+          "ticker_sentiment_score": "0.162101",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.083251",
+          "ticker_sentiment_score": "-0.099169",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.083251",
+          "ticker_sentiment_score": "-0.099169",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.041682",
+          "ticker_sentiment_score": "0.087419",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Qidian Guofeng: The Latest Chinese Company To Jump On The 'AI Halo' Bandwagon",
+      "url": "https://www.benzinga.com/markets/asia/25/07/46548011/qidian-guofeng-the-latest-chinese-company-to-jump-on-the-ai-halo-bandwagon",
+      "time_published": "20250722T144806",
+      "authors": ["Bamboo Works"],
+      "summary": "The company, which is developing an online-merge-offline ( OMO ) new consumption platform, swung to a 2.23 billion yuan loss last year on asset impairments Qidian Guofeng has signed a letter of intent to acquire an AI technology company, sparking a rally for its shares",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/22/Qidian.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Mergers",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.998962"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.153392,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.071784",
+          "ticker_sentiment_score": "0.132302",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.071784",
+          "ticker_sentiment_score": "0.024426",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.035929",
+          "ticker_sentiment_score": "0.126916",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.035929",
+          "ticker_sentiment_score": "0.169196",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SNTMF",
+          "relevance_score": "0.035929",
+          "ticker_sentiment_score": "0.077521",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.071784",
+          "ticker_sentiment_score": "0.132302",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is Alibaba Cloud's Growing Partner Base a Catalyst for Future Returns?",
+      "url": "https://www.zacks.com/stock/news/2603461/is-alibaba-clouds-growing-partner-base-a-catalyst-for-future-returns",
+      "time_published": "20250722T140700",
+      "authors": ["Zacks Equity Research"],
+      "summary": "BABA expands Alibaba Cloud's global partner base, fueling AI adoption and revenue growth amid fierce tech competition.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0c/1115.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.208564,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.841981",
+          "ticker_sentiment_score": "0.367386",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.275867",
+          "ticker_sentiment_score": "0.014591",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.056275",
+          "ticker_sentiment_score": "0.177962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.056275",
+          "ticker_sentiment_score": "0.199043",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FTNT",
+          "relevance_score": "0.056275",
+          "ticker_sentiment_score": "0.069037",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AEXAF",
+          "relevance_score": "0.112269",
+          "ticker_sentiment_score": "0.123485",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.167709",
+          "ticker_sentiment_score": "0.114966",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DXC",
+          "relevance_score": "0.112269",
+          "ticker_sentiment_score": "0.123485",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alibaba upgrades Qwen3 model to outperform OpenAI, DeepSeek in maths, coding",
+      "url": "https://www.scmp.com/tech/big-tech/article/3319101/alibaba-upgrades-flagship-qwen3-model-outperform-openai-deepseek-maths-coding",
+      "time_published": "20250722T090010",
+      "authors": ["Coco Feng"],
+      "summary": "Alibaba Group Holding unveiled an upgraded version of its third-generation Qwen3 family of large language models (LLMs), improving one of its members to score higher in maths and coding than products from rivals OpenAI and DeepSeek.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/22/5f9b6d93-227d-40e0-92f9-d89f6ab0c114_21b6fdee.jpg?itok=o_Sbt7ZR&v=1753165254",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.336687,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.252987",
+          "ticker_sentiment_score": "0.322612",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.085629",
+          "ticker_sentiment_score": "0.266488",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Own Amazon Stock  ( AMZN ) ? This Is the 1 Thing to Watch Now.",
+      "url": "https://www.fool.com/investing/2025/07/22/own-amazon-stock-amzn-this-is-the-one-thing-to/",
+      "time_published": "20250722T085500",
+      "authors": ["Patrick Sanders"],
+      "summary": "Amazon ( NASDAQ: AMZN ) is a powerhouse name in the stock market, with soaring revenues, a key role in both e-commerce and cloud computing, and a market capitalization of more than $2.3 trillion.But Amazon stock is only up less than 2% so far this year and its dominance in the cloud computing ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825160%2Fbox-with-logo.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.94762"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.168482,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.121037",
+          "ticker_sentiment_score": "-0.066231",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.180685",
+          "ticker_sentiment_score": "-0.084544",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.746601",
+          "ticker_sentiment_score": "0.257438",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.060694",
+          "ticker_sentiment_score": "0.01703",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "2 Warren Buffett Stocks to Buy Hand Over Fist -- and 1 to Avoid",
+      "url": "https://www.fool.com/investing/2025/07/22/2-warren-buffett-stocks-to-buy-hand-over-fist-and/",
+      "time_published": "20250722T071700",
+      "authors": ["Patrick Sanders"],
+      "summary": "Legendary investor Warren Buffett's track record can stand up to anyone's. The Oracle of Omaha is one of the best value investors in the world, using a simple investing philosophy of choosing well-established companies that are leaders in their field and have strong management, earnings, and a ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825767%2Fbuffett5-tmf.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.905476"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.961735"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.306507,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.096477",
+          "ticker_sentiment_score": "0.090483",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.048327",
+          "ticker_sentiment_score": "0.084793",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.048327",
+          "ticker_sentiment_score": "0.084793",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.328611",
+          "ticker_sentiment_score": "0.405876",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.372216",
+          "ticker_sentiment_score": "0.310255",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BRK-A",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.131932",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Moonshot's Kimi K2 soars in popularity amid experts' praise for Chinese AI",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3319100/moonshots-kimi-k2-soars-popularity-amid-experts-praise-chinese-ai-developments",
+      "time_published": "20250722T060808",
+      "authors": ["Danielle Popov"],
+      "summary": "The launch of the Kimi K2 artificial intelligence model by Alibaba Group Holding-backed Moonshot AI has drawn rapid uptake amid praise from industry experts. Downloads of Kimi K2, launched on July 11, doubled to 145,000 on Monday from 76,000 on Friday, according to AI and machine-learning ...",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/22/5ebf06a0-7618-4ac8-9979-4197b302db62_7616675a.jpg?itok=taPi4Nh8&v=1753164487",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.288489,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.06697",
+          "ticker_sentiment_score": "0.315723",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.06697",
+          "ticker_sentiment_score": "0.103231",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.06697",
+          "ticker_sentiment_score": "0.238002",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia's CEO Hits Beijing Like A Rockstar, Stirs Jensen-Mania In China - NVIDIA  ( NASDAQ:NVDA ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46526759/nvidias-ceo-hits-beijing-like-a-rockstar-stirs-jensen-mania-in-china",
+      "time_published": "20250721T170326",
+      "authors": ["Erica Kollmann"],
+      "summary": "Nvidia CEO Jensen Huang is met with a celebrity-like welcome from fans in China. Huang praises Chinese tech rivals while visiting the country. A new wave of value and momentum stocks could be setting up for major moves-and Tim Melvin will name them live this Wednesday. Secure access here.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/21/Nvidia-Founder--President-And-Ceo-Jensen.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.254125,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.181819",
+          "ticker_sentiment_score": "0.115197",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.354319",
+          "ticker_sentiment_score": "0.26386",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.091509",
+          "ticker_sentiment_score": "0.180513",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.091509",
+          "ticker_sentiment_score": "0.083131",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Shares of Opendoor Are Skyrocketing Again Today",
+      "url": "https://www.fool.com/investing/2025/07/21/why-shares-of-opendoor-are-skyrocketing-again-toda/",
+      "time_published": "20250721T164117",
+      "authors": ["Bram Berkowitz"],
+      "summary": "Shares of iBuying real estate company Opendoor ( NASDAQ: OPEN ) once again soared, trading roughly 71% higher today, as of 12:18 p.m. ET. The stock continues to surge on meme-stock trading activity and bullish social media posts from EMJ Capital founder Eric Jackson.Opendoor has caught the ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825916%2Fpositive-people-3.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.503496"
+        }
+      ],
+      "overall_sentiment_score": 0.088095,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.128135",
+          "ticker_sentiment_score": "0.129533",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ROKU",
+          "relevance_score": "0.128135",
+          "ticker_sentiment_score": "0.129533",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.128135",
+          "ticker_sentiment_score": "0.129533",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "SHOP Trades Higher Than Industry at 13.75X P/S: Is the Stock a Buy?",
+      "url": "https://www.zacks.com/stock/news/2599904/shop-trades-higher-than-industry-at-1375x-ps-is-the-stock-a-buy",
+      "time_published": "20250721T142100",
+      "authors": ["Kashvi Chandgothia"],
+      "summary": "Shopify trades rich, but robust growth, AI-driven upgrades and platform expansion continue to attract buyers.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/58/1179.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.284606,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.180124",
+          "ticker_sentiment_score": "0.20452",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PYPL",
+          "relevance_score": "0.045396",
+          "ticker_sentiment_score": "0.051431",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SHOP",
+          "relevance_score": "0.720567",
+          "ticker_sentiment_score": "0.445342",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.045396",
+          "ticker_sentiment_score": "0.051431",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRTO",
+          "relevance_score": "0.045396",
+          "ticker_sentiment_score": "0.051431",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ETSY",
+          "relevance_score": "0.180124",
+          "ticker_sentiment_score": "0.20452",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ADYYF",
+          "relevance_score": "0.045396",
+          "ticker_sentiment_score": "0.051431",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RBLX",
+          "relevance_score": "0.135602",
+          "ticker_sentiment_score": "0.130969",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PINS",
+          "relevance_score": "0.045396",
+          "ticker_sentiment_score": "0.051431",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.180124",
+          "ticker_sentiment_score": "0.20452",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "COIN",
+          "relevance_score": "0.045396",
+          "ticker_sentiment_score": "0.032299",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BIRK",
+          "relevance_score": "0.045396",
+          "ticker_sentiment_score": "-0.048683",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Involution to evolution? China urged to spur new demand, innovation-led growth",
+      "url": "https://www.scmp.com/economy/china-economy/article/3319009/china-urged-curb-neijuan-boosting-domestic-consumption-innovation-led-growth",
+      "time_published": "20250721T113007",
+      "authors": ["June Xia"],
+      "summary": "Stimulating consumer demand and encouraging sustainable innovation are vital to China's efforts to combat excessive competition - termed neijuan in Chinese, or \"involution\" - and could even help turn the trend into a virtuous cycle, analysts said.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/21/2eff96c3-4ca2-4ae3-8647-b04d7ec3bdea_772de8ca.jpg?itok=i4Bfho_i&v=1753099188",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [],
+      "overall_sentiment_score": 0.180644,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.092927",
+          "ticker_sentiment_score": "0.078175",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MCQEF",
+          "relevance_score": "0.046543",
+          "ticker_sentiment_score": "-0.149433",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CNICF",
+          "relevance_score": "0.046543",
+          "ticker_sentiment_score": "-0.187401",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MPNGY",
+          "relevance_score": "0.046543",
+          "ticker_sentiment_score": "0.092703",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Party's Over: China Tells Alibaba, Meituan, JD To Stop Bleeding - Alibaba Gr Hldgs  ( NYSE:BABA ) , JD.com  ( NASDAQ:JD ) , Meituan  ( OTC:MPNGY ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46513732/partys-over-china-tells-alibaba-meituan-jd-to-stop-bleeding",
+      "time_published": "20250721T094754",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "China's market watchdog urged Alibaba, JD.com, and Meituan to ease price wars and promote fairer competition in food delivery. SAMR also flagged food safety risks in livestream sales as deep discounts push delivery orders past 250 million daily.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/21/Alibaba.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.87644"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.065803,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.447528",
+          "ticker_sentiment_score": "0.05159",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.059194",
+          "ticker_sentiment_score": "0.246069",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.059194",
+          "ticker_sentiment_score": "-0.15518",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MPNGY",
+          "relevance_score": "0.396798",
+          "ticker_sentiment_score": "0.030981",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:CNY",
+          "relevance_score": "0.059194",
+          "ticker_sentiment_score": "-0.035142",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "China robotics firm Unitree eyes IPO filing this year",
+      "url": "https://www.scmp.com/tech/article/3319018/china-robotics-firm-unitree-eyes-ipo-filing-year-industry-starts-commercialise",
+      "time_published": "20250721T093010",
+      "authors": ["Coco Feng"],
+      "summary": "Unitree Robotics has filed pre-initial public offering (IPO) documents with China's securities regulator, a move that analysts said signalled that the industry is moving from \"laboratory to commercialisation\". The Hangzhou-based start-up hired Citic Securities to \"assist the company in preparing ...",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/21/f9438c19-68e0-4582-887c-70361cab0fbd_d195f5dd.jpg?itok=iYAKt0XC&v=1753089609",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.839681"
+        }
+      ],
+      "overall_sentiment_score": 0.195615,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.067536",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CIIHY",
+          "relevance_score": "0.067536",
+          "ticker_sentiment_score": "0.051098",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.067536",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "My 5 Favorite Stocks to Buy Right Now",
+      "url": "https://www.fool.com/investing/2025/07/21/my-5-favorite-stocks-to-buy-right-now/",
+      "time_published": "20250721T082500",
+      "authors": ["James Brumley"],
+      "summary": "The market's underestimating -- and undervaluing -- these hidden growth gems.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825537%2Finvestment-analyst.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": 0.252219,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.147141",
+          "ticker_sentiment_score": "0.208941",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "APP",
+          "relevance_score": "0.147141",
+          "ticker_sentiment_score": "0.181347",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MELI",
+          "relevance_score": "0.147141",
+          "ticker_sentiment_score": "0.264047",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.110632",
+          "ticker_sentiment_score": "-0.103046",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.073886",
+          "ticker_sentiment_score": "-0.133206",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PEP",
+          "relevance_score": "0.147141",
+          "ticker_sentiment_score": "-0.198024",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.073886",
+          "ticker_sentiment_score": "0.102855",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Chinese open-source AI models occupy top spots among global developers: ranking",
+      "url": "https://www.scmp.com/tech/big-tech/article/3318985/chinese-open-source-ai-models-occupy-top-spots-among-global-developers-ranking",
+      "time_published": "20250721T080015",
+      "authors": ["Ann Cao"],
+      "summary": "China is home to the world's top artificial intelligence (AI) models that are open-sourced, according to an American benchmarking platform created by researchers from the University of California, Berkeley. Kimi K2, MiniMax M1, Qwen 3 and a variant of DeepSeek R1 were ranked as the world's top ...",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/21/4c4de6d1-37f2-444f-9555-881a2dd45c88_f5b2bea7.jpg?itok=n8mu7Ncp&v=1753083455",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.30339,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.082393",
+          "ticker_sentiment_score": "0.027742",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.082393",
+          "ticker_sentiment_score": "0.055037",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.082393",
+          "ticker_sentiment_score": "0.259612",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong stocks extend from 3-year high on China growth optimism",
+      "url": "https://www.scmp.com/business/china-business/article/3318944/hong-kong-stocks-extend-3-year-high-china-growth-optimism",
+      "time_published": "20250721T022159",
+      "authors": ["Zhang Shidong"],
+      "summary": "Hong Kong stocks kicked off the week's trading on a strong note on Monday, with the benchmark extending the gain from a three-year high on Friday as optimism about the resilience of China's growth and the risk-on mood in global stocks boosted sentiment.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/21/0e97bc7b-5595-48f3-8a56-ae1b6cef5c12_108840a6.jpg?itok=t-a2lVCQ&v=1753064518",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.142526,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.129516",
+          "ticker_sentiment_score": "0.18455",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MPNGY",
+          "relevance_score": "0.129516",
+          "ticker_sentiment_score": "0.18455",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PCCYF",
+          "relevance_score": "0.129516",
+          "ticker_sentiment_score": "0.14673",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Tech News  ( July 14-July 18 ) : China Cuts US Debt, Fed Signals Rate Shift, Netflix And TSMC Lead Earnings Beat; Meta-AWS Push AI - Apple  ( NASDAQ:AAPL ) , Amazon.com  ( NASDAQ:AMZN ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46509868/tech-news-july-14-july-18-china-cuts-us-debt-fed-signals-rate-shift-netflix-and-tsmc-lead-earnings-b",
+      "time_published": "20250720T132206",
+      "authors": ["Nabaparna Bhattacharya"],
+      "summary": "Netflix and TSMC led a strong earnings wave, signaling resilience in consumer demand and tech manufacturing strength. China's U.S. debt selloff and Fed rate cut signals stirred markets.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/20/Tech-stock-skyrockets.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.166667"
+        }
+      ],
+      "overall_sentiment_score": 0.177604,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.043473",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DKNG",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.11787",
+          "ticker_sentiment_score": "0.179007",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.11065",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.11787",
+          "ticker_sentiment_score": "0.151364",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.156715",
+          "ticker_sentiment_score": "0.006561",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MP",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.104539",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WRD",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "-0.009214",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RIVN",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLUG",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RUM",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.182101",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MMM",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "-0.016648",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LCID",
+          "relevance_score": "0.156715",
+          "ticker_sentiment_score": "0.113339",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.11787",
+          "ticker_sentiment_score": "0.090661",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MRVL",
+          "relevance_score": "0.07874",
+          "ticker_sentiment_score": "0.241514",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: 3 Magnificent Stocks That'll Be Worth More Than Nvidia and Palantir by 2035",
+      "url": "https://www.fool.com/investing/2025/07/20/prediction-3-stock-worth-more-nvidia-palantir-2035/",
+      "time_published": "20250720T070600",
+      "authors": ["Sean Williams"],
+      "summary": "A trio of industry leaders with well-defined catalysts and competitive advantages can surpass Wall Street's artificial intelligence (AI) darlings over the next decade.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825585%2Fmoney-manager-stock-chart-market-level-2-data-invest-getty.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.94762"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.282467,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.119383",
+          "ticker_sentiment_score": "0.119766",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PYPL",
+          "relevance_score": "0.17824",
+          "ticker_sentiment_score": "0.236802",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.400874",
+          "ticker_sentiment_score": "0.270387",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ISRG",
+          "relevance_score": "0.119383",
+          "ticker_sentiment_score": "0.105996",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.05986",
+          "ticker_sentiment_score": "0.099",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "From TikTok to Huawei, Chinese tech giants flock to Arab tech hub Dubai",
+      "url": "https://www.scmp.com/tech/big-tech/article/3318819/tiktok-huawei-chinese-tech-giants-flock-arab-tech-hub-dubai",
+      "time_published": "20250720T003008",
+      "authors": ["Ann Cao"],
+      "summary": "Chinese tech giants from ByteDance and Huawei Technologies to Alibaba Group Holding are playing an increasingly important role in Dubai's burgeoning tech industry, as the emirate seeks to diversify its economy beyond its historical reliance on oil.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/07/18/4c470cda-effa-42fe-8121-ced925591218_b3ee84ec.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.222103,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.104455",
+          "ticker_sentiment_score": "0.062146",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.104455",
+          "ticker_sentiment_score": "0.027144",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RYCEF",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "0.114569",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.104455",
+          "ticker_sentiment_score": "0.027144",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alibaba Stock Analysis: Buy or Sell?",
+      "url": "https://www.fool.com/investing/2025/07/19/alibaba-stock-analysis-buy-or-sell/",
+      "time_published": "20250719T163946",
+      "authors": ["CFA", "Parkev Tatevosian"],
+      "summary": "Alibaba ( NYSE: BABA ) is reporting massive increases in its artificial intelligence business, leading to overall accelerating revenue growth.*Stock prices used were the afternoon prices of July 16, 2025. The video was published on July 18, 2025.Continue reading ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/825783/logo-on-front-lawn-spelled-in-grass_alibaba.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [],
+      "overall_sentiment_score": -0.418955,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.535653",
+          "ticker_sentiment_score": "-0.548434",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Southern China launches 'AI super league' to groom start-ups for Asean",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3318857/chinas-guangxi-province-launches-ai-super-league-nurture-asean-facing-start-ups",
+      "time_published": "20250719T101020",
+      "authors": ["Yulu Ao"],
+      "summary": "China's southern Guangxi Zhuang autonomous region on Saturday launched an artificial intelligence \"super league\" aimed at nurturing emerging enterprises and talent serving Asean markets. The competition, titled \"AI for All\", will run through September and features 17 tracks, including automobile, ...",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/07/19/0de5f6bb-fea9-4667-a43b-d9e829234097_686e78c9.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [],
+      "overall_sentiment_score": 0.184426,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.073773",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SZIHF",
+          "relevance_score": "0.073773",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:VND",
+          "relevance_score": "0.073773",
+          "ticker_sentiment_score": "0.23974",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "3 Top Growth Stocks to Buy in the Second Half of 2025",
+      "url": "https://www.fool.com/investing/2025/07/19/3-top-growth-stocks-to-buy-in-the-second-half-of-2/",
+      "time_published": "20250719T094500",
+      "authors": ["Keith Speights"],
+      "summary": "For decades, Jim McKay introduced ABC's Wide World of Sports with a memorable phrase, \"The thrill of victory, and the agony of defeat.\" McKay's words could apply to many investors in the first half of this year. There have been periods of victory -- and periods of defeat.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825604%2Fwoman-smiling-looking-at-laptop.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.338542,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.414559",
+          "ticker_sentiment_score": "0.258968",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.096477",
+          "ticker_sentiment_score": "0.065822",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VRTX",
+          "relevance_score": "0.096477",
+          "ticker_sentiment_score": "0.265311",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.096477",
+          "ticker_sentiment_score": "0.065822",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.176923",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.096477",
+          "ticker_sentiment_score": "0.065822",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "2 Bargain Stocks to Buy Now",
+      "url": "https://www.fool.com/investing/2025/07/19/2-bargain-stocks-to-buy-now/",
+      "time_published": "20250719T081500",
+      "authors": ["John Ballard"],
+      "summary": "The S&P 500 ( SNPINDEX: ^GSPC ) and Nasdaq Composite ( NASDAQINDEX: ^IXIC ) hit new highs in July, but there are plenty of solid companies in growing industries that could be bargain buys right now.Let's look at two stocks that are reporting solid earnings results while their valuations appear ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825114%2Fstock-market-graph-and-currency.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999954"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.503496"
+        }
+      ],
+      "overall_sentiment_score": 0.26894,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.505628",
+          "ticker_sentiment_score": "0.265204",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.054483",
+          "ticker_sentiment_score": "0.142808",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "China's market regulator summons Alibaba, Meituan, JD amid delivery war",
+      "url": "https://www.scmp.com/tech/big-tech/article/3318843/chinas-top-market-regulator-summons-alibaba-meituan-jdcom-over-delivery-price-war",
+      "time_published": "20250719T053011",
+      "authors": ["Coco Feng"],
+      "summary": "China's State Administration for Market Regulation (SAMR) on Friday summoned major online food delivery platforms - Alibaba Group Holding's Ele.me, Meituan, and JD.com - urging them to engage in \"rational\" competition amid a prolonged price war.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/19/ed389ef7-21e0-4555-9f8e-1cf49dff96e9_9ebd4e24.jpg?itok=2YShvG2B&v=1752902930",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [],
+      "overall_sentiment_score": 0.007247,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.260189",
+          "ticker_sentiment_score": "0.121365",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MPNGY",
+          "relevance_score": "0.175221",
+          "ticker_sentiment_score": "-0.099465",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "How open-source AI is helping China win hearts and market share",
+      "url": "https://www.scmp.com/tech/big-tech/article/3318747/how-chinas-open-source-ai-helping-deepseek-alibaba-take-silicon-valley",
+      "time_published": "20250719T020014",
+      "authors": ["Ben Jiang"],
+      "summary": "July 9, 2024, may be remembered as a day of humiliation for China's artificial intelligence community. On that day, US start-up OpenAI, the global leader in AI model development, blocked developers in China - including Hong Kong and Macau - from using its GPT models.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/07/18/715daa46-0da2-418d-8ceb-a6d682b05817_ce44b612.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Money",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.209753,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.07887",
+          "ticker_sentiment_score": "0.030551",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.07887",
+          "ticker_sentiment_score": "0.109653",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.026328",
+          "ticker_sentiment_score": "0.067223",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.052627",
+          "ticker_sentiment_score": "0.176645",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.026328",
+          "ticker_sentiment_score": "0.083034",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BIDU",
+          "relevance_score": "0.052627",
+          "ticker_sentiment_score": "0.087626",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Top China Tech Stocks to Add to Your Portfolio for Impressive Returns",
+      "url": "https://www.zacks.com/stock/news/2591918/top-china-tech-stocks-to-add-to-your-portfolio-for-impressive-returns",
+      "time_published": "20250718T142300",
+      "authors": ["Vasundhara Sawalka"],
+      "summary": "China tech soars in 2025 as AI, EVs and AR lead the way. Investors can buy NTES, BILI and VNET as they capitalize on this opportunity.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8a/113699.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.993856"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.464505,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.103778",
+          "ticker_sentiment_score": "0.1878",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NTES",
+          "relevance_score": "0.138066",
+          "ticker_sentiment_score": "0.287873",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.03468",
+          "ticker_sentiment_score": "0.221878",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MCO",
+          "relevance_score": "0.03468",
+          "ticker_sentiment_score": "0.264804",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BILI",
+          "relevance_score": "0.069294",
+          "ticker_sentiment_score": "0.249625",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.03468",
+          "ticker_sentiment_score": "0.210011",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VNET",
+          "relevance_score": "0.138066",
+          "ticker_sentiment_score": "0.280226",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Meituan Cries 'Irrational!' As Alibaba Escalates Delivery Battle - Alibaba Gr Hldgs  ( NYSE:BABA ) , JD.com  ( NASDAQ:JD ) , Meituan  ( OTC:MPNGY ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46491351/meituan-cries-irrational-as-alibaba-escalates-delivery-battle",
+      "time_published": "20250718T132126",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Alibaba launched a 50B yuan subsidy war to boost Taobao Shangou, sparking intense delivery rivalry with JD.com and Meituan. Meituan called the price war \"irrational\" as daily orders soared past 250M, raising concerns over long-term profitability.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/18/alibaba-logo.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.042004,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.47672",
+          "ticker_sentiment_score": "-0.274759",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.063594",
+          "ticker_sentiment_score": "0.246494",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.063594",
+          "ticker_sentiment_score": "-0.194802",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MPNGY",
+          "relevance_score": "0.423504",
+          "ticker_sentiment_score": "-0.398385",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "FOREX:CNY",
+          "relevance_score": "0.063594",
+          "ticker_sentiment_score": "-0.150747",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Explainer | Why family feud at Wahaha is no laughing matter for China's private businesses",
+      "url": "https://www.scmp.com/business/china-business/article/3318812/explainer-why-family-feud-wahaha-no-laughing-matter-china-businesses",
+      "time_published": "20250718T132041",
+      "authors": ["Daniel Ren"],
+      "summary": "Zong Qinghou, the late founder of China's biggest soft drinks bottler Hangzhou Wahaha Group, became the talk of the nation after a wealth inheritance feud involving his offspring surfaced earlier this year, barely 12 months after his death.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/18/265b616a-b658-470f-bbce-ea77ce21dad9_276fd92b.jpg?itok=vd1yBpc0&v=1752844840",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.126766,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.048036",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NNFSF",
+          "relevance_score": "0.048036",
+          "ticker_sentiment_score": "0.104918",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia CEO meets China's commerce minister to discuss AI cooperation",
+      "url": "https://www.scmp.com/tech/big-tech/article/3318801/nvidia-ceo-meets-chinas-commerce-minister-discuss-ai-cooperation-foreign-investment",
+      "time_published": "20250718T130024",
+      "authors": ["Wency Chen"],
+      "summary": "Chinese Commerce Minister Wang Wentao met Nvidia CEO Jensen Huang on Thursday to discuss artificial intelligence (AI) cooperation, days after the chipmaker said it was resuming sales of its H20 chips to the country.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/07/16/CLEAN---thumbnail_0.jpg?itok=7_RMDmya",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.23334,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.142144",
+          "ticker_sentiment_score": "0.145313",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NTES",
+          "relevance_score": "0.071357",
+          "ticker_sentiment_score": "0.132833",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.345674",
+          "ticker_sentiment_score": "0.238919",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "XIACY",
+          "relevance_score": "0.071357",
+          "ticker_sentiment_score": "0.095527",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.071357",
+          "ticker_sentiment_score": "0.132833",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BIDU",
+          "relevance_score": "0.071357",
+          "ticker_sentiment_score": "0.132833",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Got $1,000? 5 Stocks to Buy Now While They're On Sale",
+      "url": "https://www.fool.com/investing/2025/07/18/got-1000-5-stocks-to-buy-now-while-theyre-on-sale/",
+      "time_published": "20250718T090500",
+      "authors": ["Geoffrey Seiler"],
+      "summary": "Some of the best growth stocks are in the consumer space, and with tariffs still very much front and center, many of these stocks remain well off their highs. Nibbling on these names, say with an initial $1,000 investment, can be a good place to start.Let's look at five consumer-focused stocks to ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824979%2Fgettyimages-1044907364.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.5855"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.744043"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.281223,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.148731",
+          "ticker_sentiment_score": "0.125199",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TGT",
+          "relevance_score": "0.037387",
+          "ticker_sentiment_score": "0.156001",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MAT",
+          "relevance_score": "0.037387",
+          "ticker_sentiment_score": "0.139181",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.037387",
+          "ticker_sentiment_score": "0.128699",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ULTA",
+          "relevance_score": "0.037387",
+          "ticker_sentiment_score": "0.156001",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JAKK",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.144592",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CAVA",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.083347",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.037387",
+          "ticker_sentiment_score": "0.029204",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMG",
+          "relevance_score": "0.074692",
+          "ticker_sentiment_score": "0.194095",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.185306",
+          "ticker_sentiment_score": "0.184611",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Korean funds are buying Chinese stocks again after 3 years of selling",
+      "url": "https://www.scmp.com/business/article/3318731/korean-funds-are-buying-chinese-stocks-again-after-selling-us984-million-past-3-years",
+      "time_published": "20250718T080311",
+      "authors": ["Cao Li"],
+      "summary": "South Korean fund managers are renewing their interest in Chinese equities after pulling back from the market in the past three years, joining global investors in diversifying into non-dollar assets amid a weakening US currency.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/wide_landscape/public/d8/video/thumbnail/2025/07/08/CLEAN-thumb_0.jpg?itok=ItrUfOTy",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.989041"
+        }
+      ],
+      "overall_sentiment_score": 0.130932,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.075397",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PMRTY",
+          "relevance_score": "0.150122",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SCBFF",
+          "relevance_score": "0.075397",
+          "ticker_sentiment_score": "0.181112",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SZIHF",
+          "relevance_score": "0.075397",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "XIACY",
+          "relevance_score": "0.075397",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.150122",
+          "ticker_sentiment_score": "0.117547",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Hong Kong stocks hit 3-year high after US indexes refresh record highs",
+      "url": "https://www.scmp.com/business/china-business/article/3318666/hong-kong-stocks-hit-3-year-high-after-us-indexes-refresh-record-highs",
+      "time_published": "20250718T022209",
+      "authors": ["Yulu Ao"],
+      "summary": "Hong Kong stocks rose to a three-year high on Friday, mirroring Wall Street's rally that was fuelled by strong US consumer data and earnings optimism. The Hang Seng Index advanced 1.3 per cent to 24,806.48 at 9.50am local time, the highest level since February 2022. The Hang Seng Tech Index added ...",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/18/93927374-780d-43f1-915f-9232c8aeb064_831b041f.jpg?itok=6Jw3YNnm&v=1752805272",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.140526,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.165255",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NTES",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.117832",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GELYF",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "-0.186475",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "XIACY",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LI",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "-0.186475",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "MPNGY",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.117832",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Meituan executive bemoans 'irrational' price war with Alibaba, JD.com",
+      "url": "https://www.scmp.com/tech/big-tech/article/3318580/meituan-executive-bemoans-irrational-instant-commerce-price-war-alibaba-jdcom",
+      "time_published": "20250717T110016",
+      "authors": ["Ben Jiang"],
+      "summary": "A Meituan executive said the company had no choice but to join the latest round of what he called \"irrational competition\" against rivals JD.com and Alibaba Group Holding in China's instant delivery sector, even though the blizzard of discounts being offered to woo buyers had become disconnected ...",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/17/fe8942cf-7aba-40e5-80fd-b7e73999df6a_c32b218a.jpg?itok=6W_CNCMM&v=1752741180",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Finance",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.043084,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.267559",
+          "ticker_sentiment_score": "0.170785",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.068112",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MPNGY",
+          "relevance_score": "0.202366",
+          "ticker_sentiment_score": "0.00665",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Why Nvidia's Jensen Huang Says China Leads In Open-Source AI - NVIDIA  ( NASDAQ:NVDA ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46462378/why-nvidias-jensen-huang-says-china-leads-in-open-source-ai",
+      "time_published": "20250717T102534",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Nvidia CEO praised China's open-source AI models as \"the best in the world\" during his third visit to the country this year. Analysts expect resumed H20 chip exports to add $3B/quarter in sales and drive Nvidia's revenue to $315B by 2028.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/17/The-Nvidia-Trade.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.503496"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.281223,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.117774",
+          "ticker_sentiment_score": "0.096589",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.584822",
+          "ticker_sentiment_score": "0.380075",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.059049",
+          "ticker_sentiment_score": "0.173006",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "AI for science, drug discovery to have 'greatest impact', says Nvidia's Huang",
+      "url": "https://www.scmp.com/tech/article/3318584/ai-science-drug-discovery-have-greatest-impact-says-nvidias-huang",
+      "time_published": "20250717T090019",
+      "authors": ["Xinmei Shen"],
+      "summary": "The use of artificial intelligence for science would have an even bigger impact than its use for human-related tasks, Nvidia co-founder and CEO Jensen Huang said during a discussion with Alibaba Cloud founder Wang Jian, amid rapid advances in the field of AI-enabled drug discovery.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/07/17/e4d1f1ce-6ae6-4a9a-9cda-393ca2128042_595de0ff.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.080906,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.577838",
+          "ticker_sentiment_score": "-0.01391",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.079921",
+          "ticker_sentiment_score": "0.064601",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BIDU",
+          "relevance_score": "0.079921",
+          "ticker_sentiment_score": "0.046685",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "2 Stocks That Could Create Lasting Generational Wealth",
+      "url": "https://www.fool.com/investing/2025/07/17/2-stocks-create-lasting-generational-wealth/",
+      "time_published": "20250717T081500",
+      "authors": ["John Ballard"],
+      "summary": "Identifying competitively strong companies that are showing strong growth can point you toward future winners. As long as you keep a long-term mindset, sticking with quality growth stocks over many years can pay off handsomely.To help you in your search, here are two stocks that appear poised for ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824962%2Fpiles-of-money.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.996718"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.365083,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.299478",
+          "ticker_sentiment_score": "0.317003",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IDIG",
+          "relevance_score": "0.061315",
+          "ticker_sentiment_score": "0.264281",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TOST",
+          "relevance_score": "0.355588",
+          "ticker_sentiment_score": "0.329796",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CGCO",
+          "relevance_score": "0.061315",
+          "ticker_sentiment_score": "0.264281",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "MiniMax, the 'world-class' AI start-up lauded by Nvidia's Huang, plans IPO",
+      "url": "https://www.scmp.com/business/banking-finance/article/3318485/minimax-world-class-ai-start-lauded-jensen-huang-applies-hong-kong-ipo",
+      "time_published": "20250716T130222",
+      "authors": ["Julie Zhang"],
+      "summary": "MiniMax, the artificial intelligence (AI) start-up backed by two of China's largest technology conglomerates, has confidentially applied for a Hong Kong initial public offering (IPO), according to people familiar with the matter.",
+      "banner_image": "https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1024,format=auto/sites/default/files/d8/images/canvas/2025/07/16/09b45ea2-73f8-4afb-b054-91991f927f38_d640cb2b.jpg",
+      "source": "South China Morning Post",
+      "category_within_source": "Companies",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "IPO",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        }
+      ],
+      "overall_sentiment_score": 0.153139,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.084423",
+          "ticker_sentiment_score": "0.052159",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SNTMF",
+          "relevance_score": "0.084423",
+          "ticker_sentiment_score": "0.144707",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CNICF",
+          "relevance_score": "0.084423",
+          "ticker_sentiment_score": "-0.078786",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.084423",
+          "ticker_sentiment_score": "0.052159",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alibaba Group Holding Limited  ( BABA )  is Attracting Investor Attention: Here is What You Should Know",
+      "url": "https://www.zacks.com/stock/news/2585163/alibaba-group-holding-limited-baba-is-attracting-investor-attention-here-is-what-you-should-know",
+      "time_published": "20250716T130005",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Zacks.com users have recently been watching Alibaba (BABA) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default41.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.54554"
+        }
+      ],
+      "overall_sentiment_score": 0.231089,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.524949",
+          "ticker_sentiment_score": "0.118996",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2695 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Mobile Suit Gundam: New Theatrical Releases, Anniversary Projects, Manga and More Announced at San Diego Comic Con 2025",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46623953/mobile-suit-gundam-new-theatrical-releases-anniversary-projects-manga-and-more-announced-at-san-di",
+      "time_published": "20250725T065700",
+      "authors": ["PRNewswire"],
+      "summary": "LOS ANGELES, July 25, 2025 /PRNewswire/ -- Today on opening night of San Diego Comic-Con 2025, one of the world's largest pop culture and entertainment conventions, Bandai Namco Filmworks Inc. revealed major announcements around three major Gundam series during the panel event \"GUNDAM Showcase - ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.119539,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.067727",
+          "ticker_sentiment_score": "0.072165",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NCBDF",
+          "relevance_score": "0.033894",
+          "ticker_sentiment_score": "0.050797",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Jackbit Bitcoin Casino: Exploring 8000+ Games, Exclusive Bonuses, and Features in 2025",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46623879/jackbit-bitcoin-casino-exploring-8000-games-exclusive-bonuses-and-features-in-2025",
+      "time_published": "20250725T063400",
+      "authors": ["Globe Newswire"],
+      "summary": "Glendale, California, July 25, 2025 ( GLOBE NEWSWIRE ) -- JackBit, the fast-growing crypto gambling brand launched in 2022, has been awarded the title of \"Fastest Crypto Casino of 2025\" by a panel of over 50 leading iGaming review outlets worldwide.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.384636,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MA",
+          "relevance_score": "0.029472",
+          "ticker_sentiment_score": "0.02604",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.029472",
+          "ticker_sentiment_score": "0.02604",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLSQF",
+          "relevance_score": "0.029472",
+          "ticker_sentiment_score": "0.246896",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.146558",
+          "ticker_sentiment_score": "0.199467",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.088255",
+          "ticker_sentiment_score": "0.201085",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:USDT",
+          "relevance_score": "0.029472",
+          "ticker_sentiment_score": "0.165151",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:LTC",
+          "relevance_score": "0.058903",
+          "ticker_sentiment_score": "0.175004",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:BNB",
+          "relevance_score": "0.058903",
+          "ticker_sentiment_score": "0.175004",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Pfizer and BioNTech Receive Positive CHMP Opinion for LP.8.1-Adapted COVID-19 Vaccine in the European Union",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121613/0/en/Pfizer-and-BioNTech-Receive-Positive-CHMP-Opinion-for-LP-8-1-Adapted-COVID-19-Vaccine-in-the-European-Union.html",
+      "time_published": "20250725T063000",
+      "authors": ["BioNTech SE"],
+      "summary": "NEW YORK and MAINZ, GERMANY, July 25, 2025 - Pfizer Inc. ( NYSE: PFE, \"Pfizer\" ) and BioNTech SE ( Nasdaq: BNTX, \"BioNTech\" ) announced today that the European Medicines Agency's ( EMA ) Committee for Medicinal Products for Human Use ( CHMP ) has recommended marketing authorization for the ...",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/b9e2e00e-f790-4d54-a01f-4c85716b01bd",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": 0.024179,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "0.207962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "0.207962",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOSUF",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "-0.026778",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GMAB",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "-0.026778",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.185695",
+          "ticker_sentiment_score": "0.07934",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BMY",
+          "relevance_score": "0.008518",
+          "ticker_sentiment_score": "-0.026778",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BNTX",
+          "relevance_score": "0.185695",
+          "ticker_sentiment_score": "0.059601",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Pfizer and BioNTech Receive Positive CHMP Opinion for LP.8.1-Adapted COVID-19 Vaccine in the European Union",
+      "url": "https://markets.businessinsider.com/news/stocks/pfizer-and-biontech-receive-positive-chmp-opinion-for-lp-8-1-adapted-covid-19-vaccine-in-the-european-union-1034938524",
+      "time_published": "20250725T063000",
+      "authors": ["markets.businessinsider.com"],
+      "summary": "Data indicate that the LP.8.1-adapted COVID-19 vaccine confers improved immune response against currently dominant and emerging sublineages - including the XFG and NB.1.8.1 variants1 - compared to 2024-2025 COVID-19 vaccine formulations",
+      "banner_image": "https://ml-eu.globenewswire.com/media/b9e2e00e-f790-4d54-a01f-4c85716b01bd/small/190705-biontech-logo-rgb-dark-green-preferred-0-png.png",
+      "source": "Business Insider",
+      "category_within_source": "RSS",
+      "source_domain": "markets.businessinsider.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.769861"
+        }
+      ],
+      "overall_sentiment_score": 0.090805,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "0.218879",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "0.218879",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOSUF",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "-0.0137",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GMAB",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "-0.0137",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PFE",
+          "relevance_score": "0.263467",
+          "ticker_sentiment_score": "0.102237",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BMY",
+          "relevance_score": "0.011185",
+          "ticker_sentiment_score": "-0.0137",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BNTX",
+          "relevance_score": "0.274012",
+          "ticker_sentiment_score": "0.078795",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AS Tallinna Vesi will hold an Investor Conference Webinar to introduce the results for the 2nd quarter of 2025",
+      "url": "https://www.globenewswire.com/news-release/2025/07/25/3121605/0/en/AS-Tallinna-Vesi-will-hold-an-Investor-Conference-Webinar-to-introduce-the-results-for-the-2nd-quarter-of-2025.html",
+      "time_published": "20250725T060000",
+      "authors": ["Tallinna Vesi"],
+      "summary": "AS Tallinna Vesi invites its shareholders, investors, analysts, and other stakeholders to join its investor conference webinar, introducing the results for the 2nd quarter and 6 months of 2025.",
+      "banner_image": "https://ml-eu.globenewswire.com/Resource/Download/6a13e8ef-f7a8-4a93-bba5-39365d6e4656",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.163093,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.275867",
+          "ticker_sentiment_score": "0.159591",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RDDT DEADLINE: ROSEN, A LEADING LAW FIRM, Encourages Reddit, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important Deadline in Securities Class Action - RDDT - Reddit  ( NYSE:RDDT ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46622128/rddt-deadline-rosen-a-leading-law-firm-encourages-reddit-inc-investors-with-losses-in-excess-of-10",
+      "time_published": "20250725T033500",
+      "authors": ["Globe Newswire"],
+      "summary": "New York, July 24, 2025 ( GLOBE NEWSWIRE ) -- WHY: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Reddit, Inc. RDDT between October 29, 2024 and May 20, 2025, both dates inclusive ( the \"Class Period\" ) , of the important August 18, 2025 lead plaintiff ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        }
+      ],
+      "overall_sentiment_score": 0.116436,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RDDT",
+          "relevance_score": "0.524949",
+          "ticker_sentiment_score": "-0.009966",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.169676",
+          "ticker_sentiment_score": "-0.12966",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.056943",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "New ChatGPT Agent Can Book, Browse, and Fill Forms-Just Don't Trust It Yet",
+      "url": "https://decrypt.co/331756/chatgpt-agent-book-browse-fill-forms-just",
+      "time_published": "20250725T014921",
+      "authors": ["Jason Nelson"],
+      "summary": "OpenAI's new ChatGPT agent can automate web tasks like logging in and scheduling, but its launch comes with serious security warnings.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/05/ai-decrypt-style-05-gID_7.png",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.031638,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.069495",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bragar Eagel & Squire, P.C. Reminds Investors in UnitedHealth, Bitfarms, or Reddit of The Class Action Lawsuits Filed and Urges Investors to Inquire About Their Rights - Reddit  ( NYSE:RDDT ) , Bitfarms  ( NASDAQ:BITF ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46620211/bragar-eagel-squire-p-c-reminds-investors-in-unitedhealth-bitfarms-or-reddit-of-the-class-action-l",
+      "time_published": "20250724T230600",
+      "authors": ["Globe Newswire"],
+      "summary": "Bragar Eagel & Squire, P.C. Litigation Attorney Brandon Walker Encourages Investors Who Suffered Losses In UnitedHealth ( UNH ) , Bitfarms ( BITF ) , or Reddit ( RDDT ) To Contact Him Directly To Discuss Their Options",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.998333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.117674,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.272029",
+          "ticker_sentiment_score": "-0.040903",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RDDT",
+          "relevance_score": "0.485711",
+          "ticker_sentiment_score": "-0.02815",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.103778",
+          "ticker_sentiment_score": "0.00553",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BITF",
+          "relevance_score": "0.272029",
+          "ticker_sentiment_score": "-0.209131",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.398148",
+          "ticker_sentiment_score": "-0.344946",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "ADT Posts 7 Percent Revenue Gain in Q2",
+      "url": "https://www.fool.com/data-news/2025/07/24/adt-posts-7-percent-revenue-gain-in-q2/",
+      "time_published": "20250724T222519",
+      "authors": ["JesterAI"],
+      "summary": "ADT ( NYSE:ADT ) , a leading provider of security, automation, and smart home solutions for residential and small business customers, posted better-than-expected results in its Q2 2025 earnings release on July 24, 2025, covering the period ending June 2025.",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.298284,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.104455",
+          "ticker_sentiment_score": "0.178184",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why XRP Ledger Is a 'Different Network' Than Last Year: Analyst",
+      "url": "https://decrypt.co/331717/why-xrp-ledger-different-network-than-last-year-analyst",
+      "time_published": "20250724T214127",
+      "authors": ["Logan Hitchcock"],
+      "summary": "XRP is flying high, but activity on the Ripple-linked XRP Ledger points to a clear shift in user activity, according to analysis.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/06/ripple-logo-decrypt-style-01-gID_7.png",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.052565,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.087185",
+          "ticker_sentiment_score": "-0.11022",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:XRP",
+          "relevance_score": "0.618922",
+          "ticker_sentiment_score": "-0.075105",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ripple's Chris Larsen Has Moved $140 Million in XRP to Exchanges During Record Surge",
+      "url": "https://decrypt.co/331659/ripples-chris-larsen-moved-140-million-xrp-exchanges-record-surge",
+      "time_published": "20250724T204550",
+      "authors": ["Mat Di Salvo"],
+      "summary": "The moves came as XRP reached an all-time high. It has more recently retreated.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/xrp-decrypt-style-02-scaled-gID_7.jpg",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.576289"
+        }
+      ],
+      "overall_sentiment_score": 0.09734,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.116914",
+          "ticker_sentiment_score": "-0.01314",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:XRP",
+          "relevance_score": "0.814341",
+          "ticker_sentiment_score": "0.230327",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Google Backs Blockchain Game: The Takeaway For Web3 Gaming's Future",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/25/07/46618015/google-just-backed-blockchain-game-heres-what-that-means-for-web3-gamings-future",
+      "time_published": "20250724T204449",
+      "authors": ["Murtuza J Merchant"],
+      "summary": "Decentralized governance in ESG could become scalable if paired with simple tools in everyday apps like mobile games. Blockchain's traceability could drive ESG adoption, making each climate action verifiable and linked to real transactions. Up Next: Get 5 Dark Horse Stocks Wall Street Is Quietly ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Blockchain-Technology-Concept--Revolutio.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        }
+      ],
+      "overall_sentiment_score": 0.317868,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.184363",
+          "ticker_sentiment_score": "0.089287",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLSQF",
+          "relevance_score": "0.061949",
+          "ticker_sentiment_score": "0.258332",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Freddie Mac Issues Monthly Volume Summary for June 2025 - Federal Home Loan  ( OTC:FMCC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46617660/freddie-mac-issues-monthly-volume-summary-for-june-2025",
+      "time_published": "20250724T203038",
+      "authors": ["Globe Newswire"],
+      "summary": "MCLEAN, Va., July 24, 2025 ( GLOBE NEWSWIRE ) -- Freddie Mac FMCC today posted to its website its Monthly Volume Summary for June 2025, which provides information on Freddie Mac's mortgage-related portfolios, securities issuance, risk management, delinquencies, debt activities and other ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.538269"
+        }
+      ],
+      "overall_sentiment_score": 0.077701,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.295867",
+          "ticker_sentiment_score": "0.228848",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.295867",
+          "ticker_sentiment_score": "0.228848",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Musk's Starlink hit with outage day after rollout of T-Mobile satellite service",
+      "url": "https://www.cnbc.com/2025/07/24/musks-starlink-outage-day-after-rollout-of-t-mobile-satellite-service.html",
+      "time_published": "20250724T202338",
+      "authors": [],
+      "summary": "The Starlink-powered satellite service from T-Mobile called T-Satellite rolled out to the public on Wednesday.",
+      "banner_image": null,
+      "source": "CNBC",
+      "category_within_source": "Top News",
+      "source_domain": "www.cnbc.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.02901,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.213048",
+          "ticker_sentiment_score": "-0.741677",
+          "ticker_sentiment_label": "Bearish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.213048",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ADT  ( ADT )  Q2 2025 Earnings Call Transcript",
+      "url": "https://www.fool.com/earnings/call-transcripts/2025/07/24/adt-adt-q2-2025-earnings-call-transcript/",
+      "time_published": "20250724T202024",
+      "authors": ["Motley Fool Transcribing"],
+      "summary": "Image source: The Motley Fool.Need a quote from one of our analysts? Email pr@fool.comADT ( NYSE:ADT ) delivered record recurring revenue and improved adjusted profitability ( non-GAAP ) in Q2 2025, supported by operational efficiency gains and sustained high customer retention.",
+      "banner_image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/a2a40ac227551191f40e319646e58c421fd8b8c0-400x427.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.576289"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.938793"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.37466,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.015091",
+          "ticker_sentiment_score": "0.176389",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "BCS",
+          "relevance_score": "0.007546",
+          "ticker_sentiment_score": "0.108234",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.007546",
+          "ticker_sentiment_score": "0.132788",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.007546",
+          "ticker_sentiment_score": "0.044604",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.007546",
+          "ticker_sentiment_score": "0.132788",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Cytokinetics to Announce Second Quarter Results On August 7, 2025 - Cytokinetics  ( NASDAQ:CYTK ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46615999/cytokinetics-to-announce-second-quarter-results-on-august-7-2025",
+      "time_published": "20250724T200000",
+      "authors": ["Globe Newswire"],
+      "summary": "SOUTH SAN FRANCISCO, Calif., July 24, 2025 ( GLOBE NEWSWIRE ) -- Cytokinetics, Incorporated CYTK today announced that it is scheduled to report second quarter results on August 7, 2025 at 4:00 PM Eastern Time.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.77141"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": -0.002384,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.064797",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CYTK",
+          "relevance_score": "0.912237",
+          "ticker_sentiment_score": "-0.042178",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "[Latest] Global CRISPR Gene Editing Market Size/Share Worth USD 12.6 Billion by 2034 at a 13.01% CAGR: Custom Market Insights  ( Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46615291/latest-global-crispr-gene-editing-market-sizeshare-worth-usd-12-6-billion-by-2034-at-a-13-01-cagr-",
+      "time_published": "20250724T193000",
+      "authors": ["Globe Newswire"],
+      "summary": "Austin, TX, USA, July 25, 2025 ( GLOBE NEWSWIRE ) -- Custom Market Insights has published a new research report titled \"CRISPR Gene Editing Market Size, Trends and Insights By Product ( Kits and Reagents, Services ) , By Gene Editing Modality ( Ex-Vivo Editing, In-Vivo Editing ) , By Technology ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.161437,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "A",
+          "relevance_score": "0.022008",
+          "ticker_sentiment_score": "0.063001",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.011005",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.011005",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRSP",
+          "relevance_score": "0.022008",
+          "ticker_sentiment_score": "0.063001",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STMM",
+          "relevance_score": "0.011005",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TMO",
+          "relevance_score": "0.022008",
+          "ticker_sentiment_score": "0.063001",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Google's AI Push Hits 2B: Will Meta's Next Move Flip The Script - Alphabet  ( NASDAQ:GOOGL ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46614403/googles-ai-push-hits-2-billion-but-metas-next-move-could-flip-script",
+      "time_published": "20250724T190222",
+      "authors": ["Surbhi Jain"],
+      "summary": "Google says 2 billion users now engage with its AI across Gmail, Android, and other services. Meta's last AI usage stat was 1 billion in May, but its current figure may be much higher. Up Next: Get 5 Dark Horse Stocks Wall Street Is Quietly Loading Up On",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/AI-Is-Redefining-What-Makes-You-Valuable.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        }
+      ],
+      "overall_sentiment_score": 0.178008,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.530253",
+          "ticker_sentiment_score": "0.314873",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.282234",
+          "ticker_sentiment_score": "0.061994",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "D-Wave Quantum or NVIDIA: Which Stock Is a Better Buy Now?",
+      "url": "https://www.zacks.com/stock/news/2613805/d-wave-quantum-or-nvidia-which-stock-is-a-better-buy-now",
+      "time_published": "20250724T190000",
+      "authors": ["Tirthankar Chakraborty"],
+      "summary": "QBTS surged 141.7% YTD, outpacing NVDA, as quantum gains traction - but is it the smarter buy amid AI's dominance?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/eb/88097.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.962106"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.928769"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.276031,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.152499",
+          "ticker_sentiment_score": "0.124497",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.051111",
+          "ticker_sentiment_score": "0.085844",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.436009",
+          "ticker_sentiment_score": "0.334906",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.109633",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QBTS",
+          "relevance_score": "0.558244",
+          "ticker_sentiment_score": "0.420749",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The Family Reunion Unveils Fifth-Year Schedule of Events",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46612092/the-family-reunion-unveils-fifth-year-schedule-of-events",
+      "time_published": "20250724T174742",
+      "authors": ["Globe Newswire"],
+      "summary": "MIDDLEBURG, Va., July 24, 2025 ( GLOBE NEWSWIRE ) -- The Family Reunion, the country's preeminent culinary celebration of color and excellence, has announced its slate of culturally rich programming for its fifth anniversary gathering next month.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.2"
+        }
+      ],
+      "overall_sentiment_score": 0.273676,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.079744",
+          "ticker_sentiment_score": "0.115584",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UAL",
+          "relevance_score": "0.053212",
+          "ticker_sentiment_score": "0.121669",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.053212",
+          "ticker_sentiment_score": "0.12467",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WFC",
+          "relevance_score": "0.106188",
+          "ticker_sentiment_score": "0.102082",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ECL",
+          "relevance_score": "0.026621",
+          "ticker_sentiment_score": "0.119951",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Nav Thethi Show Launches with Groundbreaking AI Insights to Transform Business Leadership",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46611240/the-nav-thethi-show-launches-with-groundbreaking-ai-insights-to-transform-business-leadership",
+      "time_published": "20250724T171700",
+      "authors": ["PRNewswire"],
+      "summary": "New podcast explores how AI, strategy, and human-centered leadership are reshaping business transformation. SAN FRANCISCO, July 24, 2025 /PRNewswire/ -- Today marks the launch of The Nav Thethi Show, a dynamic new podcast hosted by digital strategy expert Nav Thethi, diving into the real stories ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.341179,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SPOT",
+          "relevance_score": "0.046095",
+          "ticker_sentiment_score": "0.131375",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.092036",
+          "ticker_sentiment_score": "0.067577",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Axon 2 Powers AppLovin's Explosive Growth in Mobile Advertising",
+      "url": "https://www.zacks.com/stock/news/2613513/axon-2-powers-applovins-explosive-growth-in-mobile-advertising",
+      "time_published": "20250724T171300",
+      "authors": ["Zacks Equity Research"],
+      "summary": "APP's AI engine Axon 2 has driven massive ad growth, but a lofty valuation and slowing momentum now test investor confidence.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/c0/85836.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.976671"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        }
+      ],
+      "overall_sentiment_score": 0.215225,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.226477",
+          "ticker_sentiment_score": "0.131088",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "APP",
+          "relevance_score": "0.48268",
+          "ticker_sentiment_score": "0.184746",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.170878",
+          "ticker_sentiment_score": "0.106107",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Crude Oil Rises Over 1%; Alphabet Earnings Top Estimates - Community Health Sys  ( NYSE:CYH ) , ReAlpha Tech  ( NASDAQ:AIRE ) ",
+      "url": "https://www.benzinga.com/markets/market-summary/25/07/46609684/crude-oil-rises-over-1-alphabet-earnings-top-estimates",
+      "time_published": "20250724T163216",
+      "authors": ["Avi Kapoor"],
+      "summary": "U.S. stocks traded mixed midway through trading, with the Dow Jones index falling more than 200 points on Thursday. The Dow traded down 0.51% to 44,779.97 while the NASDAQ rose 0.11% to 21,044.05. The S&P 500 also rose, gaining, 0.12% to 6,366.84. Communication services shares jumped by 1% on ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Oil-Tanker-Underway-Towards-Open-Sea--Cr.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.972756"
+        }
+      ],
+      "overall_sentiment_score": 0.182605,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SDOT",
+          "relevance_score": "0.147818",
+          "ticker_sentiment_score": "0.144792",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.220141",
+          "ticker_sentiment_score": "0.427164",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.07423",
+          "ticker_sentiment_score": "0.155554",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CYH",
+          "relevance_score": "0.147818",
+          "ticker_sentiment_score": "-0.173894",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "AIRE",
+          "relevance_score": "0.147818",
+          "ticker_sentiment_score": "0.42872",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "LIDR",
+          "relevance_score": "0.147818",
+          "ticker_sentiment_score": "0.194129",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SPGI",
+          "relevance_score": "0.07423",
+          "ticker_sentiment_score": "-0.177874",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "WST",
+          "relevance_score": "0.147818",
+          "ticker_sentiment_score": "0.363026",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk Led A Spending Cut Crusade - Then His Startup Got A $200 Million Contract To Build Custom AI For The Government He Tried To Shrink",
+      "url": "https://www.benzinga.com/news/topics/25/07/46609642/elon-musk-led-a-spending-cut-crusade-then-his-startup-got-a-200-million-contract-to-build-custom-ai-f",
+      "time_published": "20250724T163109",
+      "authors": ["Ivy Grace"],
+      "summary": "Elon Musk once made headlines for targeting bloated government spending. Now his AI company is cashing in on it. Musk's xAI announced it has launched Grok For Government, a new division built to serve U.S. agencies at every level - and the ink is already dry on a contract with the Department of ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Washington--March-9--2025-Elon-Musk-Reve.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.119328,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.060541",
+          "ticker_sentiment_score": "0.133013",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SAIC",
+          "relevance_score": "0.060541",
+          "ticker_sentiment_score": "-0.00504",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "DEADLINE ALERT for RDDT, HIMS, IRBT, and CNC: The Law Offices of Frank R. Cruz Reminds Investors of Class Actions on Behalf of Shareholders - Hims & Hers Health  ( NYSE:HIMS ) , Centene  ( NYSE:CNC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46608904/deadline-alert-for-rddt-hims-irbt-and-cnc-the-law-offices-of-frank-r-cruz-reminds-investors-of-cla",
+      "time_published": "20250724T161300",
+      "authors": ["Globe Newswire"],
+      "summary": "LOS ANGELES, July 24, 2025 ( GLOBE NEWSWIRE ) -- The Law Offices of Frank R. Cruz reminds investors that class action lawsuits have been filed on behalf of shareholders of the following publicly-traded companies. Investors have until the deadlines listed below to file a lead plaintiff motion.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": -0.01209,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CNC",
+          "relevance_score": "0.190167",
+          "ticker_sentiment_score": "-0.153214",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.190167",
+          "ticker_sentiment_score": "-0.071885",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IRBT",
+          "relevance_score": "0.127456",
+          "ticker_sentiment_score": "0.129208",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "RDDT",
+          "relevance_score": "0.478939",
+          "ticker_sentiment_score": "-0.164618",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "HIMS",
+          "relevance_score": "0.127456",
+          "ticker_sentiment_score": "0.129208",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Adorable Monster Invasion on WePlay! Super-Popular \"Bugcat Capoo\" Teams Up with WePlay, Secures Google Play Japan Recommendation",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46608409/adorable-monster-invasion-on-weplay-super-popular-bugcat-capoo-teams-up-with-weplay-secures-google",
+      "time_published": "20250724T160000",
+      "authors": ["Globe Newswire"],
+      "summary": "TOKYO, July 24, 2025 ( GLOBE NEWSWIRE ) -- Taiwan's original blue whirlwind - Bugcat Capoo - officially lands on the global next-generation social entertainment platform WePlay! This six-legged ( the number changes! ) little monster is joining forces with WePlay, the social entertainment ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.517614,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.09186",
+          "ticker_sentiment_score": "0.25125",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Google Cloud Announced as a Key Technology Partner for Odoo Connect 2025 in San Francisco",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46608402/google-cloud-announced-as-a-key-technology-partner-for-odoo-connect-2025-in-san-francisco",
+      "time_published": "20250724T160000",
+      "authors": ["Globe Newswire"],
+      "summary": "Over 100 exciting talks are free for the Bay Area tech community to attend",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        }
+      ],
+      "overall_sentiment_score": 0.302813,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.222157",
+          "ticker_sentiment_score": "0.176035",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "The 30-Year Fixed-Rate Mortgage Shows Little Movement - Federal Home Loan  ( OTC:FMCC ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46608401/the-30-year-fixed-rate-mortgage-shows-little-movement",
+      "time_published": "20250724T160000",
+      "authors": ["Globe Newswire"],
+      "summary": "MCLEAN, Va., July 24, 2025 ( GLOBE NEWSWIRE ) -- Freddie Mac FMCC today released the results of its Primary Mortgage Market Survey® ( PMMS® ) , showing the 30-year fixed-rate mortgage ( FRM ) averaged 6.74%.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.614606"
+        }
+      ],
+      "overall_sentiment_score": 0.263847,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.145145",
+          "ticker_sentiment_score": "0.135761",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.145145",
+          "ticker_sentiment_score": "0.135761",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "OKTA Trades 25% Below 52-Week High: Right Time to Buy the Stock?",
+      "url": "https://www.zacks.com/stock/news/2613212/okta-trades-25-below-52-week-high-right-time-to-buy-the-stock",
+      "time_published": "20250724T155700",
+      "authors": ["Zacks Investment Research"],
+      "summary": "OKTA rides a strong product portfolio and a rich partner base, which justifies a premium valuation.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/3f/1138.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.986564"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        }
+      ],
+      "overall_sentiment_score": 0.392494,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.264419",
+          "ticker_sentiment_score": "0.246556",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.044885",
+          "ticker_sentiment_score": "0.090678",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VMW",
+          "relevance_score": "0.044885",
+          "ticker_sentiment_score": "0.090678",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRWD",
+          "relevance_score": "0.044885",
+          "ticker_sentiment_score": "0.090678",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.13409",
+          "ticker_sentiment_score": "0.312313",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.044885",
+          "ticker_sentiment_score": "0.090678",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ZS",
+          "relevance_score": "0.044885",
+          "ticker_sentiment_score": "0.090678",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OKTA",
+          "relevance_score": "0.306416",
+          "ticker_sentiment_score": "0.340116",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PANW",
+          "relevance_score": "0.044885",
+          "ticker_sentiment_score": "0.090678",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "LEO MESSI BACKS GLOBAL SEARCH FOR THE NEXT GENERATION OF BALLERS WITH THE MÁS+ BY MESSI 1V1 WORLD CROWN - AND IT'S COMING TO AMERICA",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46608249/leo-messi-backs-global-search-for-the-next-generation-of-ballers-with-the-m-s-by-messi-1v1-world-c",
+      "time_published": "20250724T155700",
+      "authors": ["PRNewswire"],
+      "summary": "The inaugural Más+ by Messi 1v1 World Crown tournament is a brand-new global search for the most talented male and female ballers, starting in Los Angeles and culminating in a Miami final this September.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.403498,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.032164",
+          "ticker_sentiment_score": "0.125967",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "GOOGL Q2 Earnings Beat Estimates, Revenues Up Y/Y, Shares Rise",
+      "url": "https://www.zacks.com/stock/news/2613185/googl-q2-earnings-beat-estimates-revenues-up-yy-shares-rise",
+      "time_published": "20250724T155500",
+      "authors": ["Zacks Investment Research"],
+      "summary": "Alphabet's second-quarter 2025 results benefit from strong Search, advertising and Google Cloud revenues.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/aa/44.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.858979"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.037557,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.214937",
+          "ticker_sentiment_score": "0.084045",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.586747",
+          "ticker_sentiment_score": "0.069025",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.214937",
+          "ticker_sentiment_score": "0.084045",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ENVX",
+          "relevance_score": "0.214937",
+          "ticker_sentiment_score": "0.084045",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Ripple CEO Warns of YouTube XRP Scams Following All-Time High Surge",
+      "url": "https://decrypt.co/331571/ripple-ceo-warns-of-youtube-xrp-scams-following-all-time-high-surge",
+      "time_published": "20250724T155342",
+      "authors": ["Vince Dioquino"],
+      "summary": "With XRP up over 48% in the past month, increased retail interest has been accompanied by a wave of impersonation scams.",
+      "banner_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/brad-garlinghouse-xrp-ripple-decrypt-style-2-scaled-gID_7.jpg",
+      "source": "Decrypt.co",
+      "category_within_source": "n/a",
+      "source_domain": "decrypt.co",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.891286"
+        }
+      ],
+      "overall_sentiment_score": -0.031692,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.129516",
+          "ticker_sentiment_score": "-0.175699",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "CRYPTO:LTC",
+          "relevance_score": "0.064973",
+          "ticker_sentiment_score": "0.13721",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Music in the Royal Grove at Rideau Hall",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46608135/music-in-the-royal-grove-at-rideau-hall",
+      "time_published": "20250724T155300",
+      "authors": ["PRNewswire"],
+      "summary": "OTTAWA, ON, July 24, 2025 /CNW/ - The grounds of Rideau Hall will echo with the sweet strains of chamber music July 26 and 27, 2025, as Ottawa Chamberfest returns to the Royal Grove for some relaxing afternoon performances.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.255984,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.1331",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.1331",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Google Stock Roars As Analysts Race To Raise Price Targets - Alphabet  ( NASDAQ:GOOG ) , Alphabet  ( NASDAQ:GOOGL ) ",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/25/07/46607168/google-stock-roars-as-analysts-race-to-raise-price-targets",
+      "time_published": "20250724T152621",
+      "authors": ["Erica Kollmann"],
+      "summary": "Alphabet's second-quarter results beat Wall Street's expectations for the tenth straight quarter. Analysts are raising their price targets following the print. A new wave of value and momentum stocks could be setting up for major moves-and Tim Melvin will name them live this Wednesday.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Alphabet.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.938793"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.986714"
+        }
+      ],
+      "overall_sentiment_score": 0.141348,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.52706",
+          "ticker_sentiment_score": "0.11476",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TRMNF",
+          "relevance_score": "0.057215",
+          "ticker_sentiment_score": "0.172989",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "C3.ai Expands Beyond Oil: Is Diversification Paying Off?",
+      "url": "https://www.zacks.com/stock/news/2612997/c3ai-expands-beyond-oil-is-diversification-paying-off",
+      "time_published": "20250724T151900",
+      "authors": ["Shrabana Mukherjee"],
+      "summary": "AI's 48% surge in non-oil revenue and major wins in 19 industries show its diversification strategy gaining real ground.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.94762"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.295195,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.118647",
+          "ticker_sentiment_score": "-0.037371",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.118647",
+          "ticker_sentiment_score": "-0.037371",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BEOLF",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.251093",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DGX",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BKR",
+          "relevance_score": "0.118647",
+          "ticker_sentiment_score": "0.284503",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "IR",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VERI",
+          "relevance_score": "0.234684",
+          "ticker_sentiment_score": "0.162566",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PLTR",
+          "relevance_score": "0.118647",
+          "ticker_sentiment_score": "0.090117",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SNY",
+          "relevance_score": "0.059488",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Figma IPO Is Coming -- but Can It Justify Its Valuation?",
+      "url": "https://www.fool.com/investing/2025/07/24/the-figma-ipo-is-coming-but-can-it-justify-its-val/",
+      "time_published": "20250724T150000",
+      "authors": ["Bram Berkowitz"],
+      "summary": "The company is well on its way to generating $1 billion of revenue in 2025 with steady profits a possibility too.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825949%2Fpeople-computer-1.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999174"
+        },
+        {
+          "topic": "IPO",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.296298,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "0.031013",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRWV",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "-0.018958",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "-0.018958",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CHYM",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "-0.018958",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRCL",
+          "relevance_score": "0.05234",
+          "ticker_sentiment_score": "-0.018958",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Technics Debuts 60th Anniversary Edition of EAH-AZ100 Earbuds in Champagne Gold Color, Now Available in the U.S.",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46602805/technics-debuts-60th-anniversary-edition-of-eah-az100-earbuds-in-champagne-gold-color-now-availabl",
+      "time_published": "20250724T140000",
+      "authors": ["PRNewswire"],
+      "summary": "NEWARK, N.J., July 24, 2025 /PRNewswire/ -- To commemorate the 60th anniversary, Technics has introduced a new champagne gold version of the award-winning True Wireless Earbuds EAH-AZ100, which have received widespread media acclaim since their January 2025 launch.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.361224,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "PCRFF",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.362485",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.266989",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DLB",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.233884",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ETFs to Soar Post Alphabet's Strong Q2 Earnings Results",
+      "url": "https://www.zacks.com/stock/news/2612704/etfs-to-soar-post-alphabets-strong-q2-earnings-results",
+      "time_published": "20250724T140000",
+      "authors": ["Zacks Investment Research"],
+      "summary": "Alphabet's strong Q2 results and AI momentum create opportunities among heavy GOOGL exposure ETFs like MAGS, IXP, FCOM and VOX.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/06/46.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.614606"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999996"
+        }
+      ],
+      "overall_sentiment_score": 0.172424,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.170576",
+          "ticker_sentiment_score": "0.009779",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SPGI",
+          "relevance_score": "0.042953",
+          "ticker_sentiment_score": "0.060791",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Class Action Filed Against Reddit, Inc. - Investors with Losses Encouraged to Contact Johnson Fistel - Reddit  ( NYSE:RDDT ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46601876/class-action-filed-against-reddit-inc-investors-with-losses-encouraged-to-contact-johnson-fistel",
+      "time_published": "20250724T134935",
+      "authors": ["Globe Newswire"],
+      "summary": "SAN DIEGO, July 24, 2025 ( GLOBE NEWSWIRE ) -- Shareholder rights law firm Johnson Fistel, PLLP, announces that a class action lawsuit has been filed on behalf of investors who purchased or acquired Reddit, Inc. ( \"Reddit\" or the \"Company\" ) RDDT securities between October 29, 2024 and May 20, ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.905476"
+        }
+      ],
+      "overall_sentiment_score": 0.126394,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "RDDT",
+          "relevance_score": "0.595343",
+          "ticker_sentiment_score": "-0.049561",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.197413",
+          "ticker_sentiment_score": "-0.113748",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Bitcoin treasury fever grows in Japan as AI company targets 3,000 BTC",
+      "url": "https://cointelegraph.com/news/japanese-firm-quantum-solutions-launches-bitcoin-treasury-aims-for-3-000-btc",
+      "time_published": "20250724T134143",
+      "authors": ["Adrian Zmudzinski"],
+      "summary": "Japanese AI company Quantum Solutions launched a Bitcoin treasury via its Hong Kong subsidiary GPT Pals Studio, targeting a 3,000 BTC reserve within 12 months.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-07/01983c67-a7c5-77a0-aaeb-664b55e703e7",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.267549,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "FCAP",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "0.054748",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SMLR",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:JPY",
+          "relevance_score": "0.28664",
+          "ticker_sentiment_score": "0.053578",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.913524",
+          "ticker_sentiment_score": "0.485845",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Trader AI: This Trader AI App Sets New Standard in AI-Driven Trading with Unmatched Security and User Approval",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46600780/trader-ai-this-trader-ai-app-sets-new-standard-in-ai-driven-trading-with-unmatched-security-and-us",
+      "time_published": "20250724T131935",
+      "authors": ["Globe Newswire"],
+      "summary": "New York City, NY, July 24, 2025 ( GLOBE NEWSWIRE ) -- Trader AI, a pioneering fintech platform specializing in AI-powered cryptocurrency trading, today announces the launch of its fully integrated trading robot tailored specifically for Canadian investors.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Blockchain",
+          "relevance_score": "0.999999"
+        }
+      ],
+      "overall_sentiment_score": 0.131009,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "APG",
+          "relevance_score": "0.030918",
+          "ticker_sentiment_score": "0.102509",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.007731",
+          "ticker_sentiment_score": "0.072624",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AWON",
+          "relevance_score": "0.007731",
+          "ticker_sentiment_score": "-0.084398",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MA",
+          "relevance_score": "0.015462",
+          "ticker_sentiment_score": "-0.051218",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PLSQF",
+          "relevance_score": "0.007731",
+          "ticker_sentiment_score": "0.222236",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.092569",
+          "ticker_sentiment_score": "0.093401",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:AAVE",
+          "relevance_score": "0.023191",
+          "ticker_sentiment_score": "0.097208",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:UNI",
+          "relevance_score": "0.023191",
+          "ticker_sentiment_score": "0.097208",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:MANA",
+          "relevance_score": "0.023191",
+          "ticker_sentiment_score": "0.038851",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:XCP",
+          "relevance_score": "0.007731",
+          "ticker_sentiment_score": "0.065878",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BCH",
+          "relevance_score": "0.015462",
+          "ticker_sentiment_score": "0.085304",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ETH",
+          "relevance_score": "0.069495",
+          "ticker_sentiment_score": "0.144571",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:LINK",
+          "relevance_score": "0.030918",
+          "ticker_sentiment_score": "0.107371",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:LTC",
+          "relevance_score": "0.015462",
+          "ticker_sentiment_score": "0.085304",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:ADA",
+          "relevance_score": "0.015462",
+          "ticker_sentiment_score": "0.085304",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alphabet To Rally Around 24%? Here Are 10 Top Analyst Forecasts For Thursday - Chipotle Mexican Grill  ( NYSE:CMG ) , Chubb  ( NYSE:CB ) ",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/25/07/46600695/alphabet-to-rally-around-24-here-are-10-top-analyst-forecasts-for-thursday",
+      "time_published": "20250724T131539",
+      "authors": ["Avi Kapoor"],
+      "summary": "Top Wall Street analysts changed their outlook on these top names. For a complete view of all analyst rating changes, including upgrades and downgrades, please see our analyst ratings page. Barclays raised Alphabet Inc. GOOGL price target from $220 to $235.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Stuttgart--Germany---July-20--2023-Googl.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99999"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.2"
+        }
+      ],
+      "overall_sentiment_score": 0.114372,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MXL",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.10387",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ENPH",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.003413",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.073321",
+          "ticker_sentiment_score": "-0.009151",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BCS",
+          "relevance_score": "0.146025",
+          "ticker_sentiment_score": "-0.011634",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBM",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "-0.036175",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.2872",
+          "ticker_sentiment_score": "0.10335",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "XPO",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.200889",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GEV",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.080991",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "VRNS",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "0.24313",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "HAS",
+          "relevance_score": "0.146025",
+          "ticker_sentiment_score": "0.065165",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMG",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "-0.103127",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CB",
+          "relevance_score": "0.217508",
+          "ticker_sentiment_score": "-0.170767",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Frankie Muniz Joins Forces with Worksport to Champion American Energy Innovation",
+      "url": "https://www.globenewswire.com/news-release/2025/07/24/3121140/0/en/Frankie-Muniz-Joins-Forces-with-Worksport-to-Champion-American-Energy-Innovation.html",
+      "time_published": "20250724T130100",
+      "authors": ["Worksport Ltd"],
+      "summary": "Former 'Malcolm in The Middle' Actor, and Professional NASCAR Driver Enters Brand Partnership with ...",
+      "banner_image": "https://ml.globenewswire.com/Resource/Download/247ac396-a35f-4b80-abac-4ee93d603e63",
+      "source": "GlobeNewswire",
+      "category_within_source": "n/a",
+      "source_domain": "www.globenewswire.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.256558,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.036146",
+          "ticker_sentiment_score": "0.099593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.036146",
+          "ticker_sentiment_score": "0.099593",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "WKSP",
+          "relevance_score": "0.413425",
+          "ticker_sentiment_score": "0.541623",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ENGS",
+          "relevance_score": "0.036146",
+          "ticker_sentiment_score": "0.229912",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "ScyllaDB Cloud Now Available on Google Cloud with BYOA Model",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46600157/scylladb-cloud-now-available-on-google-cloud-with-byoa-model",
+      "time_published": "20250724T130000",
+      "authors": ["Globe Newswire"],
+      "summary": "SUNNYVALE, Calif., July 24, 2025 ( GLOBE NEWSWIRE ) -- ScyllaDB Cloud, a fully-managed database-as-a-service known for predictable performance at scale, is now available with the BYOA ( Bring Your Own ( Cloud ) Account ) model on Google Cloud.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Real Estate & Construction",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.002432,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "-0.044641",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.608634",
+          "ticker_sentiment_score": "-0.068482",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TRIP",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "0.164119",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SBUX",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "-0.044641",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "EXPE",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "-0.044641",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "Z",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "-0.044641",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CCZ",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "-0.044641",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "APPS",
+          "relevance_score": "0.097457",
+          "ticker_sentiment_score": "0.014456",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Alliance Entertainment's Handmade by Robots™ Launches First-to-Market Hello Kitty® Vinyl Figure at San Diego Comic-Con 2025 - Alliance Entertainment  ( NASDAQ:AENT ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46599342/alliance-entertainments-handmade-by-robots-launches-first-to-market-hello-kitty-vinyl-figure-at-sa",
+      "time_published": "20250724T123000",
+      "authors": ["Globe Newswire"],
+      "summary": "SUNRISE, Fla., July 24, 2025 ( GLOBE NEWSWIRE ) -- Alliance Entertainment Holding Corporation AENT, a leading distributor and fulfillment partner of entertainment and pop culture collectibles, today announced the launch of a new limited-edition Handmade by Robots™ vinyl figure featuring global ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.684621"
+        }
+      ],
+      "overall_sentiment_score": 0.208767,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SNROF",
+          "relevance_score": "0.182276",
+          "ticker_sentiment_score": "0.301721",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.030641",
+          "ticker_sentiment_score": "0.210151",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.030641",
+          "ticker_sentiment_score": "0.210151",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PINS",
+          "relevance_score": "0.030641",
+          "ticker_sentiment_score": "0.210151",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AENT",
+          "relevance_score": "0.152306",
+          "ticker_sentiment_score": "0.258498",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "RDDT STOCK NEWS: Reddit, Inc.  ( NYSE:RDDT )  is Facing Securities Fraud Allegations - Investors with Losses are Notified to Contact BFA Law by August 18 Deadline - Reddit  ( NYSE:RDDT ) ",
+      "url": "https://www.benzinga.com/pressreleases/25/07/g46598809/rddt-stock-news-reddit-inc-nyse-rddt-is-facing-securities-fraud-allegations-investors-with-losses-",
+      "time_published": "20250724T120700",
+      "authors": ["Globe Newswire"],
+      "summary": "NEW YORK, July 24, 2025 ( GLOBE NEWSWIRE ) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces that a lawsuit has been filed against Reddit, Inc. RDDT and certain of the Company's senior executives for potential violations of the federal securities laws.",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.929393"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.1943,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.066598",
+          "ticker_sentiment_score": "0.079388",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TRI",
+          "relevance_score": "0.066598",
+          "ticker_sentiment_score": "0.189941",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.066598",
+          "ticker_sentiment_score": "0.189941",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "RDDT",
+          "relevance_score": "0.78997",
+          "ticker_sentiment_score": "0.30515",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gaylord Hotels' Original Christmas Attraction, ICE!, Returns to Six Resorts Nationwide for the 2025 Season",
+      "url": "https://www.benzinga.com/pressreleases/25/07/n46598437/gaylord-hotels-original-christmas-attraction-ice-returns-to-six-resorts-nationwide-for-the-2025-se",
+      "time_published": "20250724T120000",
+      "authors": ["PRNewswire"],
+      "summary": "ICE! Headlines a Robust Lineup of Holiday Programming Across Each Destination",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.399047,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SNEJF",
+          "relevance_score": "0.015542",
+          "ticker_sentiment_score": "0.210329",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.015542",
+          "ticker_sentiment_score": "0.178889",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.015542",
+          "ticker_sentiment_score": "0.169179",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "JWCTF",
+          "relevance_score": "0.139175",
+          "ticker_sentiment_score": "0.151905",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WBD",
+          "relevance_score": "0.015542",
+          "ticker_sentiment_score": "0.119506",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CCZ",
+          "relevance_score": "0.015542",
+          "ticker_sentiment_score": "0.250081",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "WLDBF",
+          "relevance_score": "0.015542",
+          "ticker_sentiment_score": "0.210329",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Elon Musk floats robots in 'cute outfits' while Tesla earnings miss",
+      "url": "https://cointelegraph.com/news/tesla-stocks-fall-q2-earnings-miss-elon-musk-robot",
+      "time_published": "20250724T113055",
+      "authors": ["Tarang Khaitan"],
+      "summary": "Tesla's retro-themed diner opened this week with lines around the block, but that didn't stop the stock from dipping after hours as it reported its Q2 earnings.",
+      "banner_image": "https://s3.cointelegraph.com/uploads/2025-07/01983c0e-d67f-722b-9a16-0d3aadad95bb",
+      "source": "Cointelegraph",
+      "category_within_source": "n/a",
+      "source_domain": "cointelegraph.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.839681"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.066496,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "OPTGF",
+          "relevance_score": "0.140896",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.070725",
+          "ticker_sentiment_score": "0.18221",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.844427",
+          "ticker_sentiment_score": "0.041057",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:BTC",
+          "relevance_score": "0.62523",
+          "ticker_sentiment_score": "0.281254",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tencent's AI-powered programming tool fully automates app development",
+      "url": "https://www.scmp.com/tech/tech-trends/article/3319447/tencents-new-ai-powered-programming-tool-fully-automates-application-development",
+      "time_published": "20250724T113008",
+      "authors": ["Danielle Popov"],
+      "summary": "Tencent Holdings this week commenced beta testing on CodeBuddy IDE, a smart programming tool for software developers that provides artificial intelligence (AI) and natural language support for designing, building and deploying new applications.",
+      "banner_image": "https://cdn.i-scmp.com/sites/default/files/styles/1020x680/public/d8/images/canvas/2025/07/24/d82ee759-fc0d-479b-a6ee-5abf2718eb08_817148c8.jpg?itok=IEeATIU5&v=1753349322",
+      "source": "South China Morning Post",
+      "category_within_source": "Business",
+      "source_domain": "www.scmp.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.242162,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "BABA",
+          "relevance_score": "0.22421",
+          "ticker_sentiment_score": "0.09159",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.075635",
+          "ticker_sentiment_score": "0.141619",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SZIHF",
+          "relevance_score": "0.075635",
+          "ticker_sentiment_score": "-0.109155",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TCTZF",
+          "relevance_score": "0.493666",
+          "ticker_sentiment_score": "0.361413",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Google Just Silenced Its Haters With This 1 Eye-Popping Number",
+      "url": "https://www.fool.com/investing/2025/07/24/google-just-silenced-its-haters-with-this-1-eye-po/",
+      "time_published": "20250724T111224",
+      "authors": ["Billy Duberstein"],
+      "summary": "... at least for now.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F826503%2Fgettyimages-1450922167-2.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.650727"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.062394,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.458708",
+          "ticker_sentiment_score": "0.193112",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    }
+  ]
+}

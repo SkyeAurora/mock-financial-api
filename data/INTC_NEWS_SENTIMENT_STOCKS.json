@@ -1,0 +1,3071 @@
+{
+  "items": "50",
+  "sentiment_score_definition": "x <= -0.35: Bearish; -0.35 < x <= -0.15: Somewhat-Bearish; -0.15 < x < 0.15: Neutral; 0.15 <= x < 0.35: Somewhat_Bullish; x >= 0.35: Bullish",
+  "relevance_score_definition": "0 < x <= 1, with a higher score indicating higher relevance.",
+  "feed": [
+    {
+      "title": "Intel CEO Says He's 'Making Hard But Necessary Decisions' As Chipmaker Announces Massive Layoffs, Project Cancellations - NVIDIA  ( NASDAQ:NVDA ) , Intel  ( NASDAQ:INTC ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46621426/intel-ceo-says-hes-making-hard-but-necessary-decisions-as-chipmaker-announces-massive-layoffs-projec",
+      "time_published": "20250725T013037",
+      "authors": ["Ananya Gairola"],
+      "summary": "Intel Corporation INTC is undertaking sweeping layoffs and global project cuts as part of a major overhaul aimed at restoring its competitive edge in the AI-dominated semiconductor landscape.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.360215"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.100492,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.173333",
+          "ticker_sentiment_score": "-0.173454",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.675573",
+          "ticker_sentiment_score": "0.200808",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "INTC, DECK, UNH, DOW, AAL: 5 Trending Stocks Today - Deckers Outdoor  ( NYSE:DECK ) , American Airlines Group  ( NASDAQ:AAL ) ",
+      "url": "https://www.benzinga.com/markets/equities/25/07/46621391/intel-deckers-outdoor-unitedhealth-dow-and-american-airlines-why-these-5-stocks-are-on-investors",
+      "time_published": "20250725T012443",
+      "authors": ["Shivdeep Dhaliwal"],
+      "summary": "U.S. stock futures showed mixed movements on Thursday, with the Dow Jones Industrial Average declining 0.7% to 44,693.91. The S&P 500 rose marginally by 0.07% to 6,363.35, while the Nasdaq gained almost 0.2% to 21,057.96. These are the top stocks that gained the attention of retail traders and ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/A-Pen-Is-Placed-On-A-Book-Rankingslist-A.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Markets",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.5855"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.947132"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.029183,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "0.0703",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAL",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "-0.142573",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DECK",
+          "relevance_score": "0.089462",
+          "ticker_sentiment_score": "-0.038148",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.177802",
+          "ticker_sentiment_score": "0.135166",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Markets, Data, Earnings All Mixed",
+      "url": "https://www.zacks.com/stock/news/2614678/markets-data-earnings-all-mixed",
+      "time_published": "20250724T230700",
+      "authors": ["Mark Vickery"],
+      "summary": "The blue-chip Dow followed its +500-point Wednesday by selling off -316 points Thursday.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/09/2154.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.976671"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.064458,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.040607",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.040607",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "PSX",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.040607",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DECK",
+          "relevance_score": "0.213674",
+          "ticker_sentiment_score": "0.073613",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.348592",
+          "ticker_sentiment_score": "0.235824",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AN",
+          "relevance_score": "0.072",
+          "ticker_sentiment_score": "0.033162",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMZN",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.040607",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intel  ( INTC )  Reports Q2 Loss, Beats Revenue Estimates",
+      "url": "https://www.zacks.com/stock/news/2614166/intel-intc-reports-q2-loss-beats-revenue-estimates",
+      "time_published": "20250724T211502",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Intel (INTC) delivered earnings and revenue surprises of -1,100.00% and +8.36%, respectively, for the quarter ended June 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default34.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999981"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.153041,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "ASYS",
+          "relevance_score": "0.210579",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.406745",
+          "ticker_sentiment_score": "0.160742",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intel Boosted by Strong PC Sales",
+      "url": "https://www.fool.com/investing/2025/07/24/intel-boosted-by-strong-pc-sales/",
+      "time_published": "20250724T211125",
+      "authors": ["Lou Whiteman"],
+      "summary": "Here's our initial take on Intel's ( NASDAQ: INTC ) fiscal 2025 second-quarter financial report.Intel posted better-than-expected revenue in the second quarter but noted an unexpected loss due to impairment charges related to \"excess tools with no identified reuse.\" This is the first full ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/826667/intc.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.955357"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.048041,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.690822",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Intel Q2 Revenue Tops, EPS Misses; Sees Competitive Growth Ahead - Intel  ( NASDAQ:INTC ) ",
+      "url": "https://www.benzinga.com/trading-ideas/movers/25/07/46617195/intel-q2-earnings-revenue-beat-eps-miss-chipmaker-sees-clear-opportunities-to-enhance-compet",
+      "time_published": "20250724T202315",
+      "authors": ["Adam Eckert"],
+      "summary": "Intel reports second-quarter revenue of $12.86 billion, beating analyst estimates of $11.91 billion. Up Next: Get 5 Dark Horse Stocks Wall Street Is Quietly Loading Up On Intel Corp INTC reported financial results for the second quarter after the market close on Thursday.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Intel-Galati--Romania---May-24-2024-Inte.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.980716"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.229777,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.793468",
+          "ticker_sentiment_score": "0.256448",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Why Is Autonomous Driving Player Mobileye Stock Falling Today - Intel  ( NASDAQ:INTC ) , Mobileye Global  ( NASDAQ:MBLY ) ",
+      "url": "https://www.benzinga.com/markets/earnings/25/07/46610781/autonomous-driving-player-mobileye-stock-drops-despite-raising-outlook-margin-growth",
+      "time_published": "20250724T170413",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Mobileye Q2 revenue rose 15% to $506M, beating estimates; EPS came in at $0.13 vs. $0.09 expected Company raised 2025 outlook as EyeQ volumes jumped 28% and new ADAS design wins boosted growth momentum Up Next: Get 5 Dark Horse Stocks Wall Street Is Quietly Loading Up On",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Las-Vegas--Nv-1-8-2025-Volkswagen-And-Mo.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.459462"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.986714"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.157169,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.206392",
+          "ticker_sentiment_score": "0.06136",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MBLY",
+          "relevance_score": "0.138464",
+          "ticker_sentiment_score": "0.075479",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "What's Going On With Intel Shares Thursday? - Intel  ( NASDAQ:INTC ) ",
+      "url": "https://www.benzinga.com/markets/earnings/25/07/46606721/whats-going-on-with-intel-shares-thursday",
+      "time_published": "20250724T151704",
+      "authors": ["Dylan Berman"],
+      "summary": "Analysts estimate Intel will report earnings of 1 cent per share and $11.91 billion in revenue for the second quarter. Intel has a mixed track record of beating revenue and earnings expectations.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Ai-Artificial-Intelligence-Technology-Fo.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.9996"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.99676"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.166858,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.09402",
+          "ticker_sentiment_score": "0.258956",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.806129",
+          "ticker_sentiment_score": "-0.151979",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Pre-Markets Mixed Despite Strong Earnings Results",
+      "url": "https://www.zacks.com/stock/news/2612956/pre-markets-mixed-despite-strong-earnings-results",
+      "time_published": "20250724T150800",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Pre-market futures right now are split, but weakening. Understandable, as we have seen record high closes on the S&P 500 so far this year in double digits, mostly in just the past couple weeks.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/b6/1336.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.079207,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DECK",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HON",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.124367",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "-0.090156",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UNP",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.177638",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NSC",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.177638",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Morning Headlines Defy Expectations, but Pre-Markets Sell",
+      "url": "https://www.zacks.com/stock/news/2612833/morning-headlines-defy-expectations-but-pre-markets-sell",
+      "time_published": "20250724T143700",
+      "authors": ["Mark Vickery"],
+      "summary": "Only the tech-heavy (AI-trade-heavy) Nasdaq is in the green at this hour.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/ea/620.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.838487"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.076729,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "DECK",
+          "relevance_score": "0.116348",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HON",
+          "relevance_score": "0.116348",
+          "ticker_sentiment_score": "0.154583",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.116348",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UNP",
+          "relevance_score": "0.116348",
+          "ticker_sentiment_score": "0.154583",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAL",
+          "relevance_score": "0.116348",
+          "ticker_sentiment_score": "0.154583",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "UNH",
+          "relevance_score": "0.116348",
+          "ticker_sentiment_score": "0.068827",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NSC",
+          "relevance_score": "0.116348",
+          "ticker_sentiment_score": "0.154583",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intel Earnings Are Imminent; These Most Accurate Analysts Revise Forecasts Ahead Of Earnings Call - Intel  ( NASDAQ:INTC ) ",
+      "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/25/07/46604526/intel-earnings-are-imminent-these-most-accurate-analysts-revise-forecasts-ahea",
+      "time_published": "20250724T143634",
+      "authors": ["Avi Kapoor"],
+      "summary": "Intel Corporation INTC will release earnings results for the second quarter, after the closing bell on Thursday, July 24. Analysts expect the Santa Clara, California-based company to report quarterly earnings at 1 cent per share, down from 2 cents per share in the year-ago period.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/24/Intel-Corporation.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.818451"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.148259,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.482078",
+          "ticker_sentiment_score": "0.417753",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "C",
+          "relevance_score": "0.102888",
+          "ticker_sentiment_score": "0.074882",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Big Q2 Earnings Afternoon After Strong Day on the Markets",
+      "url": "https://www.zacks.com/stock/news/2609702/big-q2-earnings-afternoon-after-strong-day-on-the-markets",
+      "time_published": "20250723T223600",
+      "authors": ["Mark Vickery"],
+      "summary": "After the Dow brought in more than 500 points and the S&P notched a new record high, a ton of big-name companies reported earnings after the close.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/44/97036.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.365926"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.96136"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.25"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.25"
+        }
+      ],
+      "overall_sentiment_score": 0.082461,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.175009",
+          "ticker_sentiment_score": "0.031837",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DECK",
+          "relevance_score": "0.1172",
+          "ticker_sentiment_score": "-0.042436",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HON",
+          "relevance_score": "0.1172",
+          "ticker_sentiment_score": "-0.042436",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.1172",
+          "ticker_sentiment_score": "-0.042436",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "UNP",
+          "relevance_score": "0.1172",
+          "ticker_sentiment_score": "-0.042436",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.058759",
+          "ticker_sentiment_score": "0.073023",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAL",
+          "relevance_score": "0.1172",
+          "ticker_sentiment_score": "-0.042436",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CMG",
+          "relevance_score": "0.1172",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Does the ASML Stock Sell-Off Signal Trouble for Nvidia and Broadcom?",
+      "url": "https://www.fool.com/investing/2025/07/23/asml-stock-sell-off-nvidia-broadcom/",
+      "time_published": "20250723T222900",
+      "authors": ["Daniel Foelber"],
+      "summary": "ASML ( NASDAQ: ASML ) stock was down over 11% at one point during the trading day July 16 before closing the session down 8.3%. However, the growth stock continued falling over the next couple of days and is now down 21% over the past year.The company makes advanced lithography machines that chip ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/825588/light-hits-a-silicon-wafer-illustrating-the-complexity-of-semiconductor-manufacturing.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.658903"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.95493"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.021637,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.073434",
+          "ticker_sentiment_score": "-0.033337",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.036756",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.419733",
+          "ticker_sentiment_score": "0.025854",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.419733",
+          "ticker_sentiment_score": "0.020119",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.073434",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.073434",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Time to Buy, Hold, or Sell Intel Stock as Q2 Earnings Approach?",
+      "url": "https://www.zacks.com/stock/news/2608964/time-to-buy-hold-or-sell-intel-stock-as-q2-earnings-approach",
+      "time_published": "20250723T185700",
+      "authors": ["Shaun Pruitt"],
+      "summary": "Showing signs of a comeback, Intel (INTC) stock has started to rebound and is up +15% in 2025, with the chip giant's much-anticipated Q2 results approaching after-market hours on Thursday, July 24.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/38/2322.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.891286"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.133414,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "CDNS",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "0.235927",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "-0.038775",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "0.356184",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "ARM",
+          "relevance_score": "0.154951",
+          "ticker_sentiment_score": "-0.038775",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.671529",
+          "ticker_sentiment_score": "0.209655",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Should iShares MSCI USA Value Factor ETF  ( VLUE )  Be on Your Investing Radar?",
+      "url": "https://www.zacks.com/stock/news/2606721/should-ishares-msci-usa-value-factor-etf-vlue-be-on-your-investing-radar",
+      "time_published": "20250723T102004",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Style Box ETF report for ...",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default134.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.273676,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MU",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.064529",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.064529",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CSCO",
+          "relevance_score": "0.120733",
+          "ticker_sentiment_score": "0.064529",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Should You Double Up on ASML Stock Despite Growth Concerns?",
+      "url": "https://www.fool.com/investing/2025/07/23/buy-asml-ai-growth-stock/",
+      "time_published": "20250723T080400",
+      "authors": ["Daniel Foelber"],
+      "summary": "ASML ( NASDAQ: ASML ) fell 8.3% on July 16 in response to its second-quarter 2025 results and guidance. Investors may be wondering why ASML dipped so much, given it beat analyst estimates for the quarter.Here's why the sell-off is a buying opportunity for long-term investors interested in an ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825587%2Fan-illustration-showing-a-machine-working-on-a-microchip.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.818451"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.962106"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.165076,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.051221",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.102231",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.102231",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Texas Instruments  ( TXN )  Q2 Earnings and Revenues Top Estimates",
+      "url": "https://www.zacks.com/stock/news/2604707/texas-instruments-txn-q2-earnings-and-revenues-top-estimates",
+      "time_published": "20250722T211002",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Texas Instruments (TXN) delivered earnings and revenue surprises of +6.82% and +3.22%, respectively, for the quarter ended June 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default94.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999997"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.166421,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.138464",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TXN",
+          "relevance_score": "0.399204",
+          "ticker_sentiment_score": "0.207635",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Buy 5 Big Data Behemoths to Strengthen Your Portfolio in 2H 2025",
+      "url": "https://www.zacks.com/stock/news/2602821/buy-5-big-data-behemoths-to-strengthen-your-portfolio-in-2h-2025",
+      "time_published": "20250722T112300",
+      "authors": ["Nalak Das"],
+      "summary": "Five big data stocks, namely, HUBS, DELL, ADBE, MSFT and INTC are poised for growth in 2H 2025, driven by AI, cloud, and digitization trends.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.392874,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.199584",
+          "ticker_sentiment_score": "0.219195",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.033609",
+          "ticker_sentiment_score": "0.177717",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.067158",
+          "ticker_sentiment_score": "0.237447",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.263942",
+          "ticker_sentiment_score": "0.329704",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ADBE",
+          "relevance_score": "0.416138",
+          "ticker_sentiment_score": "0.418435",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HUBS",
+          "relevance_score": "0.295471",
+          "ticker_sentiment_score": "0.228221",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DELL",
+          "relevance_score": "0.263942",
+          "ticker_sentiment_score": "0.301724",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "What Intel and AMD Stock Investors Must Know Before Wednesday Afternoon",
+      "url": "https://www.fool.com/investing/2025/07/21/what-intel-and-amd-stock-investors-must-know-befor/",
+      "time_published": "20250721T161742",
+      "authors": ["Jose Najarro"],
+      "summary": "In today's video, I discuss recent updates affecting Intel ( NASDAQ: INTC ) and Advanced Micro Devices ( NASDAQ: AMD ) . To learn more, check out the short video, consider subscribing, and click the special offer link below.*Stock prices used were the after-market prices of July 18, 2025.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/825915/intel-cube-in-front-of-intel-headquarters-with-logo-on-front_intel.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.121992,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.930964",
+          "ticker_sentiment_score": "0.341313",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.930964",
+          "ticker_sentiment_score": "0.341313",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intel Gears Up to Report Q2 Earnings: Should You Buy the Stock?",
+      "url": "https://www.zacks.com/stock/news/2600051/intel-gears-up-to-report-q2-earnings-should-you-buy-the-stock",
+      "time_published": "20250721T151900",
+      "authors": ["Aritra Chatterjee"],
+      "summary": "INTC preps Q2 earnings amid AI PC momentum, cost cuts, and a strategic pivot to boost growth and liquidity.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/e5/419.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.972193"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.34437,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.166169",
+          "ticker_sentiment_score": "0.079686",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LNVGF",
+          "relevance_score": "0.125025",
+          "ticker_sentiment_score": "0.113555",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.041828",
+          "ticker_sentiment_score": "0.18278",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.166169",
+          "ticker_sentiment_score": "0.110253",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.680994",
+          "ticker_sentiment_score": "0.507225",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings This Week: Heavyweights Tesla And Google",
+      "url": "https://www.benzinga.com/news/earnings/25/07/46519541/earnings-this-week-heavyweights-tesla-and-google",
+      "time_published": "20250721T135358",
+      "authors": ["Gav Blaxberg"],
+      "summary": "This week, we're staring down the barrel of a high-stakes earnings stretch across tech, defense, EVs, and AI. While we won't break down every report, here's a structured look at the most important names and the themes we're watching… especially around semiconductors, enterprise software, and ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Retail & Wholesale",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.166667"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.650727"
+        }
+      ],
+      "overall_sentiment_score": 0.178641,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.072",
+          "ticker_sentiment_score": "0.129751",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FI",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "KO",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.302274",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VZ",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.132354",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GM",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.146037",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HON",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.369418",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "HCA",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.166947",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NXPI",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "-0.048016",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAL",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "DPZ",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.132354",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NEE",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.152258",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DMPZF",
+          "relevance_score": "0.072",
+          "ticker_sentiment_score": "0.107688",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LMT",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.100714",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "-0.251666",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.315781",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "DECK",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.261568",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NOW",
+          "relevance_score": "0.072",
+          "ticker_sentiment_score": "0.187521",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "GEV",
+          "relevance_score": "0.143415",
+          "ticker_sentiment_score": "0.152258",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Gear Up for Intel  ( INTC )  Q2 Earnings: Wall Street Estimates for Key Metrics",
+      "url": "https://www.zacks.com/stock/news/2599459/gear-up-for-intel-intc-q2-earnings-wall-street-estimates-for-key-metrics",
+      "time_published": "20250721T131504",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Beyond analysts' top-and-bottom-line estimates for Intel (INTC), evaluate projections for some of its key metrics to gain a better insight into how the business might have performed for the quarter ended June 2025.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default31.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.947132"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.093243,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.705377",
+          "ticker_sentiment_score": "0.105625",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ASML Shares Tumble. Time to Run for the Hills or Buy the Dip?",
+      "url": "https://www.fool.com/investing/2025/07/21/asml-shares-tumble-time-to-run-for-the-hills/",
+      "time_published": "20250721T103000",
+      "authors": ["Geoffrey Seiler"],
+      "summary": "Shares of ASML Holding ( NASDAQ: ASML ) sank after the company warned it was uncertain about its growth outlook for 2026. The stock has fallen about 30% over the past year, as of this writing.For those unfamiliar with ASML, the Dutch company is a semiconductor equipment manufacturer that makes ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825557%2Fgettyimages-1802285109.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.918141"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.154585,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.057079",
+          "ticker_sentiment_score": "-0.039303",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.057079",
+          "ticker_sentiment_score": "-0.039303",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ASML",
+          "relevance_score": "0.279653",
+          "ticker_sentiment_score": "0.108519",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.057079",
+          "ticker_sentiment_score": "0.038001",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Taiwan Semiconductor Manufacturing, NVIDIA, Apple, Advanced Micro Devices, Broadcom and Intel",
+      "url": "https://www.zacks.com/stock/news/2598836/the-zacks-analyst-blog-highlights-taiwan-semiconductor-manufacturing-nvidia-apple-advanced-micro-devices-broadcom-and-intel",
+      "time_published": "20250721T100700",
+      "authors": ["Zacks Equity Research"],
+      "summary": "TSMC posts record Q2 profit and projects 30% revenue growth for 2025, fueled by AI chip demand and global expansion plans.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/8e/1377.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.818451"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.242342,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.238133",
+          "ticker_sentiment_score": "0.119357",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.019863",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.072392",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.072392",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.191549",
+          "ticker_sentiment_score": "0.105289",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NNOX",
+          "relevance_score": "0.048327",
+          "ticker_sentiment_score": "0.085929",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.144275",
+          "ticker_sentiment_score": "0.092909",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.048327",
+          "ticker_sentiment_score": "0.045723",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "CRYPTO:NANO",
+          "relevance_score": "0.048327",
+          "ticker_sentiment_score": "0.085929",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "5 Red-Hot Growth Stocks to Buy in 2025",
+      "url": "https://www.fool.com/investing/2025/07/21/5-red-hot-growth-stocks-to-buy-in-2025/",
+      "time_published": "20250721T085100",
+      "authors": ["Geoffrey Seiler"],
+      "summary": "Growth stocks continue to drive the market higher, led by companies in the technology sector. With the market heating up, now is still a great time to add some growth names to your portfolio.Let's look at five great options to buy this year.Image source: Getty Images.Continue reading ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825488%2Fgettyimages-1492319884.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.353127,
+      "overall_sentiment_label": "Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.075161",
+          "ticker_sentiment_score": "0.174026",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "VMW",
+          "relevance_score": "0.075161",
+          "ticker_sentiment_score": "0.085487",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.037622",
+          "ticker_sentiment_score": "0.131478",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.258743",
+          "ticker_sentiment_score": "0.249715",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.112532",
+          "ticker_sentiment_score": "0.071231",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.18645",
+          "ticker_sentiment_score": "0.264768",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "PINS",
+          "relevance_score": "0.18645",
+          "ticker_sentiment_score": "0.232924",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TOST",
+          "relevance_score": "0.149656",
+          "ticker_sentiment_score": "0.210701",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.075161",
+          "ticker_sentiment_score": "0.226127",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Got $3,000? 2 Artificial Intelligence  ( AI )  Stocks to Buy and Hold for the Long Term",
+      "url": "https://www.fool.com/investing/2025/07/19/got-3000-ai-stocks-buy-hold-long-term/",
+      "time_published": "20250719T103500",
+      "authors": ["John Ballard"],
+      "summary": "Artificial intelligence ( AI ) is impacting every sector of the economy, so there are several ways investors can profit from this opportunity. But recent earnings results show that top semiconductor companies are still well positioned to deliver outstanding returns for long-term investors.The AI ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824934%2Fai-computer-chip.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.9996"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.335379,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.495015",
+          "ticker_sentiment_score": "0.291519",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.117774",
+          "ticker_sentiment_score": "0.159936",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.059049",
+          "ticker_sentiment_score": "0.058164",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.232996",
+          "ticker_sentiment_score": "0.309097",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ASCCF",
+          "relevance_score": "0.117774",
+          "ticker_sentiment_score": "0.006911",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.059049",
+          "ticker_sentiment_score": "0.081992",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Reasons to Buy TSMC Stock Besides 61% Q2 Profit Surge",
+      "url": "https://www.zacks.com/stock/news/2592620/3-reasons-to-buy-tsmc-stock-besides-61-q2-profit-surge",
+      "time_published": "20250718T190000",
+      "authors": ["Tirthankar Chakraborty"],
+      "summary": "TSM posts record Q2 profit on soaring AI chip demand and forecasts 30% revenue growth in 2025 as momentum builds.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/fb/3670.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.795202"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.278101,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.168099",
+          "ticker_sentiment_score": "0.135999",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.222838",
+          "ticker_sentiment_score": "0.141329",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.112532",
+          "ticker_sentiment_score": "0.042316",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.112532",
+          "ticker_sentiment_score": "0.115105",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.112532",
+          "ticker_sentiment_score": "0.115105",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.222838",
+          "ticker_sentiment_score": "0.217272",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.112532",
+          "ticker_sentiment_score": "0.055551",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "ASML Stock Declines 9% After Q2 Earnings: Should You Hold or Fold?",
+      "url": "https://www.zacks.com/stock/news/2591286/asml-stock-declines-9-after-q2-earnings-should-you-hold-or-fold",
+      "time_published": "20250718T122100",
+      "authors": ["Anirudha Bhagat"],
+      "summary": "ASML Holding stock tumbles 9.5% despite strong Q2 results as weak guidance and 2026 uncertainty spook investors.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/19/1136.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.992549"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Economy - Macro",
+          "relevance_score": "0.158519"
+        }
+      ],
+      "overall_sentiment_score": 0.12108,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.153961",
+          "ticker_sentiment_score": "0.148089",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.038717",
+          "ticker_sentiment_score": "0.093656",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.153961",
+          "ticker_sentiment_score": "0.148089",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.191776",
+          "ticker_sentiment_score": "0.160383",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ASML",
+          "relevance_score": "0.810034",
+          "ticker_sentiment_score": "0.251764",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "FOREX:AMD",
+          "relevance_score": "0.077343",
+          "ticker_sentiment_score": "0.037619",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:EUR",
+          "relevance_score": "0.038717",
+          "ticker_sentiment_score": "-0.024595",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.077343",
+          "ticker_sentiment_score": "0.029667",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Markets Reach New Closing Highs, Netflix Beats on Q2 Earnings",
+      "url": "https://www.zacks.com/stock/news/2589837/markets-reach-new-closing-highs-netflix-beats-on-q2-earnings",
+      "time_published": "20250717T220600",
+      "authors": ["Mark Vickery"],
+      "summary": "This marks Netflix's sixth-straight quarterly earnings beat, even though the company no longer posts subscriber numbers.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/6e/1004.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Economy - Fiscal",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.87644"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.976671"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.178151,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NFLX",
+          "relevance_score": "0.155451",
+          "ticker_sentiment_score": "0.106893",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SLB",
+          "relevance_score": "0.078099",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AXP",
+          "relevance_score": "0.155451",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IBKR",
+          "relevance_score": "0.155451",
+          "ticker_sentiment_score": "0.211732",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.155451",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.155451",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Semiconductor Stocks React To Key Policies And Earnings - Advanced Micro Devices  ( NASDAQ:AMD ) , ASML Holding  ( NASDAQ:ASML ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46475029/semiconductor-stocks-react-to-key-policies-and-earnings",
+      "time_published": "20250717T170152",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Semiconductor stocks, including Nvidia, AMD, and Supermicro, gained 2-11% amid AI investment boost and trade policy shifts. Taiwan Semiconductor's strong Q2 results and margin growth drive optimism, while ASML warns of uncertain 2026 growth outlook.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/17/Small-Semiconductor-On-A-Circuit-Board--.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.999186"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.795202"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.203114,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.386211",
+          "ticker_sentiment_score": "0.144664",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.220809",
+          "ticker_sentiment_score": "0.084609",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "BX",
+          "relevance_score": "0.044718",
+          "ticker_sentiment_score": "0.089354",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.089295",
+          "ticker_sentiment_score": "0.134243",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SMCI",
+          "relevance_score": "0.133593",
+          "ticker_sentiment_score": "0.019458",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.177475",
+          "ticker_sentiment_score": "0.121095",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ASML",
+          "relevance_score": "0.177475",
+          "ticker_sentiment_score": "0.155247",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MRVL",
+          "relevance_score": "0.089295",
+          "ticker_sentiment_score": "-0.094142",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.089295",
+          "ticker_sentiment_score": "0.213149",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Earnings Preview: Intel  ( INTC )  Q2 Earnings Expected to Decline",
+      "url": "https://www.zacks.com/stock/news/2588644/earnings-preview-intel-intc-q2-earnings-expected-to-decline",
+      "time_published": "20250717T140018",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Intel (INTC) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default249.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "1.0"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.136458,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.29887",
+          "ticker_sentiment_score": "-0.031194",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Supermicro Launches New AI Servers With Intel Xeon 6 Chips - Super Micro Computer  ( NASDAQ:SMCI ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46463670/supermicro-launches-new-ai-servers-with-intel-xeon-6-chips",
+      "time_published": "20250717T113644",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Supermicro begins shipping powerful 4-socket servers with Intel Xeon 6, supporting up to 16TB memory and 6 GPUs for AI and ERP. Certified for SAP HANA and Oracle Linux, the new servers boost performance and simplify enterprise AI and database workloads.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/17/Supermicro-Sign-At-Headquarters-In-San-J.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.189514,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.077845",
+          "ticker_sentiment_score": "0.250384",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.374875",
+          "ticker_sentiment_score": "-0.220148",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.2306",
+          "ticker_sentiment_score": "0.23901",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "SMCI",
+          "relevance_score": "0.2306",
+          "ticker_sentiment_score": "0.199996",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Should You Buy Intel Stock Before July 24?",
+      "url": "https://www.fool.com/investing/2025/07/17/should-you-buy-intel-stock-before-july-24/",
+      "time_published": "20250717T080100",
+      "authors": ["Parkev Tatevosian", "CFA"],
+      "summary": "Intel ( NASDAQ: INTC ) will update investors on its manufacturing expansion and upgrades.*Stock prices used were the afternoon prices of July 13, 2025. The video was published on July 15, 2025.Continue reading ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/825528/intel-cube-statue-with-lit-up-intel-logo_intel.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": -0.41868,
+      "overall_sentiment_label": "Bearish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.769861",
+          "ticker_sentiment_score": "-0.624675",
+          "ticker_sentiment_label": "Bearish"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia Stock at All-Time Highs: Buy, Sell, or Hold?",
+      "url": "https://www.fool.com/investing/2025/07/17/nvidia-stock-at-all-time-highs-buy-sell-or-hold/",
+      "time_published": "20250717T074100",
+      "authors": ["Daniel Sparks"],
+      "summary": "Nvidia seems to be executing perfectly. But the stock's recent run higher means expectations are high.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825429%2Fnvda.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.938793"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.316726"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.23097,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.548003",
+          "ticker_sentiment_score": "0.335417",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.132733",
+          "ticker_sentiment_score": "0.053634",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "AMD's AI Chips Gain Ground in Data Centers: A Sign for More Upside?",
+      "url": "https://www.zacks.com/stock/news/2586196/amds-ai-chips-gain-ground-in-data-centers-a-sign-for-more-upside",
+      "time_published": "20250716T170000",
+      "authors": ["Zacks Investment Research"],
+      "summary": "Advanced Micro Devices' MI300 series gains traction in AI data centers, boosting revenues and drawing interest from tech giants like Meta.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/08/1020.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.108179"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.310843"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.290127,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.702673",
+          "ticker_sentiment_score": "0.396847",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.118354",
+          "ticker_sentiment_score": "0.144354",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.234119",
+          "ticker_sentiment_score": "0.157963",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.344872",
+          "ticker_sentiment_score": "0.247351",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Advanced AI Chip Demand Likely to Aid Taiwan Semiconductor's Q2 Sales",
+      "url": "https://www.zacks.com/stock/news/2585242/advanced-ai-chip-demand-likely-to-aid-taiwan-semiconductors-q2-sales",
+      "time_published": "20250716T132100",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Surging demand for advanced AI chips is likely to have driven TSM's Q2 revenues, while rising operational costs may have weighed on earnings.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/7e/103335.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.917436"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.203802,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MU",
+          "relevance_score": "0.184363",
+          "ticker_sentiment_score": "0.149895",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "STM",
+          "relevance_score": "0.244109",
+          "ticker_sentiment_score": "0.108772",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.184363",
+          "ticker_sentiment_score": "0.164314",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.302429",
+          "ticker_sentiment_score": "0.220724",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intel Might Be Quitting the AI Training Market for Good",
+      "url": "https://www.fool.com/investing/2025/07/16/intel-might-be-quitting-the-ai-training-market-for/",
+      "time_published": "20250716T101500",
+      "authors": ["Timothy Green"],
+      "summary": "Intel ( NASDAQ: INTC ) has already pulled back on its effort to directly compete with Nvidia in the AI accelerator market. The company's Gaudi line of AI chips held promise, but immature software and an unfamiliar architecture ultimately doomed Intel's flagship AI offerings.",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F825003%2Fgettyimages-2170889984.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.219759,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NET",
+          "relevance_score": "0.117486",
+          "ticker_sentiment_score": "0.149952",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.232439",
+          "ticker_sentiment_score": "0.032796",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.583672",
+          "ticker_sentiment_score": "0.284714",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Tesla Leaders Take The Exit Lane: Where Have All The Execs Gone? - Tesla  ( NASDAQ:TSLA ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46432860/tesla-leaders-take-the-exit-lane-where-have-all-the-execs-gone",
+      "time_published": "20250715T225838",
+      "authors": ["Erica Kollmann"],
+      "summary": "Tesla sees a wave of executive departures as CEO Elon Musk became involved in politics and the company suffered a downturn in sales. Troy Jones, Tesla's vice president of sales for North America, left the company on Tuesday after a 15-year tenure.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/15/ElonMusk-Tesla.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.052639,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "ENPH",
+          "relevance_score": "0.100099",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.149656",
+          "ticker_sentiment_score": "-0.158592",
+          "ticker_sentiment_label": "Somewhat-Bearish"
+        },
+        {
+          "ticker": "BYND",
+          "relevance_score": "0.100099",
+          "ticker_sentiment_score": "-0.046528",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.385137",
+          "ticker_sentiment_score": "0.032715",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "OPTGF",
+          "relevance_score": "0.050148",
+          "ticker_sentiment_score": "0.147231",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.100099",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Stock Market Today: Nvidia Climbs on China GPU Export Resumption",
+      "url": "https://www.fool.com/data-news/2025/07/15/stock-market-today-nvidia-climbs-on-china-gpu-expo/",
+      "time_published": "20250715T204844",
+      "authors": ["JesterAI"],
+      "summary": "Nvidia ( NASDAQ: NVDA ) shares surged 4% to close at $170.70 on Tuesday, outpacing broader market indices as investors responded positively to news about graphics processing unit ( GPU ) exports to China resuming. The chipmaker received assurances from the Trump administration that it can once ...",
+      "banner_image": "https://g.foolcdn.com/editorial/images/825413/nvidia-drive-platform-for-hyundai.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.214378"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.3335,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.338582",
+          "ticker_sentiment_score": "0.116117",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.488777",
+          "ticker_sentiment_score": "0.319585",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.338582",
+          "ticker_sentiment_score": "0.116117",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Trump Reversal On Nvidia H20 Adding To Bullishness, Buying On CPI Data - Meta Platforms  ( NASDAQ:META ) , NVIDIA  ( NASDAQ:NVDA ) ",
+      "url": "https://www.benzinga.com/general/market-summary/25/07/46427540/trump-reversal-on-nvidia-h20-adding-to-bullishness-buying-on-cpi-data",
+      "time_published": "20250715T183754",
+      "authors": ["The Arora Report"],
+      "summary": "To gain an edge, this is what you need to know today. Please click here for an enlarged chart of NVIDIA Corp NVDA. In April, the Trump administration had banned the sale of H20 AI chips to China. Nvidia CEO Jensen Huang met with President Trump and was able to persuade him to allow the export ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Economy - Monetary",
+          "relevance_score": "0.451494"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.998947"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.333333"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.333333"
+        }
+      ],
+      "overall_sentiment_score": 0.248549,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.130559",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.25142",
+          "ticker_sentiment_score": "0.232203",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.130559",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.130559",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "IVZ",
+          "relevance_score": "0.051111",
+          "ticker_sentiment_score": "0.306717",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "MRVL",
+          "relevance_score": "0.102013",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Is the Market Bullish or Bearish on Intel? - Intel  ( NASDAQ:INTC ) ",
+      "url": "https://www.benzinga.com/insights/short-sellers/25/07/46426576/is-the-market-bullish-or-bearish-on-intel",
+      "time_published": "20250715T180036",
+      "authors": ["Benzinga Insights"],
+      "summary": "Intel's INTC short percent of float has risen 12.64% since its last report. The company recently reported that it has 128.33 million shares sold short, which is 2.94% of all regular shares that are available for trading. Based on its trading volume, it would take traders 1.41 days to cover their ...",
+      "banner_image": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.271689,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.217834",
+          "ticker_sentiment_score": "0.154952",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intel vs. Qualcomm: Which Chipmaker is Better Poised for Mobile & 5G?",
+      "url": "https://www.zacks.com/stock/news/2579736/intel-vs-qualcomm-which-chipmaker-is-better-poised-for-mobile-5g",
+      "time_published": "20250714T134000",
+      "authors": ["Supriyo Bose"],
+      "summary": "QCOM gains edge over INTC in AI PCs and 5G, with stronger 2025 growth forecasts and broader connected tech traction.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/articles/main/0d/701.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999499"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.495866"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.31753,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.035035",
+          "ticker_sentiment_score": "0.164658",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.104835",
+          "ticker_sentiment_score": "0.073937",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.070002",
+          "ticker_sentiment_score": "0.033451",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.517808",
+          "ticker_sentiment_score": "0.344907",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.517808",
+          "ticker_sentiment_score": "0.401153",
+          "ticker_sentiment_label": "Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Investors Heavily Search Intel Corporation  ( INTC ) : Here is What You Need to Know",
+      "url": "https://www.zacks.com/stock/news/2579525/investors-heavily-search-intel-corporation-intc-here-is-what-you-need-to-know",
+      "time_published": "20250714T130004",
+      "authors": ["Zacks Equity Research"],
+      "summary": "Intel (INTC) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "banner_image": "https://staticx-tuner.zacks.com/images/default_article_images/default114.jpg",
+      "source": "Zacks Commentary",
+      "category_within_source": "n/a",
+      "source_domain": "www.zacks.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.54554"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.239352,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.53074",
+          "ticker_sentiment_score": "0.17314",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Taiwan Semiconductor's Top Supply Chain Executive Exits - Taiwan Semiconductor  ( NYSE:TSM ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46387337/taiwan-semiconductors-top-supply-chain-executive-exits",
+      "time_published": "20250714T100113",
+      "authors": ["Anusuya Lahiri"],
+      "summary": "Taiwan Semiconductor's materials chief Vanessa Lee resigns; SVP Cliff Hou takes over the role effective Sunday. TSM stock up 17% YTD as strong AI chip demand drives 38.6% revenue growth in Q2, topping company guidance.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/14/Taiwan-Semiconductor-Manufacturing-Co.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "News",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.413559"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.650727"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.050248,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "GOOG",
+          "relevance_score": "0.077094",
+          "ticker_sentiment_score": "0.089064",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.228431",
+          "ticker_sentiment_score": "0.122571",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.15347",
+          "ticker_sentiment_score": "0.113167",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "QCOM",
+          "relevance_score": "0.15347",
+          "ticker_sentiment_score": "0.113167",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.15347",
+          "ticker_sentiment_score": "0.117176",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.301315",
+          "ticker_sentiment_score": "0.06056",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "FOREX:USD",
+          "relevance_score": "0.077094",
+          "ticker_sentiment_score": "-0.133463",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Is the Safest AI Chip Bet",
+      "url": "https://www.fool.com/investing/2025/07/13/prediction-taiwan-semiconductor-manufacturing-stoc/",
+      "time_published": "20250713T164700",
+      "authors": ["Geoffrey Seiler"],
+      "summary": "Taiwan Semiconductor Manufacturing ( NYSE: TSM ) may not design artificial intelligence ( AI ) chips, but it's a company that every AI chipmaker relies on. The AI giants rely on TSMC to manufacture their number-crunching chip designs.",
+      "banner_image": "https://g.foolcdn.com/editorial/images/824778/semiconductor-wafer-production-1802285109.jpg",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.796627"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.98396"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.252654,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "AMD",
+          "relevance_score": "0.05257",
+          "ticker_sentiment_score": "0.087032",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.05257",
+          "ticker_sentiment_score": "0.087032",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.104911",
+          "ticker_sentiment_score": "0.082027",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AVGO",
+          "relevance_score": "0.05257",
+          "ticker_sentiment_score": "0.087032",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.104911",
+          "ticker_sentiment_score": "0.082027",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.104911",
+          "ticker_sentiment_score": "0.076599",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Consumer Tech News  ( July 7-July 11 ) : Nvidia Hits $4 Trillion, Japan Tariffs Rattle Markets, Hopes Rise For Trump-Xi Summit - Apple  ( NASDAQ:AAPL ) , ASML Holding  ( NASDAQ:ASML ) ",
+      "url": "https://www.benzinga.com/markets/large-cap/25/07/46383538/consumer-tech-news-july-7-july-11-nvidia-hits-4-trillion-japan-tariffs-rattle-markets-hopes-ris",
+      "time_published": "20250713T161546",
+      "authors": ["Nabaparna Bhattacharya"],
+      "summary": "Nvidia surpasses $4 trillion market cap amid AI dominance surge. Trump's new copper and Asia tariffs spark fresh trade war concerns. PPI and Industrial Production drop Wednesday morning - see how Matt Maley is trading the reaction, live at 6 PM ET. Wall Street watched history unfold as Nvidia ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/13/Taipei--Taiwan--July-25--2022-The-Office.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "General",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.161647"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.090527,
+      "overall_sentiment_label": "Neutral",
+      "ticker_sentiment": [
+        {
+          "ticker": "XPEV",
+          "relevance_score": "0.101797",
+          "ticker_sentiment_score": "0.163882",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "META",
+          "relevance_score": "0.101797",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.201944",
+          "ticker_sentiment_score": "0.087116",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AAPL",
+          "relevance_score": "0.201944",
+          "ticker_sentiment_score": "0.076855",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MLGO",
+          "relevance_score": "0.101797",
+          "ticker_sentiment_score": "0.101455",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "NSANF",
+          "relevance_score": "0.051003",
+          "ticker_sentiment_score": "-0.099414",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ESLOF",
+          "relevance_score": "0.051003",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "F",
+          "relevance_score": "0.101797",
+          "ticker_sentiment_score": "-0.141245",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "ASML",
+          "relevance_score": "0.101797",
+          "ticker_sentiment_score": "0.097162",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.101797",
+          "ticker_sentiment_score": "0.162316",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.152178",
+          "ticker_sentiment_score": "-0.058856",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.152178",
+          "ticker_sentiment_score": "0.106156",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "HMC",
+          "relevance_score": "0.101797",
+          "ticker_sentiment_score": "-0.106824",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "2 No-Brainer Artificial Intelligence  ( AI )  Stocks to Buy in July",
+      "url": "https://www.fool.com/investing/2025/07/13/2-no-brainer-ai-stocks-buy-july/",
+      "time_published": "20250713T081500",
+      "authors": ["John Ballard"],
+      "summary": "Artificial intelligence ( AI ) is the next industrial revolution. Statista estimates the AI market will grow 26% per year to reach $1 trillion by 2031. This estimate is based on growing investment in autonomous technology, machine learning, and natural language processing, among other ...",
+      "banner_image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F824291%2Fartificial-intelligence-chip-bull-market.jpg&op=resize&w=700",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.977154"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.999999"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.260816,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "MSFT",
+          "relevance_score": "0.060388",
+          "ticker_sentiment_score": "0.121006",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "SSNLF",
+          "relevance_score": "0.060388",
+          "ticker_sentiment_score": "0.176039",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.060388",
+          "ticker_sentiment_score": "0.121006",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.060388",
+          "ticker_sentiment_score": "0.176039",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ORCL",
+          "relevance_score": "0.179788",
+          "ticker_sentiment_score": "0.168656",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        },
+        {
+          "ticker": "ARM",
+          "relevance_score": "0.060388",
+          "ticker_sentiment_score": "0.121006",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSM",
+          "relevance_score": "0.120431",
+          "ticker_sentiment_score": "0.0",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "Nvidia Stock Is Way Cheaper Than You Think. Here's 1 Reason Why.",
+      "url": "https://www.fool.com/investing/2025/07/12/nvidia-stock-nvda-artificial-intelligence-ai-intc/",
+      "time_published": "20250712T111500",
+      "authors": ["Ryan Vanzo"],
+      "summary": "Nvidia ( NASDAQ: NVDA ) is one of the hottest stocks on the market today. Over the past five years, Nvidia shares have soared in value by nearly 1,500%, including another 20% in the last 12 months.Think the run is over? Think again.",
+      "banner_image": "https://media.ycharts.com/charts/775be1aceccdb765435690a88fd1cb97.png",
+      "source": "Motley Fool",
+      "category_within_source": "n/a",
+      "source_domain": "www.fool.com",
+      "topics": [
+        {
+          "topic": "Earnings",
+          "relevance_score": "0.682689"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.266143"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "1.0"
+        }
+      ],
+      "overall_sentiment_score": 0.339132,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.798255",
+          "ticker_sentiment_score": "0.46573",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.072655",
+          "ticker_sentiment_score": "0.055846",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    },
+    {
+      "title": "3 Stocks Set To Make Hay Under Trump's New Budget Bill - Applied Mat  ( NASDAQ:AMAT ) , Intel  ( NASDAQ:INTC ) ",
+      "url": "https://www.benzinga.com/trading-ideas/short-ideas/25/07/46374236/3-stocks-set-to-make-hay-under-trumps-new-budget-bill",
+      "time_published": "20250711T175127",
+      "authors": ["Nic Chahine"],
+      "summary": "The One Big, Beautiful Bill ( OBBB ) is now the law of the land, with President Trump taking a victory lap after signing the legislation into law on July 4, 2025. The new tax and regulatory policy in the bill is already sending huge ripples across the markets.",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/11/Winning-stocks.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Life Sciences",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.5855"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Energy & Transportation",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Technology",
+          "relevance_score": "0.2"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.2"
+        }
+      ],
+      "overall_sentiment_score": 0.274013,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "KLAC",
+          "relevance_score": "0.108958",
+          "ticker_sentiment_score": "0.119101",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "LRCX",
+          "relevance_score": "0.162802",
+          "ticker_sentiment_score": "0.112276",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "AMAT",
+          "relevance_score": "0.108958",
+          "ticker_sentiment_score": "0.119101",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "MP",
+          "relevance_score": "0.215894",
+          "ticker_sentiment_score": "0.052935",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "GS",
+          "relevance_score": "0.054607",
+          "ticker_sentiment_score": "0.060822",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.162802",
+          "ticker_sentiment_score": "0.257849",
+          "ticker_sentiment_label": "Somewhat-Bullish"
+        }
+      ]
+    },
+    {
+      "title": "Intel Unleashes RealSense-New AI, Robotics Player Scores Huge Investment - Intel  ( NASDAQ:INTC ) ",
+      "url": "https://www.benzinga.com/markets/tech/25/07/46372526/intel-unleashes-realsense-new-ai-robotics-player-scores-huge-investment",
+      "time_published": "20250711T163207",
+      "authors": ["Erica Kollmann"],
+      "summary": "Intel announces it has separated its AI, robotics and biometric business, RealSense, into an independent company. Nadav Orbach, who previously led innovation at Intel, will become RealSense's CEO. Get daily-updated rankings across momentum, growth, value, trends, and quality to spot the ...",
+      "banner_image": "https://cdn.benzinga.com/files/images/story/2025/07/11/Intel.jpeg?width=1200&height=800&fit=crop",
+      "source": "Benzinga",
+      "category_within_source": "Trading",
+      "source_domain": "www.benzinga.com",
+      "topics": [
+        {
+          "topic": "Financial Markets",
+          "relevance_score": "0.87644"
+        },
+        {
+          "topic": "Manufacturing",
+          "relevance_score": "0.5"
+        },
+        {
+          "topic": "Mergers & Acquisitions",
+          "relevance_score": "0.158519"
+        },
+        {
+          "topic": "Finance",
+          "relevance_score": "0.5"
+        }
+      ],
+      "overall_sentiment_score": 0.281175,
+      "overall_sentiment_label": "Somewhat-Bullish",
+      "ticker_sentiment": [
+        {
+          "ticker": "NVDA",
+          "relevance_score": "0.183198",
+          "ticker_sentiment_score": "0.131798",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "TSLA",
+          "relevance_score": "0.183198",
+          "ticker_sentiment_score": "0.131798",
+          "ticker_sentiment_label": "Neutral"
+        },
+        {
+          "ticker": "INTC",
+          "relevance_score": "0.702807",
+          "ticker_sentiment_score": "0.393266",
+          "ticker_sentiment_label": "Bullish"
+        },
+        {
+          "ticker": "MS",
+          "relevance_score": "0.092213",
+          "ticker_sentiment_score": "0.12933",
+          "ticker_sentiment_label": "Neutral"
+        }
+      ]
+    }
+  ]
+}
