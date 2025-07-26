@@ -3,41 +3,64 @@ import json
 import random
 from datetime import datetime
 
-DATA_DIR = "data"
+# 设置目录
+DATA_DIR = os.path.join("data", "cryptos")
 os.makedirs(DATA_DIR, exist_ok=True)
 
-symbols = ["AAPL", "GOOG", "MSFT", "AMZN", "TSLA", "META", "NVDA", "BABA", "NFLX", "INTC"]  # 可自行扩展
+# 加密货币符号和名称映射
+crypto_info = {
+    "BTC": "Bitcoin",
+    "ETH": "Ethereum",
+    "BNB": "BNB",
+    "SOL": "Solana",
+    "XRP": "Ripple",
+    "ADA": "Cardano",
+    "DOGE": "Dogecoin",
+    "AVAX": "Avalanche",
+    "TRX": "TRON",
+    "LINK": "Chainlink",
+    "TON": "Toncoin",
+    "DOT": "Polkadot",
+    "MATIC": "Polygon",
+    "SHIB": "Shiba Inu",
+    "LTC": "Litecoin",
+    "UNI": "Uniswap",
+    "ETC": "Ethereum Classic",
+    "XLM": "Stellar",
+    "APT": "Aptos",
+    "ICP": "Internet Computer"
+}
 
-today = datetime.now().strftime("%Y-%m-%d")
+today = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-for symbol in symbols:
-    open_price = round(random.uniform(100, 300), 4)
-    high_price = round(open_price + random.uniform(0, 10), 4)
-    low_price = round(open_price - random.uniform(0, 10), 4)
-    price = round(random.uniform(low_price, high_price), 4)
-    prev_close = round(open_price + random.uniform(-5, 5), 4)
-    change = round(price - prev_close, 4)
-    change_percent = f"{(change / prev_close * 100):.4f}%"
-    volume = random.randint(1000000, 100000000)
+for symbol, name in crypto_info.items():
+    # 模拟价格生成
+    open_price = round(random.uniform(100, 300), 2)
+    high_price = round(open_price + random.uniform(0, 10), 2)
+    low_price = round(open_price - random.uniform(0, 10), 2)
+    price = round(random.uniform(low_price, high_price), 2)
+    prev_close = round(open_price + random.uniform(-5, 5), 2)
+    change = round(price - prev_close, 2)
+    change_percent = round((change / prev_close) * 100, 2)
+    volume = random.randint(1_000_000, 100_000_000)
 
+    # 构造数据
     data = {
-        "Global Quote": {
-            "01. symbol": symbol,
-            "02. open": f"{open_price:.4f}",
-            "03. high": f"{high_price:.4f}",
-            "04. low": f"{low_price:.4f}",
-            "05. price": f"{price:.4f}",
-            "06. volume": str(volume),
-            "07. latest trading day": today,
-            "08. previous close": f"{prev_close:.4f}",
-            "09. change": f"{change:.4f}",
-            "10. change percent": change_percent
-        }
+        "code": symbol,
+        "name": name,
+        "timestamp": today,
+        "open": open_price,
+        "high": high_price,
+        "low": low_price,
+        "prev_close": prev_close,
+        "change_percent": f"{change_percent}%",
+        "volume": volume
     }
 
-    filename = f"{symbol}_NEWS_SENTIMENT_STOCKS.json"
+    # 保存为 JSON 文件
+    filename = f"{symbol}_CRYPTO_LAST_PRICE.json"
     filepath = os.path.join(DATA_DIR, filename)
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-print("Mock stock data generated.")
+print("✅ Mock crypto data with names generated in /data/cryptos/")
