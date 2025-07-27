@@ -9,7 +9,7 @@ DATA_DIR = os.path.join("data", "commodities")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 functions = ["WTI", "BRENT", "NATURAL_GAS", "COPPER", "ALUMINUM", "WHEAT", "CORN", "COTTON", "COFFEE", "SUGAR"]
-intervals = ["monthly", "quarterly", "annual"]
+intervals = ["daily", "weekly"]
 API_KEY = "ODQ7Q5K7RG72G8SW"
 BASE_URL = "https://www.alphavantage.co/query"
 
