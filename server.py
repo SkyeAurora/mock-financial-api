@@ -40,6 +40,22 @@ def queryCryptos():
     else:
         abort(404, description=f"No mock data found for {filename}")
 
+@app.route('/commodities')
+def queryCommodities():
+    function = request.args.get('function')
+    interval = request.args.get('interval')
+    # apikey = request.args.get('apikey')
+
+    filename = f"{function}_{interval}.json"
+    filepath = os.path.join(DATA_DIR + "/commodities", filename)
+
+    if os.path.exists(filepath):
+        with open(filepath, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        return jsonify(data)
+    else:
+        abort(404, description=f"No mock data found for {filename}")
+
 
 if __name__ == '__main__':
     app.run(port=5555, debug=True)
