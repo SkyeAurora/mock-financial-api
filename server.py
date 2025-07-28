@@ -13,7 +13,7 @@ def queryStocks():
     tickers = request.args.get('tickers')
     # apikey = request.args.get('apikey')
 
-    filename = f"{symbol}_{function}_STOCKS.json" if symbol else f"{tickers}_{function}_STOCKS.json"
+    filename = f"{symbol}_{function}.json" if symbol else f"{tickers}_{function}.json"
     filepath = os.path.join(DATA_DIR + "/stocks", filename)
 
     if os.path.exists(filepath):
