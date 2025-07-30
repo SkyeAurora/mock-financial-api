@@ -1,14 +1,14 @@
 {
   "Global Quote": {
     "01. symbol": "MSFT",
-    "02. open": "245.3859",
-    "03. high": "249.4526",
-    "04. low": "241.8982",
-    "05. price": "248.7623",
-    "06. volume": "58389522",
-    "07. latest trading day": "2025-07-25",
-    "08. previous close": "245.4169",
-    "09. change": "3.3454",
-    "10. change percent": "1.3631%"
+    "02. open": "515.5300",
+    "03. high": "517.6200",
+    "04. low": "511.5600",
+    "05. price": "512.5700",
+    "06. volume": "16406769",
+    "07. latest trading day": "2025-07-29",
+    "08. previous close": "512.5000",
+    "09. change": "0.0700",
+    "10. change percent": "0.0137%"
   }
 }

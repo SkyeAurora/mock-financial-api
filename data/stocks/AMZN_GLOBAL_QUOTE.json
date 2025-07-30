@@ -1,14 +1,14 @@
 {
   "Global Quote": {
     "01. symbol": "AMZN",
-    "02. open": "127.2547",
-    "03. high": "136.0916",
-    "04. low": "122.4732",
-    "05. price": "129.0457",
-    "06. volume": "38728536",
-    "07. latest trading day": "2025-07-25",
-    "08. previous close": "130.1103",
-    "09. change": "-1.0646",
-    "10. change percent": "-0.8182%"
+    "02. open": "234.1500",
+    "03. high": "234.7200",
+    "04. low": "230.3100",
+    "05. price": "231.0100",
+    "06. volume": "33195946",
+    "07. latest trading day": "2025-07-29",
+    "08. previous close": "232.7900",
+    "09. change": "-1.7800",
+    "10. change percent": "-0.7646%"
   }
 }
